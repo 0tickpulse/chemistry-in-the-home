@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec-soaps" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Soaps</title>
+
+  <introduction>
+    <p>
+      In the previous section, we established that hydrophobic residues, like oils, stay on your hand when treated with water.
+      But the moment you introduce soap, they wash off immediately.
+      Why?
+    </p>
+  </introduction>
+
+  <subsection xml:id="subsec-soaps-are-amphiphilic-molecules">
+    <title>Soaps are Amphiphilic Molecules</title>
+
+    <p>
+      Soap molecules have a distinctive property that make them excellent for cleaning purposes.
+      A soap molecule is a long, linear chain of atoms.
+      One end of it is very polar and hydrophilic, while the other end of it is hydrophobic.
+      <idx><h>soap</h></idx>
+    </p>
+
+    <p>
+      The hydrophilic side (the head) typically contains a group of atoms called a <term>carboxylate</term>, which is negatively charged.
+      The rest of the molecule (the tail) is a long chain of atoms called a <term>hydrocarbon chain</term>, similar to those in oil molecules.
+      <idx><h>carboxylate</h></idx> <idx><h>hydrocarbon</h></idx>
+    </p>
+
+    <figure xml:id="fig-soap-structure">
+      <caption>The chemical structure of soap.</caption>
+      <image source="images/ch-01-handwashing/sec-soaps/soap-structure.png" width="70%"/>
+    </figure>
+
+    <p>
+      Naturally, the soap molecule will arrange itself such that one side faces water molecules, and the other faces oils (this side is also called <term>lipophilic</term> for <em>oil-loving</em> ).
+      <idx><h>lipophilic</h></idx>
+    </p>
+
+    <p>
+      The fact that the soap molecule has hydrophilic and hydrophobic/lipophilic ends has a name <mdash/> soap molecules are <term>amphiphilic</term> (for <em>both-loving</em> ).
+      <idx><h>amphiphilic</h></idx>
+    </p>
+  </subsection>
+
+  <subsection xml:id="subsec-soaps-form-spherical-clusters-called-micelles-when-dissolved-in-water">
+    <title>Soaps Form Spherical Clusters Called Micelles When Dissolved in Water</title>
+
+    <p>
+      When you add soap to water, the hydrophilic heads are highly attracted to water, and the hydrophobic tails get pushed away from water molecules.
+    </p>
+
+    <p>
+      To minimize contact with water, soap molecules spontaneously assemble into tiny spherical clusters known as <term>micelles</term>.
+      In a micelle, the hydrophobic tails point inwards towards the center, while the hydrophilic heads point outwards towards the surrounding water molecules ( <xref ref="fig-soap-micelles"/> ).
+    </p>
+
+    <figure xml:id="fig-soap-micelles">
+      <caption>A two-dimensional cross section of a micelle formed from soap molecules. The inner layer traps hydrophobic residues, while the negatively-charged outer layer is attracted to the polar water molecules.</caption>
+      <image source="images/ch-01-handwashing/sec-soaps/soap-micelles.png" width="80%"/>
+    </figure>
+
+    <p>
+      When you scrub your hand, you break the popcorn oil layer on your skin into tiny droplets, which then get trapped in these micelle cages.
+    </p>
+    <!-- Figure showing micelle trapping hydrophobic stuff -->
+    <p>
+      As the outer layer of the micelle is hydrophilic, the micelle (containing hydrophobic residues) gets easily washed away into the drain.
+    </p>
+  </subsection>
+
+  <subsection xml:id="subsec-soaps-are-surfactants-that-lower-surface-tension">
+    <title>Soaps are Surfactants That Lower Surface Tension</title>
+
+    <p>
+      The story does not end with micelles.
+      Due to the immense hydrogen bonds in the water, it has a significant amount of surface tension (recall <xref ref="example-water-droplets-on-wax-paper"/> ).
+      This means that it is difficult for water to reach and penetrate tiny crevices in your skin.
+    </p>
+    <!-- Figure showing soap molecules cutting through water and allowing it to reach crevices -->
+    <p>
+      Soaps help by crowding around the water's surface, interrupting the tight hydrogen bonds between water molecules.
+      This significantly lowers the surface tension.
+      For this reason, soap is also called a <term>surfactant</term>, short for <em>surface-active agents</em> <mdash/> something that lowers the surface tension of the substance in which it is dissolved.
+      <idx><h>surfactant</h></idx>
+    </p>
+
+    <p>
+      Specifically, since the carboxylate head is negatively charged, soaps are <term>anionic surfactants</term> (anionic means negatively charged).
+      <idx><h>surfactant</h><h>anionic</h></idx>
+    </p>
+
+    <example xml:id="example-make-pepper-move">
+      <title>Make Pepper Move</title>
+
+      <statement>
+        <p>
+          Sprinkle some pepper evenly onto a bowl of water.
+          Dip a Q-tip or a toothpick in soap, and place it into the center of the bowl.
+          What happens?
+          Why?
+        </p>
+      </statement>
+
+      <solution>
+        <p>
+          The pepper instantly shoots outward toward the edges of the bowl.
+        </p>
+
+        <p>
+          This happens because the soap breaks the high surface tension at the center of the water bowl.
+          The remaining water around the edges still has high surface tension and pulls the water (and floating pepper) away from the soap drop.
+        </p>
+      </solution>
+    </example>
+  </subsection>
+
+  <subsection xml:id="subsec-soaps-remove-microbes-through-various-mechanisms">
+    <title>Soaps Remove Microbes Through Varying Mechanisms</title>
+
+    <p>
+      In addition to dirt and other residues on your skin, there are microbes such as bacteria, viruses, and some fungi.
+      Their cellular structures vary significantly, and soaps are able to kill or remove them to varying efficacy.
+      There are two main categories of mechanisms by which soaps do so: (1) by trapping microbes in micelles, and (2) by disrupting the chemical structure of microbes.
+      <idx><h>microbe</h></idx> <idx><h>bacteria</h></idx> <idx><h>virus</h></idx> <idx><h>fungi</h></idx>
+    </p>
+
+    <p>
+      Many microbial cells are encased by a structure similar to a soap micelle, known as a <term>lipid bilayer</term>.
+      Viruses with lipid bilayers include coronaviruses (like Sars-CoV-2), influenza, human immunodeficiency virus (HIV), and herpes.
+      <idx><h>coronavirus</h></idx> <idx><h>Sars-CoV-2</h></idx> <idx><h>influenza</h></idx> <idx><h>human immunodeficiency virus</h></idx> <idx><h>herpes</h></idx>
+    </p>
+
+    <p>
+      If you only wash your hand with water, these microbes remain trapped in skin oils and survive completely intact.
+      On the other hand, the moment you introduce soap, the molecules insert themselves (this is called <term>adsorption</term> ) into the microbes' bilayers and completely destroy them.
+    </p>
+
+    <p>
+      For non-enveloped viruses without a lipid bilayer (like the norovirus or the rhinovirus, which causes the common cold), soaps cannot kill them directly.
+      However, they still help remove the viruses by stripping away the oils that they cling to, allowing them to be flushed away with water.
+    </p>
+
+    <p>
+      Many other microbes, as well as bacterial spores and cysts, do not get directly chemically inactivated.
+      Nevertheless, the physical lifting power of soap help remove them.
+    </p>
+  </subsection>
+</section>

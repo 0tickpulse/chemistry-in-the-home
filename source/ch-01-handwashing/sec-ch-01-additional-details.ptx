@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec-ch-01-additional-details" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Additional Details</title>
+
+  <introduction>
+    <p>
+      Every chapter will have a section like this for readers who are more curious about how the chemistry works.
+      We will be digging deeper and discussing more fundamental and theoretical concepts in these sections.
+      They may safely be skipped.
+    </p>
+  </introduction>
+
+  <subsection xml:id="subsec-atoms-are-the-most-stable-when-their-outermost-shells-are-full">
+    <title>Atoms are the Most Stable When Their Outermost Shells are Full</title>
+
+    <p>
+      Why do some atoms attract electrons more?
+      And more importantly, why do bonds form at all?
+      The fundamental idea is that <term>atoms like to have full electron shells</term>.
+      Electrons in atoms are arranged in shells, with the first three shells having two, eight, and eight electrons respectively.
+      The electrons in the outermost shell are known as <term>valence electrons</term>, with the rest being <term>core electrons</term>.
+      <idx><h>valence electrons</h></idx> <idx><h>core electrons</h></idx>
+    </p>
+
+    <p>
+      Due to certain quantum mechanical reasons, atoms are most stable when they have a maximum number of valence electrons.
+      A lot of chemistry happens in the second and third electron shells, where an octet (8 electrons) is the most stable.
+      This is why this fundamental rule is often known as the <term>octet rule</term>.
+    </p>
+
+    <p>
+      Bonding occurs to fulfill the octet rule.
+      For instance, in <m>\ce{NaCl}</m>, sodium has one valence electron, and it would be easiest to lose that electron (since the lower shell, which would become the outermost shell after losing that electron, is already full).
+      Chlorine has seven valence electrons, and would readily gain an electron to fill its octet.
+      <em>Perfect!</em> Sodium simply needs to give its extra electron to chlorine, forming an ionic bond.
+    </p>
+
+    <p>
+      A covalent bond is similar.
+      Imagine two oxygen atoms, both bearing six valence electrons.
+      Each could share two electrons with the other atom, giving each atom a full octet.
+      Notice that for a covalent bond to form, <em>both</em> atoms must be close to filling a full shell.
+      In an ionic bond, one of the atoms is close to a full shell, whereas the other has a low amount of valence electrons.
+    </p>
+  </subsection>
+
+  <subsection xml:id="subsec-polarity-is-based-on-the-electronegativity-of-atoms">
+    <title>Polarity is Based on the Electronegativity of Atoms</title>
+
+    <!-- stub (introduce electronegativity, Van Arkel-Ketelaar triangle, metals/nonmetals) -->
+    <p>
+      There is a quantity associated with how much an atom likes to hog electrons <mdash/> the atom's <term>electronegativity</term>.
+      Labeled with the Greek letter <foreign>chi</foreign>, <m>\chi</m>, it ranges from 0.79 for the least electronegative atom (cesium) to 3.98 for the most (fluorine).
+      Generally speaking, electronegativity rises as you head to the upper-right corner of the periodic table.
+      In particular, nitrogen, oxygen, and fluorine are very electronegative atoms that we will see a lot in this text.
+    </p>
+
+    <p>
+      The difference in electronegativity between two atoms is what accounts for the polarity of a covalent bond between them.
+      Oxygen ( <m>\chi = 3.44</m> ) and hydrogen ( <m>\chi = 2.20</m> ) have a electronegativity difference of <m>1.24</m>, which is significant enough for <m>\ce{O-H}</m> to be considered a polar bond.
+      If the electronegativity difference is high enough, such as in the case of sodium ( <m>\chi = 0.93</m> ) chloride ( <m>\chi = 3.16</m> ), we treat the bond as an ionic bond.
+      <idx><h>ionic bond</h></idx>
+    </p>
+
+    <p>
+      When the electronegativity difference is low, the bond is nonpolar.
+      This can happen in two ways.
+      First, atoms share electrons to complete an octet <mdash/> this is the <em>covalent bond</em> we are familiar with.
+      Second, atoms let go of their electrons to form a <q>sea</q> of electrons that can move around <mdash/> this is known as <term>metallic bonding</term>.
+      Generally, covalent bonds form when it is easier to <em>gain</em> electrons to form an octet, whereas metallic bonds form when it is easier to <em>lose</em> electrons to empty the outermost electron shell.
+      <idx><h>bond</h><h>metallic</h></idx>
+    </p>
+  </subsection>
+
+  <subsection xml:id="subsec-the-geometry-of-a-molecule-is-approximated-by-vsepr-theory">
+    <title>The Geometry of a Molecule is Approximated by VSEPR Theory</title>
+
+    <p>
+      Now that we have covered how bonds form, we still need to understand why molecules are shaped in certain ways <mdash/> why is water ( <m>\ce{H2O}</m> ) bent but carbon dioxide ( <m>\ce{CO2}</m> ) linear?
+      The three-dimensional structure of molecules plays an incredibly important role in determining how they interact with one another <mdash/> we saw this with water and soap.
+    </p>
+
+    <p>
+      Of course, the most reliable way to determine a molecule's geometry is to just observe a sample of the molecule.
+      But there are some convenient frameworks for approximating the geometry, the simplest of which is <term>valence shell electron pair repulsion</term> theory, or VSEPR theory.
+      The theory is based on the idea that electrons repel each other, so atoms arrange themselves such that their electrons are as far away from one another as possible.
+      <idx><h>valence shell electron pair repulsion theory</h><see>VSEPR theory</see></idx> <idx><h>VSEPR theory</h></idx>
+    </p>
+
+    <p>
+      To use this framework, we need to account for all the valence electrons in a molecule, as well as the electrons within bonds.
+      We count these in pairs.
+      In water ( <m>\ce{H2O}</m> ) for instance, the oxygen has two lone (unbonded) pairs and two bonds, totaling four pairs.
+      The most effective arrangement of four pairs to minimize repulsion is a <em>tetrahedral</em> structure.
+    </p>
+    <!-- TODO: figure of a tetrahedral geometry -->
+    <p>
+      The tetrahedral structure is said to be the <term>electron geometry</term> of the molecule.
+      But when we actually consider the arrangements of the atoms, only the positions of the bonds matter, not the lone pairs.
+      When only considering these bonds, we say that the <term>molecular geometry</term> of water is a <term>bent</term> shape.
+      <idx><h>electron geometry</h></idx> <idx><h>molecular geometry</h></idx> <idx><h>bent shape</h></idx>
+    </p>
+    <!-- TODO: vsepr chart -->
+  </subsection>
+
+  <subsection xml:id="subsec-ph-is-a-measure-of-proton-concentration">
+    <title>pH is a Measure of Proton Concentration</title>
+
+    <!-- stub -->
+    <p>
+      We mentioned pH briefly in <xref ref="subsec-traditional-soaps-are-highly-alkaline"/>, but I did not explicitly define <em>what</em> pH actually is.
+      It has to do with the concentration of protons in a solution, measured in moles per liter (1 mole is <m>6.022 \times 10^{23}</m> atoms or ions).
+      The higher the proton concentration, the more acidic a solution is.
+    </p>
+
+    <p>
+      By the way, a proton is the same as a <m>\ce{H+}</m> ion.
+      A hydrogen atom has one proton and one electron; if we remove one electron, we simply have a proton remaining.
+      Therefore, <m>\ce{H+}</m> is used synonymously with <q>proton</q>.
+      The concentration of something is written with square brackets, so the proton concentration will be written as <m>[\ce{H+}]</m>.
+    </p>
+
+    <p>
+      Typically, proton concentration is best written in powers of ten, such as <m>10^{-5}</m> or <m>10^{-4}</m> (with higher/less negative powers indicating higher concentration).
+      As a shortcut, we just write the number in the exponent, in this case 5 and 4, to indicate the concentration.
+      This number is called the <term>pH</term>.
+      <idx><h>pH</h></idx>
+    </p>
+
+    <p>
+      By the way, the letter <q>p</q> appears a lot in other values, and it represents the same process of extracting the negative exponent in a power of 10.
+      This process is also called a <term>logarithm</term>, so the pH can be written as
+      <md>
+        p\ce{H} = -\log_{10}([\ce{H+}])
+      </md>.
+    </p>
+  </subsection>
+</section>

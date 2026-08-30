@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<chapter xml:id="ch-02-haircare" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Hair Care</title>
+
+  <!-- include sections -->
+  <xi:include href="./ch-02-haircare/sec-the-structure-of-hair.ptx" />
+  <xi:include href="./ch-02-haircare/sec-shampoos.ptx" />
+</chapter>

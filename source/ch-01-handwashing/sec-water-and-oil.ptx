@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec-water-and-oil" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Water and Oil</title>
+
+  <introduction>
+    <p>
+      You just finished a bucket of buttered popcorn.
+      You run your hands under warm tap water, rub them, and...
+      nothing happens.
+      Your hands are still slick, and the water just beads up and rolls off.
+    </p>
+
+    <p>
+      Now sprinkle some salt on your hand, and watch it get instantly dissolved by the same water.
+      Why?
+    </p>
+  </introduction>
+
+  <subsection xml:id="subsec-water-is-polar">
+    <title>Water is Polar</title>
+
+    <p>
+      To understand why tap water simply bounces off your oily hand, we have to zoom in on what water actually is.
+      If you have seen the symbols <m>\ce{H2O}</m>, you know that a single water molecule is made of two hydrogen ( <m>\ce{H}</m> ) atoms and one oxygen ( <m>\ce{O}</m> ) atom.
+      The dynamics between three atoms lead to a property called <term>polarity</term>, in which one side of the molecule is positively charged, and the other is negatively charged.
+      <idx><h>polarity</h></idx>
+    </p>
+    <aside>
+      <title>Why is water polar?</title>
+
+      <p>
+        The atoms in water are bonded through <term>covalent bonds</term>.
+        In a covalent bond, negatively charged particles called <term>electrons</term> are shared between the atoms.
+        Oxygen is a notorious electron hog, and tends to pull electrons towards itself.
+        This causes the electrons in the covalent bonds to cluster towards the oxygen, leaving the oxygen atom with a slight negative charge (we label this <m>\delta^{-}</m> ).
+        The stripped hydrogens are left with a slight positive charge (we label this <m>\delta^{+}</m> ).
+        <idx><h>bond</h><h>covalent</h></idx> <idx><h>electron</h></idx>
+      </p>
+
+      <p>
+        Water molecules are shaped like the letter V, or a pair of Mickey Mouse ears.
+        We call this a <term>bent geometry</term>, and in our context it means that the positive and negative charges don't cancel each other out.
+        One side of the molecule is distinctively negative, the other side distinctively positive.
+        This is precisely what polarity is <mdash/> the separation of charge in a molecule.
+        <idx><h>bent (geometry)</h></idx>
+      </p>
+    </aside>
+
+    <figure xml:id="fig-water-polar">
+      <caption>The source of water's polarity. The blue dotted lines represent hydrogen bonds between adjacent water molecules.</caption>
+      <image source="images/ch-01-handwashing/sec-water-and-oil/water-polar.png" width="65%"/>
+    </figure>
+
+    <p>
+      A fundamental property of charged objects is that opposite charges like to attract, and like charges repel.
+      In this sense, a water molecule is like a tiny bar magnet, whose poles are attracted to opposite poles of other water molecules (bottom of <xref ref="fig-water-polar"/> ).
+      As one of the atoms involved is hydrogen, we call the attraction between water molecules <term>hydrogen bonding</term>.
+      <idx><h>bond</h><h>hydrogen</h></idx>
+    </p>
+    <aside>
+      <p>
+        Just to clarify, hydrogen bonds are fundamentally different from covalent bonds, despite them both having <q>bond</q> in their names.
+        Covalent bonds involve sharing electrons, whereas hydrogen bonds are simply attractive forces.
+        We say that a molecule consists of atoms (typically) covalently bonded together, and different molecules may attract each other via hydrogen bonds.
+        These are called <term>intermolecular forces</term>.
+        As hydrogen bonds are weaker than covalent bonds, they do not make molecules.
+        <idx><h>intermolecular forces</h></idx>
+      </p>
+    </aside>
+  </subsection>
+
+  <subsection xml:id="subsec-oils-are-not-polar">
+    <title>Oils are Not Polar</title>
+
+    <p>
+      In contrast to water, fats and oils are typically just long chains of carbon and hydrogen atoms that share electrons evenly.
+      Due to the lack of polar bonds, oil molecules have no positive or negative side.
+    </p>
+
+    <figure xml:id="fig-oil-nonpolar">
+      <caption>Unlike water, oil molecules do not have bonds that make them overall polar. The comparison on the bottom shows the presence and absence of strong cohesive forces in water and oil molecules, respectively.</caption>
+      <image source="images/ch-01-handwashing/sec-water-and-oil/oil-nonpolar.png" width="65%"/>
+    </figure>
+
+    <p>
+      This means that there is no strong force of attraction between oil molecules (this is called <term>cohesion</term>; see <xref ref="fig-oil-nonpolar"/> ).
+      <idx><h>cohesion</h></idx>
+    </p>
+
+    <example xml:id="example-water-droplets-on-wax-paper">
+      <p>
+        One easy way to show that water and oil differ a lot in their cohesion is as follows.
+      </p>
+
+      <p>
+        Grab a single drop of water and place it on wax paper.
+        Do the same with a drop of cooking oil.
+        You will notice that the water drop is much more tall and dome-shaped ( <xref ref="fig-water-oil-surface-tension"/> ).
+        This is because the strong hydrogen bonds in the water make the waterdrop pull in on itself.
+        This is called <term>surface tension</term>.
+        In contrast, the oil drop spreads out flatly due to the absence of hydrogen bonds.
+        <idx><h>surface tension</h></idx>
+      </p>
+    </example>
+
+    <figure xml:id="fig-water-oil-surface-tension">
+      <caption>Water and oil drops are shaped differently when placed on wax paper due to the presence of surface tension in the water.</caption>
+      <image source="images/ch-01-handwashing/sec-water-and-oil/water-oil-surface-tension.png" width="65%"/>
+    </figure>
+  </subsection>
+
+  <subsection xml:id="subsec-salts-take-polarity-to-the-extreme">
+    <title>Salts Take Polarity to the Extreme</title>
+
+    <p>
+      In a salt, two atoms bond to each other.
+      One of the atoms hogs the electrons so fiercely that instead of sharing electrons, the atom essentially takes them from the other atom.
+      For example, the table salt you use is formed by sodium ( <m>\ce{Na}</m> ) and chlorine ( <m>\ce{Cl}</m> ).
+      The chlorine atom takes one electron from sodium.
+    </p>
+
+    <p>
+      In a polar covalent bond, like in water, the electron spends more time in one of the atoms.
+      There are only <em>partial</em> charges in the atoms.
+      But in <m>\ce{NaCl}</m>, there is a distinctive extra electron that spends all its time around <m>\ce{Cl}</m>, meaning it has a <em>full</em> negative charge.
+      We can emphasize this by writing chlorine as <m>\ce{[Cl]^-}</m>.
+      Likewise, with a missing electron, the sodium has a <em>full</em> positive charge, so we write it as <m>\ce{[Na]^+}</m>.
+    </p>
+
+    <figure xml:id="fig-salt-ionic">
+      <caption>A salt, like <m>\ce{NaCl}</m>, has one atom taking electrons from another atom, in contrast to covalent bonds.</caption>
+      <image source="images/ch-01-handwashing/sec-water-and-oil/salt-ionic.png" width="65%"/>
+    </figure>
+
+    <p>
+      Something with a full charge is called an <term>ion</term>.
+      Due to the fact that <m>\ce{NaCl}</m> contains full charges, the bonds between the atoms are much stronger than the hydrogen bonds between water.
+      We call these bonds <term>ionic bonds</term>.
+      <idx><h>bond</h><h>ionic</h></idx>
+    </p>
+  </subsection>
+
+  <subsection xml:id="subsec-polar-substances-only-dissolve-other-polar-substances">
+    <title>Polar Substances Only Dissolve Other Polar Substances</title>
+
+    <p>
+      The reason water separates itself from oils is that the polar water molecules cling onto themselves so tightly that the nonpolar oil molecules get physically squeezed out.
+      Water does not "hate" oil, it just loves itself too much to make any room for oil.
+      For this reason, oil is called <term>hydrophobic</term> (i.e., <em>water fearing</em> ).
+      <idx><h>hydrophobic</h></idx>
+    </p>
+
+    <figure xml:id="fig-water-oil-separation">
+      <caption>Water and oil separate into clean layers since oil is hydrophobic. In the zoom-in on the image, water molecules are shown exerting cohesive forces on each other and pushing oil molecules out.</caption>
+      <image source="images/ch-01-handwashing/sec-water-and-oil/water-oil-separation.png" width="65%"/>
+    </figure>
+
+    <p>
+      On the other hand, the <m>\ce{[Na]^+}</m> and <m>\ce{[Cl]^-}</m> ions are highly attracted to the polar water molecules, causing the salt to easily dissolve in the water.
+      The positive sodium ions get held by the partially negative oxygen end of the water molecule; the negative chlorine ions get held by the partially positive hydrogen end of the water molecule.
+      For this reason, table salt is called <term>hydrophilic</term> (i.e., <em>water loving</em> ).
+      <idx><h>hydrophilic</h></idx>
+    </p>
+
+    <example>
+      <statement>
+        <p>
+          Grab some water and vegetable oil again, and optionally some table salt.
+        </p>
+
+        <p>
+          If you place the salt in the water, it easily dissolves.
+          On the other hand, if you pour the oil, the water and oil separate cleanly into different layers.
+        </p>
+
+        <p>
+          Now stir the water and oil vigorously.
+          What happens?
+          Why?
+        </p>
+      </statement>
+
+      <solution>
+        <p>
+          Initially, the stirring forces the water and oil to mix.
+          But they immediately separate again.
+        </p>
+
+        <p>
+          This is because the hydrophobic oil gets pushed out by water molecules that try to stick together.
+        </p>
+      </solution>
+    </example>
+
+    <p>
+      This is why your popcorn oil does not wash off with just water.
+      The oil is hydrophobic and stays on your hand, forming a small layer above the skin.
+      When water molecules reach your hand, they simply slide right off the oil layer.
+    </p>
+
+    <p>
+      In order to clean your hand thoroughly, you will need a way to wash off hydrophobic residues like oil.
+      One such way is to use <term>soaps</term>.
+    </p>
+  </subsection>
+</section>

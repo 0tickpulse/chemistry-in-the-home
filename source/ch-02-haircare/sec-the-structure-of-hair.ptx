@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec-the-structure-of-hair" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>The Structure of Hair</title>
+
+  <introduction>
+    <p>
+      In <xref ref="ch-01-handwashing"/>, we treated the skin simply as a surface with an oil layer and dirt particles to be cleaned.
+      But to truly understand how hair care works, we have to treat hair as more than a surface and gain a deeper understanding of the integumentary system.
+    </p>
+
+    <p>
+      Through this enhanced understanding, we will be able to understand ideas like why healthy hair looks shiny and smooth, whereas damaged or freshly washed hair looks frizzy and dull.
+    </p>
+  </introduction>
+
+  <subsection xml:id="subsec-hair-primarily-consists-of-keratin-fibers">
+    <title>Hair Primarily Consists of Keratin Fibers</title>
+
+    <p>
+      Both the skin and hair, as well as nails, are part of a system in the body called the <term>integumentary system</term>.
+      This system consists of all the things that cover and protect your body.
+      <idx><h>integumentary system</h></idx>
+    </p>
+
+    <figure xml:id="fig-three-layers-of-hair">
+      <caption>The three main layers of human hair, consisting of the cuticle, cortex, and medulla.</caption>
+      <image source="images/ch-02-haircare/sec-the-structure-of-hair/three-layers-of-hair.png" width="60%"/>
+    </figure>
+
+    <p>
+      Hair grows from a hair follicle inside of the skin, but we will only be concerned with the exposed part of hair <mdash/> the <term>hair shaft</term>.
+      Starting from the outermost layer, a hair shaft consists of three distinct layers:
+      <ol>
+        <li>
+          <p>
+            The <term>cuticle</term> contains a few layers of dead cells that protect the inner layers.
+            They are shaped like an armored pinecone.
+            When the scales lie flat, hair reflects light (shine) and glides smoothly.
+            Otherwise, the hair tangles, feels rough, and looks dull.
+            <idx><h>hair</h><h>cuticle</h></idx>
+          </p>
+        </li>
+
+        <li>
+          <p>
+            The <term>cortex</term>, which makes up most of the hair's mass, is composed of something called <term>keratin</term>.
+            <idx><h>hair</h><h>cortex</h></idx> <idx><h>keratin</h></idx>
+          </p>
+        </li>
+
+        <li>
+          <p>
+            The <term>medulla</term> makes up the center of the strand.
+            <idx><h>hair</h><h>medulla</h></idx>
+          </p>
+        </li>
+      </ol>
+      <idx><h>hair shaft</h></idx>
+    </p>
+
+    <p>
+      Much of the physical properties of hair have to do with what keratin actually is <mdash/> a <term>protein</term>.
+      In chemistry, we define a protein as a chain of small residues called <term>amino acids</term>.
+      The amino acids are connected via covalent bonds (which are discussed in <xref ref="subsec-water-is-polar"/> ) called <term>peptide bonds</term>.
+      <idx><h>protein</h></idx> <idx><h>amino acid</h></idx> <idx><h>peptide bond</h></idx>
+    </p>
+
+    <figure xml:id="fig-amino-acid-structure">
+      <caption>The atomic structure of amino acids. As the exact chemical structure of an individual amino acid is unimportant for this section, we will just use colored circles to denote them.</caption>
+      <image source="images/ch-02-haircare/sec-the-structure-of-hair/amino-acid-structure.png" width="60%"/>
+    </figure>
+
+    <p>
+      There are many different types of amino acids, each having a full name, a three-letter abbreviation, or a single-letter ID.
+      They have vastly different properties, such as their hydrophilicity.
+      The identity of these amino acids determines how the protein is structured in three dimensions.
+    </p>
+    <!-- TODO: figure of amino acid chain forming a coiled coil motif -->
+    <p>
+      Keratin, specifically, is structured as a superhelix <mdash/> imagine the chain of amino acids forming a helix, and then that helix forming a bigger helix along its axis, bundled like a rope.
+      The superhelix structure enables keratin to be <em>extremely</em> strong.
+      A two-inch thick rope of human hair can support a small car.
+      <idx><h>superhelix</h></idx>
+    </p>
+
+    <figure xml:id="fig-keratin-superhelices">
+      <caption>Keratin proteins first coil to form a helix, and then the helix coils around itself again to form a superhelix.</caption>
+      <image source="images/ch-02-haircare/sec-the-structure-of-hair/keratin-superhelices.png" width="60%"/>
+    </figure>
+  </subsection>
+
+  <subsection xml:id="subsec-hydrogen-bonds-account-for-the-temporary-structure-of-hair">
+    <title>Hydrogen Bonds Account for the Temporary Structure of Hair</title>
+
+    <p>
+      Recall that hydrogen bonds are attractive forces between hydrogen and another atom that likes to hog electrons.
+      Every amino acid contains an exposed hydrogen atom <mdash/> therefore, hydrogen bonding can occur within the protein.
+      <idx><h>amino acid</h></idx>
+    </p>
+
+    <figure xml:id="fig-hydrogen-bonds-between-amino-acids">
+      <caption>Hydrogen bonds form between chains of amino acids, and are disrupted in the presence of water.</caption>
+      <image source="images/ch-02-haircare/sec-the-structure-of-hair/hydrogen-bonds-between-amino-acids.png" width="75%"/>
+    </figure>
+
+    <p>
+      This hydrogen bonding accounts for much of the hair's temporary structure.
+      As soon as water touches the hair, however, the water molecules easily slip through the protein chain and disrupt the hydrogen bonds.
+      When your hair then dries, new hydrogen bonds will form in whatever shape your hair was resting in.
+    </p>
+
+    <example>
+      <title>Morning Bedhead</title>
+
+      <p>
+        One common situation where this comes into play is morning bedhead.
+        While you sleep, the weight of your head against the pillow squashes your hair strands into weird, bent angles.
+        If your hair is wet <mdash/> either because you did not dry it thoroughly, or due to sweat or slight ambient humidity <mdash/> then the hydrogen bonds are temporarily broken.
+      </p>
+
+      <p>
+        Then, as your hair sits, pressed against the mattress overnight, the water will eventually evaporate.
+        New hydrogen bonds form and freeze the proteins in the bent, distorted shape.
+      </p>
+
+      <p>
+        You cannot brush bedhead out easily because these hydrogen bonds are locked in place.
+        On the other hand, splash some water on your head, and the strands easily relax back to baseline.
+      </p>
+    </example>
+  </subsection>
+
+  <subsection xml:id="subsec-disulfide-bridges-account-for-permanent-hair-curl">
+    <title>Disulfide Bridges Account for Permanent Hair Curl</title>
+
+    <p>
+      There is one amino acid, called <term>cysteine</term> (Cys or C), with a property that no other amino acid possesses.
+      The ending of a cysteine residue contains a sulfur–hydrogen group <m>\ce{-SH}</m>, called a <em>thiol</em>.
+      When two cysteine residues are within close proximity to one another, the sulfurs in the thiol groups may lose their hydrogen atoms and covalently bond to each other instead.
+      This forms a structure known as a <term>disulfide bridge</term>.
+      <idx><h>cysteine</h></idx> <idx><h>thiol</h></idx> <idx><h>disulfide bridge</h></idx>
+    </p>
+
+    <p>
+      These occur periodically within hair, and manifest differently in different people.
+      As disulfide bridges are covalent bonds, they are extremely strong, immune to water and moderate heat.
+      Much of the unique natural hairstyle of a person is based on the presence of disulfide bridges.
+    </p>
+
+    <figure xml:id="fig-disulfide-bridges">
+      <caption>The formation of a disulfide bridge. The natural hairstyle of a person is often due to the presence of these covalent bonds.</caption>
+      <image source="images/ch-02-haircare/sec-the-structure-of-hair/disulfide-bridges.png" width="75%"/>
+    </figure>
+  </subsection>
+
+  <subsection xml:id="subsec-hair-is-also-held-by-salt-bridges-which-are-sensitive-to-ph">
+    <title>Hair is Also Held by Salt Bridges Which Are Sensitive to pH</title>
+
+    <p>
+      Some amino acids have side chains carrying positive electric charges, while others carry negative electric charges.
+      When these opposite charges line up, they snap together through electrostatic attraction to form <term>salt bridges</term> (ionic bonds).
+      <idx><h>salt bridge</h></idx>
+    </p>
+
+    <p>
+      Unlike disulfide bridges, salt bridges are sensitive to changes in pH.
+      At hair's natural, slightly acidic pH (around 4.5 to 5.5), these ionic bonds stay firmly intact.
+      However, if hair is washed with a high-pH (alkaline) substance like traditional bar soap, the positive charges are neutralized, breaking the salt bridges and causing hair strands to swell and frizz.
+    </p>
+  </subsection>
+</section>

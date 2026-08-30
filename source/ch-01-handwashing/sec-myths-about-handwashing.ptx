@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec-myths-about-handwashing" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Myths About Handwashing</title>
+
+  <introduction>
+    <p>
+      There are many myths that are perpetuated, whether intentional or not,
+      regarding handwashing.
+      With an understanding of the chemistry underlying handwashing, we can more
+      easily understand why these are false, and what actually matters in our
+      hygiene practices.
+    </p>
+  </introduction>
+
+  <subsection xml:id="subsec-hot-water-is-not-more-effective-than-cold-water-in-handwashing">
+    <title>
+      Hot Water is Not More Effective Than Cold Water in Handwashing
+    </title>
+
+    <p>
+      It is tempting to argue that hot water should be used to kill microbes.
+      But to actually kill bacteria and viruses, water must be maintained at at
+      least 55 to 60 Celsius for several minutes.
+      Water at that temperature causes third-degree burns to the skin in under
+      five seconds, so this is completely impractical; your hand will be
+      destroyed before any microbes.
+    </p>
+
+    <p>
+      Moreover, hot water strips away the natural oils on the skin, as well as
+      the moisture barrier.
+      It easily leads to dryness, cracking, and micro-tears on the skin.
+      Cracked and damaged skin provides microscopic crevices where microbes can
+      anchor and proliferate, making hands more difficult to clean over time.
+    </p>
+  </subsection>
+
+  <subsection xml:id="subsec-antibacterial-soaps-are-not-superior-to-regular-soaps">
+    <title>Antibacterial Soaps are Not Superior to Regular Soap</title>
+
+    <p>
+      Antibacterial soaps come with extra substances, such as benzalkonium
+      chloride and triclosan (historically) to kill bacteria.
+      These do indeed kill microbes, but they do not actually perform better
+      than regular soaps.
+      <idx><h>soap</h><h>antibacterial</h></idx>
+      <idx><h>benzalkonium chloride</h></idx> <idx><h>triclosan</h></idx>
+    </p>
+
+    <p>
+      Recall that regular soap does not need to kill microbes; the amphiphilic
+      structure breaks the lipid barriers of enveloped viruses, and lifts all
+      other microbes off the skin to be washed off.
+      Studies <xref ref="biblio-jensen-soap-factors"/> show that during a
+      typical handwash, antibacterial agents do not significantly reduce
+      bacteria counts over regular hand soap.
+    </p>
+    <aside>
+      <title>Microbiomes</title>
+
+      <p>
+        Not all microbes are harmful to humans.
+        In fact, we have microbes in our bodies that are essential to our
+        physiological processes.
+        These constitute our <term>microbiome</term>.
+        <idx><h>microbiome</h></idx>
+      </p>
+    </aside>
+
+    <p>
+      Moreover, the overuse of antibacterial chemicals may cause chemical
+      sensitivity, disrupt the skin microbiome, and even contribute to
+      antibiotic resistance.
+      Like all organisms, bacteria mutate randomly, and on the off chance that a
+      mutant species forms that is chemically resistant, it will proliferate
+      since all other bacteria are killed off.
+    </p>
+  </subsection>
+
+  <subsection xml:id="subsec-hot-air-hand-dryers-are-not-more-hygienic-than-paper-towels">
+    <title>Hot-Air Hand Dryers Are Not More Hygienic Than Paper Towels</title>
+
+    <p>
+      In fact, hot-air hand dryers pose significant hygiene risks.
+      They suck in the ambient restroom air, heat it, and blast it back onto your hand.
+      This air often contains ambient toilet particles, and these will get re-introduced to your freshly washed hands at high speeds.
+    </p>
+
+    <p>
+      Another concern is that air dryers often take over half a minute to completely dry your hand.
+      Many people are impatient and will leave the bathroom with damp skin.
+      Damp hands transfer pathogens hundreds of times more easily than dry hands.
+    </p>
+
+    <p>
+      Compared to air dryers, paper towels do not have these risks, and come with the benefits of additional friction, stripping away far more residual bacteria and moisture from the hands.
+    </p>
+
+  </subsection>
+</section>

@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec-problems-with-soap" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Problems with Soap</title>
+
+  <introduction>
+    <p>
+      Traditional soaps (i.e., anionic surfactants), as described in the
+      previous section, come with a few inherent drawbacks.
+      This is why we only use hand soap to wash our hands.
+      Many of these problems are resolved with modern synthetic detergents and
+      cleansers.
+      One simple example of a problem with traditional soap is the following:
+      try to lather (bubble) up with soap and tap water.
+      You might find that instead of bubbling, you get a weak lather and a dull
+      white film.
+      This is known as soap scum.
+      Why does it form?
+    </p>
+  </introduction>
+
+  <subsection xml:id="subsec-unlike-synthetic-detergents-soap-forms-scum-in-hard-water">
+    <title>Unlike Synthetic Detergents, Soap Forms Scum in Hard Water</title>
+
+    <p>
+      Tap water often contains dissolved minerals, specifically calcium ions (
+      <m>\ce{Ca^{2+}}</m> ) and magnesium ions ( <m>\ce{Mg^{2+}}</m> ).
+      We call this <term>hard water</term>.
+      <idx><h>calcium</h></idx> <idx><h>magnesium</h></idx>
+      <idx><h>hard water</h></idx>
+    </p>
+
+    <p>
+      The <m>2+</m> means that they are highly attracted to negative charges
+      <mdash/> including the negative heads of traditional soap molecules.
+      Hence, soap molecules bind strongly to the charged minerals.
+      Instead of dissolving in water to form micelles, the soap molecules just
+      precipitate out as a solid, sticky curd called <term>soap scum</term>
+      (made of <term>calcium carboxylate</term> ).
+      <idx><h>soap scum</h></idx> <idx><h>calcium carboxylate</h></idx>
+    </p>
+    <!-- Figure of carboxylate binding to Ca2+ -->
+    <example>
+      <statement>
+        <p>
+          Fill two small jars (call them jars A and B) with tap water.
+          In jar B, dissolve a spoonful of Epsom salt (magnesium sulfate) to
+          create artificial hard water.
+          Add a few drops of liquid hand soap to both jars, cap them, and shake
+          vigorously.
+          What happens?
+          Why?
+        </p>
+      </statement>
+
+      <solution>
+        <p>
+          In jar A, clear, thick foam forms due to the formation of micelles.
+          In jar B, the magnesium ions disrupt micelle formation, forming cloudy
+          water with less foam.
+        </p>
+      </solution>
+    </example>
+
+    <p>
+      To resolve the problem of soap scum, chemists invented
+      <term>synthetic detergents</term> by tweaking the hydrophilic head.
+      Instead of the carboxylate, which tightly binds to ions in minerals,
+      detergents often use <term>sulfonate</term> or <term>sulfate</term> heads.
+      <idx><h>synthetic detergent</h></idx> <idx><h>sulfonate</h></idx>
+      <idx><h>sulfate</h></idx>
+    </p>
+
+    <p>
+      These heads do <em>not</em> tightly bind to calcium or magnesium ions.
+      Thus, unlike traditional soap, these detergents remain soluble and lather
+      freely, even in mineral-rich hard water.
+    </p>
+    <!-- Figure comparing traditional soap (forms scum) vs modern synthetic detergents (forms micelles) -->
+  </subsection>
+
+  <subsection xml:id="subsec-traditional-soaps-are-highly-alkaline">
+    <title>Traditional Soaps Are Highly Alkaline</title>
+
+    <p>
+      Traditional soaps are <term>alkaline</term> (the opposite of acidic),
+      meaning they have a high pH level.
+      pH is a measure of acidity.
+      In normal circumstances, pH generally ranges from 0 (very acidic) to 7
+      (neutral) to 14 (very basic).
+      Soap sits at a pH of around 9 to 10.
+      You can see the pH of some household objects in
+      <xref ref="table-ph-levels-common-household-substances"/>.
+      <idx><h>pH</h></idx> <idx><h>acidic</h></idx> <idx><h>alkaline</h></idx>
+    </p>
+
+    <table xml:id="table-ph-levels-common-household-substances">
+      <title>pH Levels of Common Household Substances</title>
+
+      <tabular>
+        <row header="yes">
+          <cell>Substance</cell>
+          <cell>pH</cell>
+        </row>
+
+        <row>
+          <cell>Battery acid</cell>
+          <cell>0</cell>
+        </row>
+
+        <row>
+          <cell>Human skin mantle</cell>
+          <cell>4.5 to 5.5</cell>
+        </row>
+
+        <row>
+          <cell>Synthetic body wash</cell>
+          <cell>5.5 to 6</cell>
+        </row>
+
+        <row>
+          <cell>Water</cell>
+          <cell>7</cell>
+        </row>
+
+        <row>
+          <cell>Bar soap</cell>
+          <cell>9 to 10</cell>
+        </row>
+      </tabular>
+    </table>
+
+    <p>
+      Our human skin maintains a slightly acidic surface barrier (pH about 4.5
+      to 5.5) known as the <term>acid mantle</term>.
+      High-pH bar soaps strip oils aggressively and disrupt the acid mantle,
+      potentially damaging skin health.
+      <idx><h>acid mantle</h></idx>
+    </p>
+
+    <p>
+      Fortunately, modern synthetic cleansers, known as <term>syndets</term>,
+      can be formulated at a skin-neutral pH to clean gently without disrupting
+      the health of the skin barrier.
+      <idx><h>syndet</h></idx>
+    </p>
+  </subsection>
+</section>

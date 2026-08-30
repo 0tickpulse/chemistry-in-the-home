@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<chapter xml:id="ch-01-handwashing" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Handwashing</title>
+
+  <!-- include sections -->
+  <xi:include href="./ch-01-handwashing/sec-water-and-oil.ptx" />
+  <xi:include href="./ch-01-handwashing/sec-soaps.ptx" />
+  <xi:include href="./ch-01-handwashing/sec-problems-with-soap.ptx" />
+  <xi:include href="./ch-01-handwashing/sec-myths-about-handwashing.ptx" />
+  <xi:include href="./ch-01-handwashing/sec-ch-01-key-concepts.ptx" />
+  <xi:include href="./ch-01-handwashing/sec-ch-01-additional-details.ptx" />
+
+</chapter>
