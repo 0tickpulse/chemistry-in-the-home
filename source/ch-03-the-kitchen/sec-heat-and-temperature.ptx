@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec-heat-and-temperature" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Heat and Temperature</title>
+
+  <introduction>
+    <p>
+      You set a pot of water on the stove and turn the burner to high.
+      Once it begins boiling vigorously, you crank the flame up even higher, expecting it to cook the food faster.
+      But if you drop a thermometer into the water, the temperature sits stubbornly at <quantity><mag>100</mag><unit base="celsius"/></quantity>.
+    </p>
+
+    <p>
+      Compare this with steam.
+      Why does holding your hand over a venting pot of steam cause a vicious burn in a split-second, far worse than a momentary splashing of boiling water?
+    </p>
+
+    <p>
+      These questions may be answered once we gain a better understanding of what <q>heat</q> and <q>temperature</q> actually are.
+    </p>
+  </introduction>
+
+  <subsection xml:id="subsec-heat-and-temperature-both-describe-the-random-motion-of-particles">
+    <title>Heat and Temperature Both Describe the Random Motion of Particlees</title>
+
+    <p>
+      At the microscopic level, atoms and molecules are constantly vibrating, wiggling, and colliding with one another.
+      The motion of these molecules is random or <term>incoherent</term>, meaning there is no net overall motion in a direction.
+      <idx><h>incoherent motion</h></idx>
+    </p>
+
+    <p>
+      Moving objects possess a type of energy called <term>kinetic energy</term>.
+      The <term>temperature</term> of a substance measures how much kinetic energy these particles have on average.
+      If you add up the kinetic energies associated with this incoherent motion, you get the <term>thermal energy</term> of the substance.
+      To put it concisely, temperature measures the <em>average</em> kinetic energy, while thermal energy is the <em>total</em> kinetic energy.
+      <idx><h>temperature</h></idx> <idx><h>thermal energy</h></idx>
+    </p>
+
+    <p>
+      The amount of thermal energy transferred between objects is, thus, dependent on both the mass of substance and the temperature difference.
+      A spark from a sparkler burns at over <quantity><mag>1000</mag><unit base="celsius"/></quantity>, yet if it lands on your arm, it only causes a tiny, fleeting sting.
+      Compare this to a warm bathtub at <quantity><mag>40</mag><unit base="celsius"/></quantity>.
+      Although the temperature is much smaller, there are <em>trillions</em> of wiggling water molecules transferring heat to you.
+    </p>
+  </subsection>
+
+  <subsection xml:id="subsec-heat-causes-phase-changes">
+    <title>Heat Causes Phase Changes</title>
+
+    <p>
+      A likely familiar concept is that matter exists in different states <mdash/> the main ones being solid, liquid, and gas.
+      In chemistry, we call these <term>phases</term>.
+      <idx><h>phases (of matter)</h></idx>
+    </p>
+
+    <p>
+      As you introduce heat to a solid like ice, it may <term>melt</term> into a liquid.
+      Likewise, you may <term>freeze</term> the liquid back into a solid.
+      The temperature at which this happens is the <term>melting point</term> of the substance.
+      <idx><h>melting</h></idx> <idx><h>freezing</h></idx> <idx><h>melting point</h></idx>
+    </p>
+
+    <p>
+      Similarly, as you introduce heat to a liquid, it may <term>boil</term> into a gas.
+      You may also <term>condense</term> the gas back into a liquid.
+      The temperature at which this happens is the <term>boiling point</term>.
+      <idx><h>boiling</h></idx> <idx><h>condensation</h></idx> <idx><h>boiling point</h></idx>
+    </p>
+
+    <p>
+      The Celsius scale of temperature is based on water <mdash/> water melts and freezes at <quantity><mag>0</mag><unit base="celsius"/></quantity>, and boils and condenses at <quantity><mag>100</mag><unit base="celsius"/></quantity>.
+    </p>
+
+    <figure xml:id="fig-phase-transitions">
+      <caption>The different phase transitions between solids, liquids, and gases.</caption>
+      <image source="images/ch-03-the-kitchen/sec-heat-and-temperature/phase-transitions.png" width="60%"/>
+    </figure>
+
+    <p>
+      Melting, freezing, boiling, and condensation are all examples of <term>phase transitions</term>, or the transition between phases of matter.
+    </p>
+
+    <p>
+      When you boil water, what is happening on a molecular level?
+      Recall from <xref ref="sec-water-and-oil"/> that water molecules contain intermolecular hydrogen bonds that hold them together.
+      Once water reaches the boiling point, extra thermal energy from the stove no longer speeds up the molecules.
+      Instead, the energy is channeled entirely into ripping the molecules apart from the hydrogen bonds, launching them into the air as free gas molecules.
+    </p>
+
+    <figure xml:id="fig-molecular-boiling-water">
+      <caption>As water is boiled, the hydrogen bonds are broken. The red triangle above the arrow indicates that this reaction is a result of applying heat.</caption>
+      <image source="images/ch-03-the-kitchen/sec-heat-and-temperature/molecular-boiling-water.png" width="80%"/>
+    </figure>
+  </subsection>
+
+  <subsection xml:id="subsec-latent-energy-is-needed-for-phase-changes">
+    <title>Latent Energy is Needed for Phase Changes</title>
+
+    <p>
+      As you deliver thermal energy to water, it is used to raise the temperature by speeding up the molecules.
+      At the boiling point, as previously mentioned, the energy is instead used to break the hydrogen bonds.
+      During this process, the energy is not used to speed up the molecules, so the temperature stays constant.
+    </p>
+
+    <p>
+      Therefore, if we were to graph out how the temperature of water varies as we introduce heat, you will see a shape like <xref ref="fig-water-heating-curve"/>.
+      Initially, the temperature rises as we heat the water, but it flattens into a horizontal plateau at <quantity><mag>100</mag><unit base="celsius"/></quantity>.
+      It then rises again when the water becomes pure steam.
+      <idx><h>heating curve</h></idx>
+    </p>
+
+    <figure xml:id="fig-water-heating-curve">
+      <caption>The heating curve of water, showing a flat portion at the phase transition.</caption>
+      <image source="images/ch-03-the-kitchen/sec-heat-and-temperature/water-heating-curve.png" width="80%"/>
+    </figure>
+
+    <p>
+      The energy that is needed to rip the hydrogen bonds apart is known as the <term>latent heat of vaporization</term>.
+      <idx><h>latent heat of vaporization</h></idx>
+    </p>
+
+    <p>
+      Steam burns are devastating because when steam hits your skin, it undergoes a phase transition back into liquid form.
+      In doing so, it dumps a massive payload of latent heat directly into your tissue.
+    </p>
+  </subsection>
+
+  <subsection xml:id="subsec-thermal-energy-is-transferred-through-conduction-convection-and-radiation">
+    <title>Thermal Energy is Transferred Through Conduction, Convection, and Radiation</title>
+
+    <p>
+      With an understanding of thermal energy, we also need to understand how it is transferred between substances.
+    </p>
+
+    <p>
+      The most familiar form of thermal energy transfer is <term>conduction</term>, which is heat transfer through direct physical contact.
+      Hot water feels hot because thermal energy is being transferred from the water to you through conduction.
+      Similarly, a hot skillet contains faster-vibrating atoms, and when it comes into contact with a steak surface, the energy is transferred through conduction.
+    </p>
+
+    <p>
+      There are two other ways thermal energy is transferred.
+      Notice that when you boil water, the steam rises into the air.
+      Why does water remain on the ground while steam rises?
+      This is because hot things expand; as steam has a higher volume, it is less dense, and thus floats in the denser surrounding air. This process is called <term>convection</term>.
+    </p>
+
+    <p>
+      Lastly, <term>radiation</term> is the transfer of heat through light waves, without needing anything between the objects.
+    </p>
+  </subsection>
+</section>

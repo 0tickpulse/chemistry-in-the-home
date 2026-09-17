@@ -13,8 +13,8 @@
 
     <!-- Include chapters -->
     <xi:include href="./ch-01-handwashing.ptx" />
-    <xi:include href="./ch-02-haircare.ptx" />
-
+    <xi:include href="./ch-02-the-bathroom.ptx" />
+    <xi:include href="./ch-03-the-kitchen.ptx" />
 
     <!-- Include backmatter -->
     <xi:include href="./backmatter.ptx" />

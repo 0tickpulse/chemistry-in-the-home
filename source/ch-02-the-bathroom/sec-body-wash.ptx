@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec-body-wash" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Body Wash</title>
+
+  <introduction>
+    <p>
+      Have you ever tried using shampoo or hand soap on the body?
+      After all, with what we have discussed so far, both shampoo and hand soap just use anionic surfactants to clean the skin.
+      But if you try using them, your skin will feel tight, dry, and itchy.
+      On the other hand, body wash leaves skin supple and hydrated.
+      Why is this the case?
+    </p>
+  </introduction>
+
+  <subsection xml:id="subsec-the-skin-is-covered-by-a-complex-protective-layer">
+    <title>The Skin is Covered by a Complex Protective Layer</title>
+
+    <p>
+      The outermost layer of the skin is called the <term>stratum corneum</term> (Latin for <q>horny layer</q> ).
+      This layer may be thought of using a bricks-and-mortar model.
+      The <q>bricks</q> are the cells in the corneum, called <term>corneocytes</term>.
+      They are dead and paper-thin.
+      They are packed with proteins that hold water, as well as substances called <term>natural moisturizing factors</term>, such as free amino acids and urea.
+    </p>
+
+    <figure xml:id="fig-stratum-corneum">
+      <caption>The stratum corneum consists of dead cells separated by protective lipids.</caption>
+      <image source="images/ch-02-the-bathroom/sec-body-wash/stratum-corneum.png" width="60%"/>
+    </figure>
+
+    <p>
+      The <q>mortar</q> is the space between the cells, called the extracellular matrix.
+      This mortar in the stratum corneum is primarily composed of protective molecules called lipids.
+      They stop environmental microbes and toxins from getting through the skin, and stop water from evaporating out (in a process called <term>transepidermal water loss</term> ).
+      <q>Lipid</q> is actually a broad term that encompasses oils, fats, waxes, and some other hydrophobic or amphiphilic molecules.
+      <idx><h>transepidermal water loss</h></idx> <idx><h>lipid</h></idx>
+    </p>
+
+    <figure xml:id="fig-surfactant-penetrating-ec-matrix">
+      <caption>Many surfactant molecules are small enough to penetrate into the extracellular matrix.</caption>
+      <image source="images/ch-02-the-bathroom/sec-body-wash/surfactant-penetrating-ec-matrix.png" width="60%"/>
+    </figure>
+
+    <p>
+      Many of the surfactants we have explored, like SLS, have short, rigid hydrocarbon chains.
+      In addition to lifting the grease on the surface, they are small enough to penetrate into the extracellular matrix itself.
+      They extract the skin's essential oils into micelles, washing them down the drain.
+    </p>
+
+    <p>
+      This causes many problems, such as the transepidermal water loss that we previously mentioned.
+      Water rapidly evaporates out of the skin, causing microscopic cracks, irritation, and a dry sensation.
+    </p>
+  </subsection>
+
+  <subsection xml:id="subsec-body-wash-often-uses-amphoteric-surfactants">
+    <title>Body Wash Often Uses Amphoteric Surfactants</title>
+
+    <p>
+      To round off the types of surfactants, we introduce the <term>amphoteric surfactant</term>.
+      An anionic surfactant, like SLS, has a negatively charged head.
+      A cationic surfactant, like cetrimonium chloride, has a positively charged head.
+      An <em>amphoteric</em> surfactant has a head that has both positive and negative parts.
+    </p>
+
+    <figure xml:id="fig-types-of-surfactants">
+      <caption>The three main types of surfactants. Notice the structure of lauramidopropyl betaine <mdash/> it contains a positively charged nitrogen atom similar to cetrimonium chloride, and a negatively charged carboxylate similar to the soap surfactant we introduced in <xref ref="subsec-soaps-are-amphiphilic-molecules"/>.</caption>
+      <image source="images/ch-02-the-bathroom/sec-body-wash/types-of-surfactants.png" width="80%"/>
+    </figure>
+
+    <p>
+      Body soaps often include these amphoteric surfactants, such as <term>cocamidopropyl betaine</term> (CAPB).
+      When blended with anionic surfactants, CAPB sits between the negative heads, acting as cushions that reduce repulsion and force the micelles to grow into large, gentle, worm-like structures.
+      These structures are much bigger than the usual micelles and thus cannot penetrate into the skin.
+    </p>
+
+    <example xml:id="example-palm-friction-test">
+      <title>The Palm Friction Test</title>
+
+      <statement>
+        <p>
+          Wash one hand using a drop of clarifying hair shampoo or dish soap, and wash the other hand with a moisturizing body wash.
+          Rinse both hands thoroughly with warm water, pat dry with a towel, and rub the thumb of each hand against its respective palm.
+          What do you feel?
+          Why?
+        </p>
+      </statement>
+
+      <solution>
+        <p>
+          The shampooed palm feels tacky, squeaky, and catches against your thumb.
+          The body-washed palm glides smoothly and feels soft.
+        </p>
+
+        <p>
+          The aggressive, small SLS micelles in the shampoo or dish soap penetrated the stratum corneum and stripped away the intercellular lipid mortar, leaving bare, dry cell edges that snag on your skin.
+          In contrast, the larger, gentler mixed micelles in the body wash cleansed the surface without dissolving the deeper lipid barrier, leaving the skin's moisture seal intact.
+        </p>
+      </solution>
+    </example>
+  </subsection>
+
+  <subsection xml:id="subsec-body-washes-are-adjusted-for-skin-ph">
+    <title>Body Washes are Adjusted for Skin pH</title>
+
+    <p>
+      As we explored in <xref ref="subsec-traditional-soaps-are-highly-alkaline"/>, the skin has a natural pH level of about 4.5 to 5.5.
+      The body has machines called enzymes that synthesizes the required molecules for the extracellular matrix, but they only work optimally at this pH.
+      Bar soaps, with a pH of 9 to 10, deactivate these essential enzymes, and also activate other enzymes that break down the skin.
+      This significantly weakens the skin barrier.
+      <idx><h>enzyme</h></idx>
+    </p>
+
+    <figure xml:id="fig-citric-acid">
+      <caption>Citric acid, a common addition to body wash to balance its pH.</caption>
+      <image source="images/ch-02-the-bathroom/sec-body-wash/citric-acid.png" width="35%"/>
+    </figure>
+
+    <p>
+      To fix this, formulators add small amounts of mild organic acids, such as <term>citric acid</term> (the acid in lemons) to dial the body wash formulation to a skin-neutral pH.
+    </p>
+  </subsection>
+</section>

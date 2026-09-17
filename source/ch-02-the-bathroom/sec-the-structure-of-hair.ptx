@@ -3,17 +3,6 @@
 <section xml:id="sec-the-structure-of-hair" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>The Structure of Hair</title>
 
-  <introduction>
-    <p>
-      In <xref ref="ch-01-handwashing"/>, we treated the skin simply as a surface with an oil layer and dirt particles to be cleaned.
-      But to truly understand how hair care works, we have to treat hair as more than a surface and gain a deeper understanding of the integumentary system.
-    </p>
-
-    <p>
-      Through this enhanced understanding, we will be able to understand ideas like why healthy hair looks shiny and smooth, whereas damaged or freshly washed hair looks frizzy and dull.
-    </p>
-  </introduction>
-
   <subsection xml:id="subsec-hair-primarily-consists-of-keratin-fibers">
     <title>Hair Primarily Consists of Keratin Fibers</title>
 
@@ -25,7 +14,7 @@
 
     <figure xml:id="fig-three-layers-of-hair">
       <caption>The three main layers of human hair, consisting of the cuticle, cortex, and medulla.</caption>
-      <image source="images/ch-02-haircare/sec-the-structure-of-hair/three-layers-of-hair.png" width="60%"/>
+      <image source="images/ch-02-the-bathroom/sec-the-structure-of-hair/three-layers-of-hair.png" width="60%"/>
     </figure>
 
     <p>
@@ -68,7 +57,7 @@
 
     <figure xml:id="fig-amino-acid-structure">
       <caption>The atomic structure of amino acids. As the exact chemical structure of an individual amino acid is unimportant for this section, we will just use colored circles to denote them.</caption>
-      <image source="images/ch-02-haircare/sec-the-structure-of-hair/amino-acid-structure.png" width="60%"/>
+      <image source="images/ch-02-the-bathroom/sec-the-structure-of-hair/amino-acid-structure.png" width="60%"/>
     </figure>
 
     <p>
@@ -86,7 +75,7 @@
 
     <figure xml:id="fig-keratin-superhelices">
       <caption>Keratin proteins first coil to form a helix, and then the helix coils around itself again to form a superhelix.</caption>
-      <image source="images/ch-02-haircare/sec-the-structure-of-hair/keratin-superhelices.png" width="60%"/>
+      <image source="images/ch-02-the-bathroom/sec-the-structure-of-hair/keratin-superhelices.png" width="60%"/>
     </figure>
   </subsection>
 
@@ -101,7 +90,7 @@
 
     <figure xml:id="fig-hydrogen-bonds-between-amino-acids">
       <caption>Hydrogen bonds form between chains of amino acids, and are disrupted in the presence of water.</caption>
-      <image source="images/ch-02-haircare/sec-the-structure-of-hair/hydrogen-bonds-between-amino-acids.png" width="75%"/>
+      <image source="images/ch-02-the-bathroom/sec-the-structure-of-hair/hydrogen-bonds-between-amino-acids.png" width="75%"/>
     </figure>
 
     <p>
@@ -136,9 +125,7 @@
 
     <p>
       There is one amino acid, called <term>cysteine</term> (Cys or C), with a property that no other amino acid possesses.
-      The ending of a cysteine residue contains a sulfur–hydrogen group <m>\ce{-SH}</m>, called a <em>thiol</em>.
-      When two cysteine residues are within close proximity to one another, the sulfurs in the thiol groups may lose their hydrogen atoms and covalently bond to each other instead.
-      This forms a structure known as a <term>disulfide bridge</term>.
+      When two cysteine residues are within close proximity to one another, the sulfur atoms in each residue may actually bond to each other, forming a structure known as a <term>disulfide bridge</term>.
       <idx><h>cysteine</h></idx> <idx><h>thiol</h></idx> <idx><h>disulfide bridge</h></idx>
     </p>
 
@@ -150,7 +137,7 @@
 
     <figure xml:id="fig-disulfide-bridges">
       <caption>The formation of a disulfide bridge. The natural hairstyle of a person is often due to the presence of these covalent bonds.</caption>
-      <image source="images/ch-02-haircare/sec-the-structure-of-hair/disulfide-bridges.png" width="75%"/>
+      <image source="images/ch-02-the-bathroom/sec-the-structure-of-hair/disulfide-bridges.png" width="75%"/>
     </figure>
   </subsection>
 

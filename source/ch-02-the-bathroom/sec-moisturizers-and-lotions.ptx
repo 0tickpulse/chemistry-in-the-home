@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec-moisturizers-and-lotions" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Moisturizers and Lotions</title>
+
+  <introduction>
+    <p>
+      The previous section covers how body wash interacts with the stratum corneum and prevents stripped lipids.
+      What happens when the skin is already damaged, chopped, or dehydrated?
+      Water alone will not fix it <mdash/> splashing water on dry hands and letting it evaporate simply leaves it feeling even drier than before.
+      Instead, let's explore how moisturizers help to repair the skin after dehydration.
+    </p>
+  </introduction>
+
+  <subsection xml:id="subsec-plain-water-only-provides-momentary-relief">
+    <title>Plain Water Only Provides Momentary Relief</title>
+
+    <p>
+      Splashing water onto dry skin provides a momentary relief.
+      However, water evaporates over time <mdash/> as the ambient air evaporates that surface water, it pulls deeper moisture along with it.
+    </p>
+
+    <p>
+      There are two mechanisms that underlie this effect.
+      First, since water is attracted to boundaries of containers, water molecules flow along tight spaces naturally without any external help <mdash/> this is called <term>capillary action</term>.
+      This is how paper towels absorb water.
+      The second is <term>diffusion</term> <mdash/> where substances naturally mix over time.
+      If you drop food coloring in water, it will slowly <em>diffuse</em> into the water and mix.
+      <idx><h>capillary action</h></idx> <idx><h>diffusion</h></idx>
+    </p>
+
+    <p>
+      These mechanisims accelerate the transepidermal water loss mentioned in <xref ref="subsec-the-skin-is-covered-by-a-complex-protective-layer"/>.
+    </p>
+
+    <p>
+      In addition to drawing water out via evaporation, rinsing with water also leaches out hydrophilic compounds in skin cells, many of which are natural moisturizing factors.
+      <idx><h>natural moisturizing factor</h></idx>
+    </p>
+
+    <p>
+      This means that a moisturizer must not only deliver water to the skin.
+      It must also trap the water in the cell matrix and replace the stripped molecules in the extracellular matrix.
+    </p>
+  </subsection>
+
+  <subsection xml:id="subsec-humectants-pull-water-from-deeper-layers-of-the-skin">
+    <title>Humectants Pull Water from Deeper Layers of the Skin</title>
+
+    <p>
+      Modern moisturizing ingredients fall into a few large categories based on their functional role.
+      The first is the <term>humectants</term>.
+      Looking at <xref ref="fig-humectant-examples"/>, we see that these molecules (with the exception of urea) contain many <m>\ce{-OH}</m> groups.
+      These are called <term>hydroxyl</term> groups, and they are very hydrophilic due to the partial positive charge <m>\delta^+</m> on the hydrogen atom (similar to water, see <xref ref="subsec-water-is-polar"/> ).
+      <idx><h>humectant</h></idx> <idx><h>hydroxyl</h></idx>
+    </p>
+
+    <figure xml:id="fig-humectant-examples">
+      <caption>A few different common humectants in moisturizer products.</caption>
+      <image source="images/ch-02-the-bathroom/sec-moisturizers-and-lotions/humectant-examples.png" width="60%"/>
+    </figure>
+
+    <p>
+      The abundance of hydroxyl groups means that humectant molecules participate in a lot of hydrogen bonding.
+      In urea, the nitrogen atoms play a similar role to the oxygen atoms in the other humectants.
+    </p>
+
+    <figure xml:id="fig-humectant-hydrogen-bonding">
+      <caption>Examples of glycerin and urea participating in hydrogen bonding with water.</caption>
+      <image source="images/ch-02-the-bathroom/sec-moisturizers-and-lotions/humectant-hydrogen-bonding.png" width="80%"/>
+    </figure>
+
+    <p>
+      When placed on the skin, humectants pull water out of the deeper layers of the skin and bind it directly to the dehydrated cells on the stratum corneum.
+    </p>
+  </subsection>
+
+  <subsection xml:id="subsec-occlusives-and-emollients-trap-water-and-condition-the-skin">
+    <title>Occlusives and Emollients Trap Water and Condition the Skin</title>
+
+    <p>
+      While humectants aid in absorbing water into the stratum corneum, water will eventually evaporate away, as mentioned in <xref ref="subsec-plain-water-only-provides-momentary-relief"/>.
+      It is equally important to seal this moisture in, and that is the role of <term>occlusives</term>.
+      <idx><h>occlusive</h></idx>
+    </p>
+
+    <figure xml:id="fig-occlusive-examples">
+      <caption>A few different common occlusives in moisturizer products.</caption>
+      <image source="images/ch-02-the-bathroom/sec-moisturizers-and-lotions/occlusive-examples.png" width="60%"/>
+    </figure>
+
+    <p>
+      As opposed to humectants, occlusives are long and hydrophobic.
+      Petrolatum is also known as petroleum jelly, and is a mixture of long hydrocarbon chains.
+      The US brand Vaseline contains many products involving petrolatum, and thus <q>vaseline</q> is often used synonymously with it.
+      <idx><h>petrolatum</h></idx> <idx><h>petroleum jelly</h></idx> <idx><h>Vaseline</h></idx>
+    </p>
+
+    <p>
+      When applied on skin, these sit on the very top of the skin to block transepidermal water loss.
+    </p>
+
+    <p>
+      Recall that when the skin dries due to evaporation, many natural moisturizing factors (NMFs) are removed from the skin.
+      <term>Emollients</term> act by slipping into microscopic fissures in the skin, restoring suppleness and softness.
+      <idx><h>emollient</h></idx>
+    </p>
+
+    <p>
+      Emollients are typically medium-size lipids such as ceramides, squalene, and cetyl alcohol.
+    </p>
+
+    <figure xml:id="fig-emollient-examples">
+      <caption>A few different common emollients in moisturizer products.</caption>
+      <image source="images/ch-02-the-bathroom/sec-moisturizers-and-lotions/emollient-examples.png" width="60%"/>
+    </figure>
+  </subsection>
+
+  <subsection xml:id="subsec-moisturizers-use-emulsifiers-with-varying-oil-to-water-ratios">
+    <title>Moisturizers Use Emulsifiers With Varying Oil-to-Water Ratios</title>
+
+    <p>
+      Recall from <xref ref="sec-water-and-oil"/> that hydrophilic molecules (like water) exert strong cohesive forces and push nonpolar oil droplets out, causing spontaneous separation.
+      Delivering humectants (hydrophilic) and occlusives/emollients (hydrophobic) in a single bottle requires forcing water and oil to coexist in a single bottle.
+      How is this possible?
+    </p>
+
+    <p>
+      When two liquids that normally do not mix (i.e., they are <term>immiscible</term> ) are forcibly mixed together, an <term>emulsion</term> forms.
+      In an emulsion, small droplets of one liquid are suspended throughout the other.
+      <idx><h>miscibility</h></idx> <idx><h>emulsion</h></idx>
+    </p>
+
+    <figure xml:id="fig-emulsions">
+      <caption>A comparison of regular oil-water layer separation, an oil-in-water (O/W) emulsion, and a water-in-oil (W/O) emulsion.</caption>
+      <image source="images/ch-02-the-bathroom/sec-moisturizers-and-lotions/emulsions.png" width="60%"/>
+    </figure>
+
+    <p>
+      There are generally two types of emulsions that are relevant here.
+      In <term>oil-in-water</term> (O/W) emulsions, tiny oil droplets are suspended in a continuous water phase.
+      As water is the majority substance, O/W emulsions feel like water <mdash/> light, non-greasy, and rinses easily.
+      In <term>water-in-oil</term> (W/O) emulsions, tiny water droplets are suspended in a continuous oil phase.
+      These feel richer, thicker, and deeply water-resistant.
+      <idx><h>emulsion</h><h>oil-in-water</h></idx> <idx><h>emulsion</h><h>water-in-oil</h></idx>
+    </p>
+
+    <p>
+      But wait, why would the droplets not simply collide and coalesce together, eventually forming two distinct layers again?
+      This is indeed what happens without the help of an <term>emulsifier</term>.
+      Emulsifiers are amphiphilic molecules <mdash/> molecules that have both hydrophilic and hydrophobic parts.
+      Soap is an emulsifier.
+      <idx><h>emulsifier</h></idx>
+    </p>
+
+    <p>
+      Emulsifiers reside on the boundary between the two substances, forming a protective barrier around each droplet.
+    </p>
+
+    <figure xml:id="fig-emulsion-boundary-emulsifier">
+      <caption>A zoom-in on the water-oil boundary interface in an emulsion, showing the stabilizing role of the emulsifier.</caption>
+      <image source="images/ch-02-the-bathroom/sec-moisturizers-and-lotions/emulsion-boundary-emulsifier.png" width="80%"/>
+    </figure>
+
+    <p>
+      The words <q>lotion</q>, <q>cream</q>, and <q>ointment</q> refer to different oil-to-water ratios.
+      They are listed in <xref ref="table-classification-of-moisturizing-products-emulsion"/>.
+    </p>
+
+    <table xml:id="table-classification-of-moisturizing-products-emulsion">
+      <title>Classification of Moisturizing Products Based on Emulsion Properties</title>
+
+      <tabular>
+        <col/>
+        <col/>
+        <col/>
+        <col width="40%"/>
+        <row header="yes">
+          <cell>Name</cell>
+          <cell>Type of emulsion</cell>
+          <cell>Water-oil ratio</cell>
+          <cell>Remarks</cell>
+        </row>
+
+        <row>
+          <cell>Lotion</cell>
+          <cell>Oil-in-water</cell>
+          <cell>Mostly water</cell>
+          <cell>Carries high concentrations of humectants. Evaporates quickly.</cell>
+        </row>
+
+        <row>
+          <cell>Cream</cell>
+          <cell>Either oil-in-water or water-in-oil</cell>
+          <cell>Balanced water and oil</cell>
+          <cell>Slower to absorb, leaving a noticeable emollient barrier.</cell>
+        </row>
+
+        <row>
+          <cell>Ointment</cell>
+          <cell>None</cell>
+          <cell>Pure lipids</cell>
+          <cell>Greasy and heavy.</cell>
+        </row>
+      </tabular>
+    </table>
+
+    <example>
+      <statement>
+        <p>
+          Shake oil and water in a small jar, and observe <mdash/> they will separate into two layers within 30 seconds.
+          Now add a drop of emulsifier (dish soap, egg yolk, or mustard), shake again, and observe.
+          What happens?
+          Why?
+        </p>
+      </statement>
+
+      <solution>
+        <p>
+          The mixture now stays opaque, milky, and uniform.
+        </p>
+
+        <p>
+          The amphiphilic molecules in the emulsifier coat the microscopic oil droplets, preventing them from recombining.
+          The same principle applies in cosmetic lotion products!
+        </p>
+      </solution>
+    </example>
+  </subsection>
+</section>

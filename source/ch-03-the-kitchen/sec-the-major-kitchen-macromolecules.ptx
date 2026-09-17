@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec-the-major-kitchen-macromolecules" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>The Major Kitchen Macromolecules</title>
+
+  <introduction>
+    <p>
+      All the food chemistry we will discuss might seem incredibly daunting.
+      It is important to understand that it really just boils down to manipulating four different families of molecules.
+      Even better, we have already encountered all of them.
+      Here, we reintroduce all four classes of molecules, and discuss how they behave in a hot pan.
+    </p>
+  </introduction>
+
+  <subsection xml:id="subsec-water-acts-as-a-universal-medium">
+    <title>Water Acts as a Universal Medium</title>
+
+    <p>
+      Food is mostly water.
+      Meat is about 75% water, and vegetables about 90% water.
+      We have already discussed the molecular properties of water in <xref ref="sec-water-and-oil"/>.
+      As we know, it is able to attract polar molecules, thus dissolving polar nutrients.
+      Water is also able to move heat through food via conduction and convection.
+    </p>
+
+    <p>
+      Recall from <xref ref="sec-heat-and-temperature"/> that the boiling point of water is <quantity><mag>100</mag><unit base="celsius"/></quantity>.
+      This means that as long as water is present on the surface of food, the food cannot exceed that temperature.
+      We will need to address this problem for reactions like deep crisping and browning.
+    </p>
+  </subsection>
+
+  <subsection xml:id="subsec-lipids-help-with-high-heat-cooking">
+    <title>Lipids Help With High-Heat Cooking</title>
+
+    <p>
+      We have previously mentioned lipids before <mdash/> like the discussion of oils in <xref ref="sec-water-and-oil"/>, the protective lipids in the skin in <xref ref="sec-body-wash"/>, or the different lipids present in moisturizers in <xref ref="sec-moisturizers-and-lotions"/>.
+    </p>
+
+    <p>
+      Lipids can be surprisingly hard to define, but for our purposes, it contains substances like oils, fats, steroids, waxes, and other small hydrophobic or amphiphilic molecules.
+      <idx><h>lipid</h></idx>
+    </p>
+
+    <figure xml:id="fig-triglycerides">
+      <caption>The structure of a triglyceride molecule.</caption>
+      <image source="images/ch-03-the-kitchen/sec-the-major-kitchen-macromolecules/triglycerides.png" width="80%"/>
+    </figure>
+
+    <p>
+      The most abundant lipid in body fat and vegetable fat is the <term>triglyceride</term>.
+      It is built from glycerol and three fatty acids.
+      Recall that glycerol is used as a humectant ( <xref ref="subsec-humectants-pull-water-from-deeper-layers-of-the-skin"/> ).
+      Fatty acids, in this context, are the hydrocarbon chains that are connected to the glycerol backbone through a combination of carbon and oxygen atoms.
+      <idx><h>triglyceride</h></idx> <idx><h>glycerol</h></idx> <idx><h>fatty acid</h></idx>
+    </p>
+
+    <figure xml:id="fig-saturated-and-unsaturated-fatty-acid">
+      <caption>The two major types of fatty acids.</caption>
+      <image source="images/ch-03-the-kitchen/sec-the-major-kitchen-macromolecules/saturated-and-unsaturated-fatty-acid.png" width="80%"/>
+    </figure>
+
+    <p>
+      Fatty acids may vary on their structure.
+      If the hydrocarbon chain only contains single covalent bonds (i.e., the carbons only share one electron with each other), then the fatty acid is <term>saturated</term>.
+      Otherwise, it contains double bonds and is <term>unsaturated</term>.
+      Fatty acids with one double bond are <term>monounsaturated</term>, and fatty acids with more than one are <term>polyunsaturated</term>.
+      <idx><h>fatty acid</h><h>saturated</h></idx> <idx><h>fatty acid</h><h>monounsaturated</h></idx> <idx><h>fatty acid</h><h>polyunsaturated</h></idx>
+    </p>
+    <aside>
+      <title>Numbering carbons in fatty acids</title>
+
+      <p>
+        The carbon atoms are labeled <q>omega</q> or <m>\omega</m> starting from the carbon at the end.
+        Each subsequent atom adopts an increasing number, so <q>omega-1</q> ( <m>\omega - 1</m> ) and <q>omega-2</q> ( <m>\omega - 2</m> ) and so on.
+        The fatty acid at the bottom of <xref ref="fig-saturated-and-unsaturated-fatty-acid"/> can thus be called an <em>omega-3 fatty acid</em>, since there is a double bond on the omega-3 carbon.
+        <idx><h>omega-3 fatty acid</h></idx>
+      </p>
+    </aside>
+
+    <p>
+      As <xref ref="fig-saturated-and-unsaturated-fatty-acid"/> shows, the hydrocarbon chains of saturated fatty acids are straight and linear.
+      These molecules can therefore stack tightly together into dense structures even at room temperature.
+      Butter, lard, and coconut oil are examples of saturated fats.
+      <idx><h>butter</h></idx> <idx><h>lard</h></idx> <idx><h>coconut oil</h></idx>
+    </p>
+
+    <p>
+      In contrast, the double bonds in unsaturated fats introduce bends called kinks into the chain.
+      These kinks prevent tight stacking, keeping them liquid oils at room temperature.
+      <idx><h>kink</h></idx>
+    </p>
+
+    <p>
+      Unlike water, fats do not boil away at <quantity><mag>100</mag><unit base="celsius"/></quantity>.
+      They can reach <quantity><mag>180</mag><unit base="celsius"/></quantity> to <quantity><mag>200</mag><unit base="celsius"/></quantity>, making frying and searing possible.
+      This makes oils incredibly important for cooking.
+    </p>
+  </subsection>
+</section>

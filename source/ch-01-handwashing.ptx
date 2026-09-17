@@ -3,12 +3,22 @@
 <chapter xml:id="ch-01-handwashing" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Handwashing</title>
 
-  <!-- include sections -->
-  <xi:include href="./ch-01-handwashing/sec-water-and-oil.ptx" />
-  <xi:include href="./ch-01-handwashing/sec-soaps.ptx" />
-  <xi:include href="./ch-01-handwashing/sec-problems-with-soap.ptx" />
-  <xi:include href="./ch-01-handwashing/sec-myths-about-handwashing.ptx" />
-  <xi:include href="./ch-01-handwashing/sec-ch-01-key-concepts.ptx" />
-  <xi:include href="./ch-01-handwashing/sec-ch-01-additional-details.ptx" />
+  <introduction>
+    <p>
+      We begin our exploration into the fascinating chemistry happening in our home by looking at how we wash our hands.
+      The familiar products we use <mdash/> soap and rubbing alcohol <mdash/> work so much better than pure water. Why is that?
+    </p>
 
+    <p>
+      The core theme in this chapter will be <term>polarity</term>, as we will see that it governs many of the molecular interactions we will discuss in this chapter.
+      <idx><h>polarity</h></idx>
+    </p>
+  </introduction>
+  <!-- include sections -->
+  <xi:include href="./ch-01-handwashing/sec-water-and-oil.ptx"/>
+  <xi:include href="./ch-01-handwashing/sec-soaps.ptx"/>
+  <xi:include href="./ch-01-handwashing/sec-problems-with-soap.ptx"/>
+  <xi:include href="./ch-01-handwashing/sec-myths-about-handwashing.ptx"/>
+  <xi:include href="./ch-01-handwashing/sec-ch-01-key-concepts.ptx"/>
+  <xi:include href="./ch-01-handwashing/sec-ch-01-additional-details.ptx"/>
 </chapter>

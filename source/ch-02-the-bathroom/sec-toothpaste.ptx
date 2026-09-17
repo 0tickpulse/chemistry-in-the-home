@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec-toothpaste" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Toothpaste</title>
+
+  <subsection xml:id="subsec-unlike-the-skin-tooth-enamel-is-mostly-minerals">
+    <title>Unlike the Skin, Tooth Enamel is Mostly Minerals</title>
+
+    <p>
+      When we explored the structure of the skin, we mentioned that the outermost layer consists of cells and an extracellular matrix.
+      Teeth are completely different.
+    </p>
+
+    <p>
+      The part of the tooth that is exposed to the air is called the <term>crown</term>, and the outermost layer of it is called the <term>enamel</term>.
+      The outer enamel has no living cells or blood vessels.
+      Made of roughly 96% minerals by weight, it is the hardest substance in your body.
+      <idx><h>crown (teeth)</h></idx> <idx><h>enamel</h></idx>
+    </p>
+
+    <p>
+      The primary mineral in the enamel is called <term>hydroxyapatite</term>.
+      Similar to table salt ( <m>\ce{NaCl}</m> ), it is an ionic substance, consisting of a positive part and a negative part.
+      In this case, the positive ion is calcium ( <m>\ce{Ca^{2+}}</m> ), and the negative ion is a combination of <term>phosphate</term> ( <m>\ce{PO4^{3-}}</m> ) and <term>hydroxide</term> ( <m>\ce{OH-}</m> ).
+      The full formula for hydroxyapatite is <m>\ce{Ca10(PO4)6(OH)2}</m>.
+      <idx><h>hydroxyapatite</h></idx> <idx><h>phosphate</h></idx> <idx><h>hydroxide</h></idx>
+    </p>
+
+    <p>
+      Enamel exists in a dynamic environment; when the surrounding fluid becomes slightly undersaturated or acidic, hydroxyapatite can dissolve in a process called <term>demineralization</term>.
+      Conversely, saliva replenishes these lost minerals through <term>remineralization</term>.
+      <idx><h>demineralization</h></idx> <idx><h>remineralization</h></idx>
+    </p>
+
+    <p>
+      On top of teeth, a thin layer of bacteria and fungi may form, forming a sticky film called <term>plaque</term>.
+      A buildup of plaque may cause tooth decay and other dental problems.
+      <idx><h>plaque</h></idx>
+    </p>
+  </subsection>
+
+  <subsection xml:id="subsec-bacterial-acids-accelerate-demineralization">
+    <title>Bacterial Acids Accelerate Demineralization</title>
+
+    <p>
+      Normally, the tug-of-war between demineralization and remineralization is in a comfortable middle-ground ( this is called a <term>dynamic equilibrium</term> ).
+      But this may be disrupted by oral bacteria, such as <foreign>Streptococcus mutans</foreign>.
+      As we will further explore in <xref ref="ch-03-the-kitchen"/>, the bacteria will feed on certain types of food and ferment them into a substance called <term>lactic acid</term>.
+      <idx><h>dynamic equilibrium</h></idx> <idx><h>Streptococcus mutans</h></idx> <idx><h>fermentation</h></idx> <idx><h>lactic acid</h></idx>
+    </p>
+
+    <p>
+      Recall that acids release and donate protons, or <m>\ce{H+}</m>.
+      As protons are positive charges, they attract negative charges, including the negative phosphate and hydroxide ions in hydroxyapatite in the enamel.
+      This process accelerates demineralization, stripping the negative ions out and collapsing the mineral structure.
+    </p>
+
+    <p>
+      When the oral pH drops below about 5.5, demineralization outpaces the saliva's ability to repair tooth enamel, leading to the formation of microscopic cavities.
+    </p>
+  </subsection>
+
+  <subsection xml:id="subsec-fluoride-toothpastes-replace-hydroxyapatite-with-fluorapatite">
+    <title>Fluoride Toothpastes Replace Hydroxyapatite with Fluorapatite</title>
+
+    <p>
+      The active ingredient in a fluoride toothpaste is, as its name suggests, fluoride, or <m>\ce{F-}</m>.
+      Notice that the charge (negative one) is the exact same as the charge of hydroxide ( <m>\ce{OH-}</m> ).
+      Incidentally, a fluoride ion also matches the size of hydroxide.
+      These facts make fluoride able to replace hydroxide in hydroxyapatite, forming <term>fluorapatite</term>, or <m>\ce{Ca10(PO4)6F2}</m>.
+      <idx><h>fluoride toothpaste</h></idx> <idx><h>fluoride</h></idx> <idx><h>fluorapatite</h></idx>
+    </p>
+
+    <p>
+      A unique property of fluoride is that it hogs electrons <em>a lot</em> <mdash/> the most out of any atom (in <xref ref="subsec-polarity-is-based-on-the-electronegativity-of-atoms"/>, we mentioned that fluorine is the most electronegative atom).
+      It is able to bind to the calcium ions ( <m>\ce{Ca^{2+}}</m> ) much more tightly than hydroxide.
+      This makes it harder for acids to dissolve the mineral.
+      In fact, the pH needed for dissolution drops from 5.5 to 4.5.
+    </p>
+
+    <example>
+      <statement>
+        <p>
+          Soak one plain chicken eggshell in white vinegar.
+          Coat a second eggshell in fluoride toothpaste for 10 minutes, wipe it clean, and submerge it in a separate cup of vinegar.
+          What happens?
+          Why?
+        </p>
+      </statement>
+
+      <solution>
+        <p>
+          The untreated eggshell bubbles violently and softens.
+          On the other hand, the fluoride-treated shell bubbles significantly slower and maintains its structural rigidity stronger.
+        </p>
+
+        <p>
+          Vinegar is made of an acid called <term>acetic acid</term>.
+          When eggshell, made primarily of calcium carbonate ( <m>\ce{CaCO3}</m> ), is exposed to it, the acid dissolves them in a process similar to demineralization in teeth.
+          <idx><h>acetic acid</h></idx>
+        </p>
+
+        <p>
+          When toothpaste is introduced to the shell, the fluoride ions bind into the surface minerals, forming an acid-resistant barrier that slows down the process.
+        </p>
+      </solution>
+    </example>
+  </subsection>
+
+  <subsection xml:id="subsec-toothpaste-also-contains-abrasives-humectants-and-surfactants">
+    <title>Toothpaste Also Contains Abrasives, Humectants, and Surfactants</title>
+
+    <p>
+      In addition to fluoride, a tube of toothpaste contains other ingredients.
+      One such ingredient is <term>abrasives</term>.
+      Abrasives are insoluble mineral particles, such as hydrated silica ( <m>\ce{SiO2}</m> ) or calcium carbonate ( <m>\ce{CaCO3}</m> ).
+      These minerals are softer than hydroxyapatite, and are thus able to scour plaque without grinding down the enamel.
+      <idx><h>abrasive</h></idx>
+    </p>
+
+    <p>
+      Similar to skin moisturizers ( <xref ref="subsec-humectants-pull-water-from-deeper-layers-of-the-skin"/> ), toothpaste also contains humectants.
+      Without them, the paste would quickly dry into a solid plug at the toothpaste's tube nozzle.
+      Common humectants used in toothpaste include sorbitol and glycerin.
+      <idx><h>humectant</h></idx> <idx><h>sorbitol</h></idx>
+    </p>
+
+    <p>
+      Lastly, toothpaste contains surfactants, mainly sodium lauryl sulfate (SLS).
+      Surfactants generate lather and enclose debris within micelles, similar to how they were used in soap ( <xref ref="sec-soaps"/> ) and shampoo ( <xref ref="sec-shampoos-and-conditioners"/> ).
+    </p>
+
+    <example>
+      <title>Orange Juice and Toothpaste</title>
+
+      <statement>
+        <p>
+          There is a common phenomenon that occurs as follows: apply toothpaste, and then drink orange juice.
+          The taste is often utterly repulsive <mdash/> why is that?
+        </p>
+      </statement>
+
+      <solution>
+        <p>
+          As we will elaborate on in <xref ref="ch-03-the-kitchen"/>, the tongue contains taste receptors for different tastes, such as sweet and bitter.
+          When toothpaste is introduced into the mouth, the SLS molecules temporarily numb the sweet receptors, and also break down the phospholipids that normally block the bitter receptors.
+          As a result, the sweetness of orange juice is completely masked, and you only taste the raw bitterness.
+          <idx><h>taste receptor</h></idx>
+        </p>
+      </solution>
+    </example>
+  </subsection>
+</section>

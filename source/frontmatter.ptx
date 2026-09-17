@@ -41,32 +41,48 @@
 
   <preface xml:id="preface">
     <p>
-      We tend to miss out on the incredible, living chemistry unfolding right
-      under our noses.
-      When seen from the right angle, your home is a perfect demonstration lab
-      of a myriad of chemistry concepts.
-      Every time you wash your hands after eating buttered popcorn, fry an egg,
-      iron a shirt, brush your teeth, or bleach a stain, you are executing
-      complex chemical reactions and manipulating physical forces.
+      We tend to miss out on the incredible, living chemistry unfolding right under our noses.
+      When seen from the right angle, your home is a perfect demonstration lab of a myriad of chemistry concepts.
+      Every time you wash your hands after eating buttered popcorn, fry an egg, iron a shirt, brush your teeth, or bleach a stain, you are executing complex chemical reactions and manipulating physical forces.
     </p>
 
     <p>
-      I have specifically written this text for someone with zero background in
-      science.
-      No prior knowledge in chemistry is assumed, and I assure you that there
-      will not be any dense pages of derivations or reaction schemes.
-      Instead, I ask of you a curiosity about the various processes happening
-      around you <mdash/> why water alone cannot wash off grease; why
-      conditioner makes hair feel silky; why steak browns while boiling meat
-      turns gray.
+      I have specifically written this text for someone with zero background in science.
+      No prior knowledge in chemistry is assumed, and I assure you that there will not be any dense pages of derivations or reaction schemes.
+      Instead, I ask of you a curiosity about the various processes happening around you <mdash/> why water alone cannot wash off grease; why conditioner makes hair feel silky; why steak browns while boiling meat turns gray.
     </p>
 
     <p>
-      But this does not mean I am dumbing down anything or avoiding complex
-      topics.
-      You will encounter molecular orbital theory, spectroscopy, protein
-      analysis, and other topics typically learned by chemistry majors.
-      I will try to gently introduce these topics using a intuitive physical model, and slowly level up our understanding as needed.
+      But this does not mean we are dumbing down anything or avoiding complex topics.
+      You will encounter molecular orbital theory, spectroscopy, protein analysis, and other topics typically learned by chemistry majors.
+      We will try to gently introduce these topics using a intuitive physical model, and slowly level up our understanding as needed.
     </p>
+    <aside>
+      <title>Disclosure of AI usage</title>
+
+      <p>
+        AI was partially used in the creation of these notes for:
+        <ol>
+          <li>
+            <p>
+              Initial brainstorming processes,
+            </p>
+          </li>
+
+          <li>
+            <p>
+              Developing <c>tools/prepare-figure.py</c> to add a white background to handdrawn figures, and
+            </p>
+          </li>
+
+          <li>
+            <p>
+              Fixing minor issues with the index.
+            </p>
+          </li>
+        </ol>
+        AI was <em>not</em> used to write any content or generate any figure.
+      </p>
+    </aside>
   </preface>
 </frontmatter>

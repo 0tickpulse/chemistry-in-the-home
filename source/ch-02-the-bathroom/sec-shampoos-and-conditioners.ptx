@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec-shampoos-and-conditioners" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Shampoos and Conditioners</title>
+
+  <introduction>
+    <p>
+      With a good understanding of what gives our hair its structure, we can now understand how haircare products work.
+      Shampoos are products that clean your hair.
+      But if you only use shampoos, the wet hair will feel rough and difficult to run one's fingers through.
+      Once it dries, you will notice flyaway hairs and static cling.
+      We will learn about why this happens and how conditioners fix this, but we will first need an understanding of the structure and properties of shampoo.
+    </p>
+  </introduction>
+
+  <subsection xml:id="subsec-shampoos-and-soaps-both-use-anionic-surfactants">
+    <title>Shampoos and Soaps Both Use Anionic Surfactants</title>
+
+    <p>
+      Recall from our discussion in <xref ref="subsec-soaps-are-surfactants-that-lower-surface-tension"/> that soaps are surfactants with a negative charge <mdash/> anionic surfactants.
+      It turns out shampoos also function in the same way.
+      <idx><h>shampoo</h></idx> <idx><h>surfactant</h><h>anionic</h></idx>
+    </p>
+
+    <p>
+      The most common surfactants in shampoos are <term>sodium lauryl sulfate</term> (SLS) and <term>sodium laureth sulfate</term> (SLES).
+      Similar to soap, shampoo works by trapping grease into micelles as the hair is rinsed.
+      <idx><h>sodium lauryl sulfate</h></idx> <idx><h>sodium laureth sulfate</h></idx> <idx><h>SLS</h><see>sodium lauryl sulfate</see></idx> <idx><h>SLES</h><see>sodium laureth sulfate</see></idx>
+    </p>
+
+    <figure xml:id="fig-sls-sles-structures">
+      <caption>The chemical structures of the two main surfactants used in shampoos, SLS and SLES. Similar to soap, they have a hydrophobic hydrocarbon chain and a hydrophilic group. Sodium atoms are added to stabilize the charge.</caption>
+      <image source="images/ch-02-the-bathroom/sec-shampoos-and-conditioners/sls-sles-structures.png" width="80%"/>
+    </figure>
+    <aside>
+      <title>SLS and SLES</title>
+
+      <p>
+        The structures of SLS and SLES are shown in <xref ref="fig-sls-sles-structures"/>.
+        The hydrocarbon-sulfate molecule is similar to the hydrocarbon-carboxylate molecule we discussed with soap.
+        A bottle cannot hold only negative charges; positive and negative charges must balance out overall (a rule called electrical neutrality).
+        That is why a positive spectator ion, like <m>\ce{Na+}</m>, is paired with each surfactant molecule.
+      </p>
+    </aside>
+
+    <p>
+      What does shampoo actually clean?
+      The scalp contains glands (sebaceous glands) that release an oily mixture called <term>sebum</term>.
+      It naturally waterproofs and lubricates hair, but it also traps environmental dust and dead skin cells, leading to greasiness and odor.
+      <idx><h>sebaceous glands</h></idx> <idx><h>sebum</h></idx>
+    </p>
+
+    <figure xml:id="fig-sebum">
+      <caption>The sebaceous gland in the hair releases sebum to lubricate the skin.</caption>
+      <image source="images/ch-02-the-bathroom/sec-shampoos-and-conditioners/sebum.png" width="40%"/>
+    </figure>
+
+    <p>
+      In <xref ref="subsec-polar-substances-only-dissolve-other-polar-substances"/>, we learned that water does not wash oils away because polar substances only dissolve polar substances.
+      Likewise, water alone fails to wash the scalp <mdash/> water simply beads off the nonpolar sebum layer on the hair shaft, requiring an amphiphilic surfactant to lift it off.
+    </p>
+
+    <p>
+      Of course, real shampoo products contain more ingredients than the surfactant.
+      They may contain additives for conditioning and aesthetic features, as well as certain ingredients to address specific problems, like dandruff or greasy hair.
+    </p>
+  </subsection>
+
+  <subsection xml:id="subsec-shampoos-leave-the-cuticle-negatively-charged">
+    <title>Shampoos Leave the Cuticle Negatively Charged</title>
+
+    <p>
+      Like the rest of the skin, the hair is coated in a thin layer of protective oil.
+      An anionic surfactant like SLS lifts off the surface dust and stale oil, but it will also dissolve away this coating.
+      Wet, freshly shampooed hair will thus feel <q>squeakily clean</q> <mdash/> the squeak comes from friction between raw, unlubricated protein scales rubbing against each other.
+    </p>
+
+    <p>
+      Keratin proteins contain acidic parts.
+      In <xref ref="subsec-ph-is-a-measure-of-proton-concentration"/>, we explained that acids release protons.
+      Keratin naturally does the same, and removing a proton (positively charged) leaves a negative charge on the keratin (because the total charge stays the same).
+      When the hair was coated in oil, these negative charges were buried and isolated from the outside world.
+      But when the oil layer is washed away and rinsed with water, millions of these negative charges on the hair shaft are suddenly exposed to the air.
+    </p>
+
+    <figure xml:id="fig-keratin-releases-protons">
+      <caption>The release of protons leaves the keratin in the hair negatively charged. When oil is removed, they repel one another.</caption>
+      <image source="images/ch-02-the-bathroom/sec-shampoos-and-conditioners/keratin-releases-protons.png" width="80%"/>
+    </figure>
+
+    <p>
+      Like charges repel each other.
+      These strands, now all with exposed negative charges, will begin to physically push away from each other, as well as different parts of themselves.
+      Instead of resting together in a smooth, unified sheet, individual hair strands flare out in all directions, creating frizz and flyaways.
+    </p>
+
+    <p>
+      Moreover, the cuticle scales on each strand are also coated with negative charges.
+      They repel the shaft beneath them, forcing the scales to lift open like a dry pinecone.
+      The opened scales catch on neighboring hairs, creating knots, tangles, and dullness.
+    </p>
+
+    <example>
+      <statement>
+        <p>
+          Shampoo your hair and dry it, but do not use conditioner.
+          Then rub an inflated balloon or a plastic comb against the hair.
+          What happens?
+          Why?
+        </p>
+      </statement>
+
+      <solution>
+        <p>
+          Hair strands immediately stand up, track the balloon or comb, and flare wildly apart.
+        </p>
+
+        <p>
+          Rubbing friction physically transfers extra electrons between the plastic and the hair.
+          Because the hair is stripped of oil and already carries an exposed net negative charge, this extra charge dramatically amplifies the electrostatic repulsion, forcing each strand to push violently away from its neighbors.
+        </p>
+      </solution>
+    </example>
+
+    <p>
+      It is the job of the conditioner to neutralize the negative charges and seal the pinecone scales flat.
+    </p>
+  </subsection>
+
+  <subsection xml:id="subsec-conditioners-use-cationic-surfactants">
+    <title>Conditioners Use Cationic Surfactants</title>
+
+    <p>
+      Unlike shampoos, whose active ingredient is an <em>anionic</em> surfactant, conditioners use <em>cationic</em> surfactants, such as behentrimonium chloride or cetrimonium chloride.
+      Their structures are similar to anionic surfactants like SLS, consisting of a hydrophilic head and a hydrophobic hydrocarbon tail, but the head regions are positively charged.
+      <idx><h>conditioner</h></idx> <idx><h>surfactant</h><h>cationic</h></idx> <idx><h>behentrimonium chloride</h></idx> <idx><h>cetrimonium chloride</h></idx>
+    </p>
+
+    <figure xml:id="fig-conditioner-surfactants">
+      <caption>Two examples of cationic surfactants used in conditioners, behentrimonium chloride and cetrimonium chloride.</caption>
+      <image source="images/ch-02-the-bathroom/sec-shampoos-and-conditioners/conditioner-surfactants.png" width="80%"/>
+    </figure>
+
+    <p>
+      When introduced to an exposed hair strand, the positive heads are pulled towards the negatively charged hair shaft.
+      This neutralizes the charges; positive charges and negative charges leave a net zero charge overall.
+      With no more mutual repulsion, flyaways and static vanish.
+    </p>
+
+    <figure xml:id="fig-cationic-surfactant-on-negatively-charged-hair">
+      <caption>Surfactant molecules in conditioners bind to the negative charges in the hair. The presence of water causes the tails to stick to the side of the hair shaft, offering further protection.</caption>
+      <image source="images/ch-02-the-bathroom/sec-shampoos-and-conditioners/cationic-surfactant-on-negatively-charged-hair.png" width="80%"/>
+    </figure>
+
+    <p>
+      The mechanism of conditioners also extends beyond neutralizing the charge.
+      Recall that the hydrophobic tail is pushed away by water ( <xref ref="subsec-polar-substances-only-dissolve-other-polar-substances"/> ).
+      Water forces the tails of the cationic surfactants to collapse flat onto the hair surface.
+      This forms a microscopic lubricant layer that mimics the natural sebum stripped away by shampoo.
+      With friction reduced and the charges balanced, the flared cuticle scales (the <q>pinecone</q> ) settle back as well.
+    </p>
+  </subsection>
+
+  <subsection xml:id="subsec-one-bottle-cannot-contain-both-shampoo-and-conditioner">
+    <title>One Bottle Cannot Contain Both Shampoo and Conditioner</title>
+
+    <p>
+      If shampoo cleans hair and conditioner smoothens hair, why don't manufacturers just mix them in equal parts into one bottle?
+    </p>
+
+    <p>
+      The issue, again, boils down to how charges interact.
+      Given that shampoo surfactants are anionic and conditioner surfactants are cationic, their heads will just be attracted to each other.
+      If mixed in water, their heads lock instantly, canceling each other out and precipitating as an insoluble sludge.
+      The shampoo cannot form micelles and the conditioner cannot bind to hair.
+    </p>
+
+    <p>
+      There are indeed 2-in-1 products that claim to act both as shampoo and conditioner.
+      The shampoo component of these products is standard, but the conditioner component does not use cationic surfactants.
+      Instead, they rely on large, nonpolar molecules (like silicones) suspended within shampoo molecules.
+      While that works as a quick shortcut, these molecules do not easily bind to the hair and never condition as well as a sequential, two-step wash.
+    </p>
+  </subsection>
+</section>

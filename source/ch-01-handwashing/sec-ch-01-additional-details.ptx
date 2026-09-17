@@ -29,12 +29,22 @@
       This is why this fundamental rule is often known as the <term>octet rule</term>.
     </p>
 
+    <figure xml:id="fig-formation-of-an-ionic-bond">
+      <caption>Sodium and chlorine atoms exchange electrons to obtain full shells, forming ions that attract each other.</caption>
+      <image source="images/ch-01-handwashing/sec-ch-01-additional-details/formation-of-an-ionic-bond.png" width="80%"/>
+    </figure>
+
     <p>
       Bonding occurs to fulfill the octet rule.
       For instance, in <m>\ce{NaCl}</m>, sodium has one valence electron, and it would be easiest to lose that electron (since the lower shell, which would become the outermost shell after losing that electron, is already full).
       Chlorine has seven valence electrons, and would readily gain an electron to fill its octet.
       <em>Perfect!</em> Sodium simply needs to give its extra electron to chlorine, forming an ionic bond.
     </p>
+
+    <figure xml:id="fig-formation-of-a-covalent-bond">
+      <caption>Two oxygen atoms have six valence electrons. They each share two electrons, completing the octet and forming a covalent bond.</caption>
+      <image source="images/ch-01-handwashing/sec-ch-01-additional-details/formation-of-a-covalent-bond.png" width="80%"/>
+    </figure>
 
     <p>
       A covalent bond is similar.
@@ -52,8 +62,8 @@
     <p>
       There is a quantity associated with how much an atom likes to hog electrons <mdash/> the atom's <term>electronegativity</term>.
       Labeled with the Greek letter <foreign>chi</foreign>, <m>\chi</m>, it ranges from 0.79 for the least electronegative atom (cesium) to 3.98 for the most (fluorine).
-      Generally speaking, electronegativity rises as you head to the upper-right corner of the periodic table.
-      In particular, nitrogen, oxygen, and fluorine are very electronegative atoms that we will see a lot in this text.
+      Generally speaking, electronegativity rises as you head to the upper-right corner of the periodic table; fluorine is the most electronegative atom.
+      Nitrogen, oxygen, and fluorine are very electronegative atoms that we will see a lot in this text.
     </p>
 
     <p>
@@ -90,18 +100,36 @@
 
     <p>
       To use this framework, we need to account for all the valence electrons in a molecule, as well as the electrons within bonds.
-      We count these in pairs.
-      In water ( <m>\ce{H2O}</m> ) for instance, the oxygen has two lone (unbonded) pairs and two bonds, totaling four pairs.
+      We count these in pairs called electron domains.
+      In water ( <m>\ce{H2O}</m> ) for instance, the oxygen has two lone (unbonded) pairs and two bonds, totaling four domains.
       The most effective arrangement of four pairs to minimize repulsion is a <em>tetrahedral</em> structure.
     </p>
-    <!-- TODO: figure of a tetrahedral geometry -->
+
+    <figure xml:id="fig-vsepr-water">
+      <caption>The electron and molecular geometry of water.</caption>
+      <image source="images/ch-01-handwashing/sec-ch-01-additional-details/vsepr-water.png" width="80%"/>
+    </figure>
+
     <p>
       The tetrahedral structure is said to be the <term>electron geometry</term> of the molecule.
       But when we actually consider the arrangements of the atoms, only the positions of the bonds matter, not the lone pairs.
       When only considering these bonds, we say that the <term>molecular geometry</term> of water is a <term>bent</term> shape.
-      <idx><h>electron geometry</h></idx> <idx><h>molecular geometry</h></idx> <idx><h>bent shape</h></idx>
+      <idx><h>electron geometry</h></idx> <idx><h>molecular geometry</h></idx> <idx><h>bent (geometry)</h></idx>
     </p>
     <!-- TODO: vsepr chart -->
+    <p>
+      Now consider carbon dioxide, <m>\ce{CO2}</m>.
+      The carbon atom has two bonds, each with one oxygen.
+      There are no lone pairs in the atom, so there are only a total of two electron domains.
+      The most effective way for the two domains to be as far away as possible is to be directly opposite to each other.
+      This forms a <term>linear geometry</term>.
+      <idx><h>linear (geometry)</h></idx>
+    </p>
+
+    <figure xml:id="fig-vsepr-co2">
+      <caption>The electron and molecular geometry of carbon dioxide.</caption>
+      <image source="images/ch-01-handwashing/sec-ch-01-additional-details/vsepr-co2.png" width="80%"/>
+    </figure>
   </subsection>
 
   <subsection xml:id="subsec-ph-is-a-measure-of-proton-concentration">
