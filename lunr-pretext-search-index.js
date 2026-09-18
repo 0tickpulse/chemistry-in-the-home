@@ -103,7 +103,7 @@ var ptx_lunr_docs = [
   "id": "example-water-droplets-on-wax-paper",
   "level": "2",
   "url": "sec-water-and-oil.html#example-water-droplets-on-wax-paper",
-  "type": "Checkpoint",
+  "type": "Example",
   "number": "1.1.3",
   "title": "",
   "body": " One easy way to show that water and oil differ a lot in their cohesion is as follows.  Grab a single drop of water and place it on wax paper. Do the same with a drop of cooking oil. You will notice that the water drop is much more tall and dome-shaped ( ). This is because the strong hydrogen bonds in the water make the waterdrop pull in on itself. This is called surface tension . In contrast, the oil drop spreads out flatly due to the absence of hydrogen bonds. surface tension   "
@@ -166,7 +166,7 @@ var ptx_lunr_docs = [
   "id": "subsec-polar-substances-only-dissolve-other-polar-substances-5",
   "level": "2",
   "url": "sec-water-and-oil.html#subsec-polar-substances-only-dissolve-other-polar-substances-5",
-  "type": "Checkpoint",
+  "type": "Example",
   "number": "1.1.7",
   "title": "",
   "body": "  Grab some water and vegetable oil again, and optionally some table salt.  If you place the salt in the water, it easily dissolves. On the other hand, if you pour the oil, the water and oil separate cleanly into different layers.  Now stir the water and oil vigorously. What happens? Why?    Initially, the stirring forces the water and oil to mix. But they immediately separate again.  This is because the hydrophobic oil gets pushed out by water molecules that try to stick together.   "
@@ -265,7 +265,7 @@ var ptx_lunr_docs = [
   "id": "example-make-pepper-move",
   "level": "2",
   "url": "sec-soaps.html#example-make-pepper-move",
-  "type": "Checkpoint",
+  "type": "Example",
   "number": "1.2.3",
   "title": "Make Pepper Move.",
   "body": " Make Pepper Move   Sprinkle some pepper evenly onto a bowl of water. Dip a Q-tip or a toothpick in soap, and place it into the center of the bowl. What happens? Why?    The pepper instantly shoots outward toward the edges of the bowl.  This happens because the soap breaks the high surface tension at the center of the water bowl. The remaining water around the edges still has high surface tension and pulls the water (and floating pepper) away from the soap drop.   "
@@ -319,7 +319,7 @@ var ptx_lunr_docs = [
   "id": "subsec-unlike-synthetic-detergents-soap-forms-scum-in-hard-water-4",
   "level": "2",
   "url": "sec-problems-with-soap.html#subsec-unlike-synthetic-detergents-soap-forms-scum-in-hard-water-4",
-  "type": "Checkpoint",
+  "type": "Example",
   "number": "1.3.1",
   "title": "",
   "body": "  Fill two small jars (call them jars A and B) with tap water. In jar B, dissolve a spoonful of Epsom salt (magnesium sulfate) to create artificial hard water. Add a few drops of liquid hand soap to both jars, cap them, and shake vigorously. What happens? Why?    In jar A, clear, thick foam forms due to the formation of micelles. In jar B, the magnesium ions disrupt micelle formation, forming cloudy water with less foam.   "
@@ -403,7 +403,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "1.6",
   "title": "Additional Details",
-  "body": " Additional Details   Every chapter will have a section like this for readers who are more curious about how the chemistry works. We will be digging deeper and discussing more fundamental and theoretical concepts in these sections. They may safely be skipped.    Atoms are the Most Stable When Their Outermost Shells are Full  Why do some atoms attract electrons more? And more importantly, why do bonds form at all? The fundamental idea is that atoms like to have full electron shells . Electrons in atoms are arranged in shells, with the first three shells having two, eight, and eight electrons respectively. The electrons in the outermost shell are known as valence electrons , with the rest being core electrons . valence electrons  core electrons   Due to certain quantum mechanical reasons, atoms are most stable when they have a maximum number of valence electrons. A lot of chemistry happens in the second and third electron shells, where an octet (8 electrons) is the most stable. This is why this fundamental rule is often known as the octet rule .   Sodium and chlorine atoms exchange electrons to obtain full shells, forming ions that attract each other.    Bonding occurs to fulfill the octet rule. For instance, in , sodium has one valence electron, and it would be easiest to lose that electron (since the lower shell, which would become the outermost shell after losing that electron, is already full). Chlorine has seven valence electrons, and would readily gain an electron to fill its octet. Perfect! Sodium simply needs to give its extra electron to chlorine, forming an ionic bond.   Two oxygen atoms have six valence electrons. They each share two electrons, completing the octet and forming a covalent bond.    A covalent bond is similar. Imagine two oxygen atoms, both bearing six valence electrons. Each could share two electrons with the other atom, giving each atom a full octet. Notice that for a covalent bond to form, both atoms must be close to filling a full shell. In an ionic bond, one of the atoms is close to a full shell, whereas the other has a low amount of valence electrons.    Polarity is Based on the Electronegativity of Atoms   There is a quantity associated with how much an atom likes to hog electrons the atom's electronegativity . Labeled with the Greek letter chi , , it ranges from 0.79 for the least electronegative atom (cesium) to 3.98 for the most (fluorine). Generally speaking, electronegativity rises as you head to the upper-right corner of the periodic table. In particular, nitrogen, oxygen, and fluorine are very electronegative atoms that we will see a lot in this text.  The difference in electronegativity between two atoms is what accounts for the polarity of a covalent bond between them. Oxygen ( ) and hydrogen ( ) have a electronegativity difference of , which is significant enough for to be considered a polar bond. If the electronegativity difference is high enough, such as in the case of sodium ( ) chloride ( ), we treat the bond as an ionic bond. ionic bond   When the electronegativity difference is low, the bond is nonpolar. This can happen in two ways. First, atoms share electrons to complete an octet this is the covalent bond we are familiar with. Second, atoms let go of their electrons to form a sea of electrons that can move around this is known as metallic bonding . Generally, covalent bonds form when it is easier to gain electrons to form an octet, whereas metallic bonds form when it is easier to lose electrons to empty the outermost electron shell. bond metallic     The Geometry of a Molecule is Approximated by VSEPR Theory  Now that we have covered how bonds form, we still need to understand why molecules are shaped in certain ways why is water ( ) bent but carbon dioxide ( ) linear? The three-dimensional structure of molecules plays an incredibly important role in determining how they interact with one another we saw this with water and soap.  Of course, the most reliable way to determine a molecule's geometry is to just observe a sample of the molecule. But there are some convenient frameworks for approximating the geometry, the simplest of which is valence shell electron pair repulsion theory, or VSEPR theory. The theory is based on the idea that electrons repel each other, so atoms arrange themselves such that their electrons are as far away from one another as possible. valence shell electron pair repulsion theory VSEPR theory  VSEPR theory   To use this framework, we need to account for all the valence electrons in a molecule, as well as the electrons within bonds. We count these in pairs called electron domains. In water ( ) for instance, the oxygen has two lone (unbonded) pairs and two bonds, totaling four domains. The most effective arrangement of four pairs to minimize repulsion is a tetrahedral structure.   The electron and molecular geometry of water.    The tetrahedral structure is said to be the electron geometry of the molecule. But when we actually consider the arrangements of the atoms, only the positions of the bonds matter, not the lone pairs. When only considering these bonds, we say that the molecular geometry of water is a bent shape. electron geometry  molecular geometry  bent (geometry)    Now consider carbon dioxide, . The carbon atom has two bonds, each with one oxygen. There are no lone pairs in the atom, so there are only a total of two electron domains. The most effective way for the two domains to be as far away as possible is to be directly opposite to each other. This forms a linear geometry . linear (geometry)    The electron and molecular geometry of carbon dioxide.      pH is a Measure of Proton Concentration   We mentioned pH briefly in , but I did not explicitly define what pH actually is. It has to do with the concentration of protons in a solution, measured in moles per liter (1 mole is atoms or ions). The higher the proton concentration, the more acidic a solution is.  By the way, a proton is the same as a ion. A hydrogen atom has one proton and one electron; if we remove one electron, we simply have a proton remaining. Therefore, is used synonymously with proton . The concentration of something is written with square brackets, so the proton concentration will be written as .  Typically, proton concentration is best written in powers of ten, such as or (with higher\/less negative powers indicating higher concentration). As a shortcut, we just write the number in the exponent, in this case 5 and 4, to indicate the concentration. This number is called the pH . pH   By the way, the letter p appears a lot in other values, and it represents the same process of extracting the negative exponent in a power of 10. This process is also called a logarithm , so the pH can be written as .   "
+  "body": " Additional Details   Every chapter will have a section like this for readers who are more curious about how the chemistry works. We will be digging deeper and discussing more fundamental and theoretical concepts in these sections. They may safely be skipped.    Atoms are the Most Stable When Their Outermost Shells are Full  Why do some atoms attract electrons more? And more importantly, why do bonds form at all? The fundamental idea is that atoms like to have full electron shells . Electrons in atoms are arranged in shells, with the first three shells having two, eight, and eight electrons respectively. The electrons in the outermost shell are known as valence electrons , with the rest being core electrons . valence electrons  core electrons   Due to certain quantum mechanical reasons, atoms are most stable when they have a maximum number of valence electrons. A lot of chemistry happens in the second and third electron shells, where an octet (8 electrons) is the most stable. This is why this fundamental rule is often known as the octet rule .   Sodium and chlorine atoms exchange electrons to obtain full shells, forming ions that attract each other.    Bonding occurs to fulfill the octet rule. For instance, in , sodium has one valence electron, and it would be easiest to lose that electron (since the lower shell, which would become the outermost shell after losing that electron, is already full). Chlorine has seven valence electrons, and would readily gain an electron to fill its octet. Perfect! Sodium simply needs to give its extra electron to chlorine, forming an ionic bond.   Two oxygen atoms have six valence electrons. They each share two electrons, completing the octet and forming a covalent bond.    A covalent bond is similar. Imagine two oxygen atoms, both bearing six valence electrons. Each could share two electrons with the other atom, giving each atom a full octet. Notice that for a covalent bond to form, both atoms must be close to filling a full shell. In an ionic bond, one of the atoms is close to a full shell, whereas the other has a low amount of valence electrons.    Polarity is Based on the Electronegativity of Atoms   There is a quantity associated with how much an atom likes to hog electrons the atom's electronegativity . Labeled with the Greek letter chi , , it ranges from 0.79 for the least electronegative atom (cesium) to 3.98 for the most (fluorine). Generally speaking, electronegativity rises as you head to the upper-right corner of the periodic table; fluorine is the most electronegative atom. Nitrogen, oxygen, and fluorine are very electronegative atoms that we will see a lot in this text.  The difference in electronegativity between two atoms is what accounts for the polarity of a covalent bond between them. Oxygen ( ) and hydrogen ( ) have a electronegativity difference of , which is significant enough for to be considered a polar bond. If the electronegativity difference is high enough, such as in the case of sodium ( ) chloride ( ), we treat the bond as an ionic bond. ionic bond   When the electronegativity difference is low, the bond is nonpolar. This can happen in two ways. First, atoms share electrons to complete an octet this is the covalent bond we are familiar with. Second, atoms let go of their electrons to form a sea of electrons that can move around this is known as metallic bonding . Generally, covalent bonds form when it is easier to gain electrons to form an octet, whereas metallic bonds form when it is easier to lose electrons to empty the outermost electron shell. bond metallic     The Geometry of a Molecule is Approximated by VSEPR Theory  Now that we have covered how bonds form, we still need to understand why molecules are shaped in certain ways why is water ( ) bent but carbon dioxide ( ) linear? The three-dimensional structure of molecules plays an incredibly important role in determining how they interact with one another we saw this with water and soap.  Of course, the most reliable way to determine a molecule's geometry is to just observe a sample of the molecule. But there are some convenient frameworks for approximating the geometry, the simplest of which is valence shell electron pair repulsion theory, or VSEPR theory. The theory is based on the idea that electrons repel each other, so atoms arrange themselves such that their electrons are as far away from one another as possible. valence shell electron pair repulsion theory VSEPR theory  VSEPR theory   To use this framework, we need to account for all the valence electrons in a molecule, as well as the electrons within bonds. We count these in pairs called electron domains. In water ( ) for instance, the oxygen has two lone (unbonded) pairs and two bonds, totaling four domains. The most effective arrangement of four pairs to minimize repulsion is a tetrahedral structure.   The electron and molecular geometry of water.    The tetrahedral structure is said to be the electron geometry of the molecule. But when we actually consider the arrangements of the atoms, only the positions of the bonds matter, not the lone pairs. When only considering these bonds, we say that the molecular geometry of water is a bent shape. electron geometry  molecular geometry  bent (geometry)    Now consider carbon dioxide, . The carbon atom has two bonds, each with one oxygen. There are no lone pairs in the atom, so there are only a total of two electron domains. The most effective way for the two domains to be as far away as possible is to be directly opposite to each other. This forms a linear geometry . linear (geometry)    The electron and molecular geometry of carbon dioxide.      pH is a Measure of Proton Concentration   We mentioned pH briefly in , but I did not explicitly define what pH actually is. It has to do with the concentration of protons in a solution, measured in moles per liter (1 mole is atoms or ions). The higher the proton concentration, the more acidic a solution is.  By the way, a proton is the same as a ion. A hydrogen atom has one proton and one electron; if we remove one electron, we simply have a proton remaining. Therefore, is used synonymously with proton . The concentration of something is written with square brackets, so the proton concentration will be written as .  Typically, proton concentration is best written in powers of ten, such as or (with higher\/less negative powers indicating higher concentration). As a shortcut, we just write the number in the exponent, in this case 5 and 4, to indicate the concentration. This number is called the pH . pH   By the way, the letter p appears a lot in other values, and it represents the same process of extracting the negative exponent in a power of 10. This process is also called a logarithm , so the pH can be written as .   "
 },
 {
   "id": "subsec-atoms-are-the-most-stable-when-their-outermost-shells-are-full-2",
@@ -598,7 +598,7 @@ var ptx_lunr_docs = [
   "id": "subsec-hydrogen-bonds-account-for-the-temporary-structure-of-hair-5",
   "level": "2",
   "url": "sec-the-structure-of-hair.html#subsec-hydrogen-bonds-account-for-the-temporary-structure-of-hair-5",
-  "type": "Checkpoint",
+  "type": "Example",
   "number": "2.1.5",
   "title": "Morning Bedhead.",
   "body": " Morning Bedhead  One common situation where this comes into play is morning bedhead. While you sleep, the weight of your head against the pillow squashes your hair strands into weird, bent angles. If your hair is wet either because you did not dry it thoroughly, or due to sweat or slight ambient humidity then the hydrogen bonds are temporarily broken.  Then, as your hair sits, pressed against the mattress overnight, the water will eventually evaporate. New hydrogen bonds form and freeze the proteins in the bent, distorted shape.  You cannot brush bedhead out easily because these hydrogen bonds are locked in place. On the other hand, splash some water on your head, and the strands easily relax back to baseline.  "
@@ -688,7 +688,7 @@ var ptx_lunr_docs = [
   "id": "subsec-shampoos-leave-the-cuticle-negatively-charged-7",
   "level": "2",
   "url": "sec-shampoos-and-conditioners.html#subsec-shampoos-leave-the-cuticle-negatively-charged-7",
-  "type": "Checkpoint",
+  "type": "Example",
   "number": "2.2.4",
   "title": "",
   "body": "  Shampoo your hair and dry it, but do not use conditioner. Then rub an inflated balloon or a plastic comb against the hair. What happens? Why?    Hair strands immediately stand up, track the balloon or comb, and flare wildly apart.  Rubbing friction physically transfers extra electrons between the plastic and the hair. Because the hair is stripped of oil and already carries an exposed net negative charge, this extra charge dramatically amplifies the electrostatic repulsion, forcing each strand to push violently away from its neighbors.   "
@@ -787,7 +787,7 @@ var ptx_lunr_docs = [
   "id": "example-palm-friction-test",
   "level": "2",
   "url": "sec-body-wash.html#example-palm-friction-test",
-  "type": "Checkpoint",
+  "type": "Example",
   "number": "2.3.4",
   "title": "The Palm Friction Test.",
   "body": " The Palm Friction Test   Wash one hand using a drop of clarifying hair shampoo or dish soap, and wash the other hand with a moisturizing body wash. Rinse both hands thoroughly with warm water, pat dry with a towel, and rub the thumb of each hand against its respective palm. What do you feel? Why?    The shampooed palm feels tacky, squeaky, and catches against your thumb. The body-washed palm glides smoothly and feels soft.  The aggressive, small SLS micelles in the shampoo or dish soap penetrated the stratum corneum and stripped away the intercellular lipid mortar, leaving bare, dry cell edges that snag on your skin. In contrast, the larger, gentler mixed micelles in the body wash cleansed the surface without dissolving the deeper lipid barrier, leaving the skin's moisture seal intact.   "
@@ -949,37 +949,244 @@ var ptx_lunr_docs = [
   "id": "subsec-moisturizers-use-emulsifiers-with-varying-oil-to-water-ratios-11",
   "level": "2",
   "url": "sec-moisturizers-and-lotions.html#subsec-moisturizers-use-emulsifiers-with-varying-oil-to-water-ratios-11",
-  "type": "Checkpoint",
+  "type": "Example",
   "number": "2.4.8",
   "title": "",
   "body": "  Shake oil and water in a small jar, and observe they will separate into two layers within 30 seconds. Now add a drop of emulsifier (dish soap, egg yolk, or mustard), shake again, and observe. What happens? Why?    The mixture now stays opaque, milky, and uniform.  The amphiphilic molecules in the emulsifier coat the microscopic oil droplets, preventing them from recombining. The same principle applies in cosmetic lotion products!   "
+},
+{
+  "id": "sec-toothpaste",
+  "level": "1",
+  "url": "sec-toothpaste.html",
+  "type": "Section",
+  "number": "2.5",
+  "title": "Toothpaste",
+  "body": " Toothpaste   Unlike the Skin, Tooth Enamel is Mostly Minerals  When we explored the structure of the skin, we mentioned that the outermost layer consists of cells and an extracellular matrix. Teeth are completely different.  The part of the tooth that is exposed to the air is called the crown , and the outermost layer of it is called the enamel . The outer enamel has no living cells or blood vessels. Made of roughly 96% minerals by weight, it is the hardest substance in your body. crown (teeth)  enamel   The primary mineral in the enamel is called hydroxyapatite . Similar to table salt ( ), it is an ionic substance, consisting of a positive part and a negative part. In this case, the positive ion is calcium ( ), and the negative ion is a combination of phosphate ( ) and hydroxide ( ). The full formula for hydroxyapatite is . hydroxyapatite  phosphate  hydroxide   Enamel exists in a dynamic environment; when the surrounding fluid becomes slightly undersaturated or acidic, hydroxyapatite can dissolve in a process called demineralization . Conversely, saliva replenishes these lost minerals through remineralization . demineralization  remineralization   On top of teeth, a thin layer of bacteria and fungi may form, forming a sticky film called plaque . A buildup of plaque may cause tooth decay and other dental problems. plaque     Bacterial Acids Accelerate Demineralization  Normally, the tug-of-war between demineralization and remineralization is in a comfortable middle-ground ( this is called a dynamic equilibrium ). But this may be disrupted by oral bacteria, such as Streptococcus mutans . As we will further explore in , the bacteria will feed on certain types of food and ferment them into a substance called lactic acid . dynamic equilibrium  Streptococcus mutans  fermentation  lactic acid   Recall that acids release and donate protons, or . As protons are positive charges, they attract negative charges, including the negative phosphate and hydroxide ions in hydroxyapatite in the enamel. This process accelerates demineralization, stripping the negative ions out and collapsing the mineral structure.  When the oral pH drops below about 5.5, demineralization outpaces the saliva's ability to repair tooth enamel, leading to the formation of microscopic cavities.    Fluoride Toothpastes Replace Hydroxyapatite with Fluorapatite  The active ingredient in a fluoride toothpaste is, as its name suggests, fluoride, or . Notice that the charge (negative one) is the exact same as the charge of hydroxide ( ). Incidentally, a fluoride ion also matches the size of hydroxide. These facts make fluoride able to replace hydroxide in hydroxyapatite, forming fluorapatite , or . fluoride toothpaste  fluoride  fluorapatite   A unique property of fluoride is that it hogs electrons a lot  the most out of any atom (in , we mentioned that fluorine is the most electronegative atom). It is able to bind to the calcium ions ( ) much more tightly than hydroxide. This makes it harder for acids to dissolve the mineral. In fact, the pH needed for dissolution drops from 5.5 to 4.5.    Soak one plain chicken eggshell in white vinegar. Coat a second eggshell in fluoride toothpaste for 10 minutes, wipe it clean, and submerge it in a separate cup of vinegar. What happens? Why?    The untreated eggshell bubbles violently and softens. On the other hand, the fluoride-treated shell bubbles significantly slower and maintains its structural rigidity stronger.  Vinegar is made of an acid called acetic acid . When eggshell, made primarily of calcium carbonate ( ), is exposed to it, the acid dissolves them in a process similar to demineralization in teeth. acetic acid   When toothpaste is introduced to the shell, the fluoride ions bind into the surface minerals, forming an acid-resistant barrier that slows down the process.      Toothpaste Also Contains Abrasives, Humectants, and Surfactants  In addition to fluoride, a tube of toothpaste contains other ingredients. One such ingredient is abrasives . Abrasives are insoluble mineral particles, such as hydrated silica ( ) or calcium carbonate ( ). These minerals are softer than hydroxyapatite, and are thus able to scour plaque without grinding down the enamel. abrasive   Similar to skin moisturizers ( ), toothpaste also contains humectants. Without them, the paste would quickly dry into a solid plug at the toothpaste's tube nozzle. Common humectants used in toothpaste include sorbitol and glycerin. humectant  sorbitol   Lastly, toothpaste contains surfactants, mainly sodium lauryl sulfate (SLS). Surfactants generate lather and enclose debris within micelles, similar to how they were used in soap ( ) and shampoo ( ).   Orange Juice and Toothpaste   There is a common phenomenon that occurs as follows: apply toothpaste, and then drink orange juice. The taste is often utterly repulsive why is that?    As we will elaborate on in , the tongue contains taste receptors for different tastes, such as sweet and bitter. When toothpaste is introduced into the mouth, the SLS molecules temporarily numb the sweet receptors, and also break down the phospholipids that normally block the bitter receptors. As a result, the sweetness of orange juice is completely masked, and you only taste the raw bitterness. taste receptor      "
+},
+{
+  "id": "subsec-unlike-the-skin-tooth-enamel-is-mostly-minerals-3",
+  "level": "2",
+  "url": "sec-toothpaste.html#subsec-unlike-the-skin-tooth-enamel-is-mostly-minerals-3",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "crown enamel "
+},
+{
+  "id": "subsec-unlike-the-skin-tooth-enamel-is-mostly-minerals-4",
+  "level": "2",
+  "url": "sec-toothpaste.html#subsec-unlike-the-skin-tooth-enamel-is-mostly-minerals-4",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "hydroxyapatite phosphate hydroxide "
+},
+{
+  "id": "subsec-unlike-the-skin-tooth-enamel-is-mostly-minerals-5",
+  "level": "2",
+  "url": "sec-toothpaste.html#subsec-unlike-the-skin-tooth-enamel-is-mostly-minerals-5",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "demineralization remineralization "
+},
+{
+  "id": "subsec-unlike-the-skin-tooth-enamel-is-mostly-minerals-6",
+  "level": "2",
+  "url": "sec-toothpaste.html#subsec-unlike-the-skin-tooth-enamel-is-mostly-minerals-6",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "plaque "
+},
+{
+  "id": "subsec-bacterial-acids-accelerate-demineralization-2",
+  "level": "2",
+  "url": "sec-toothpaste.html#subsec-bacterial-acids-accelerate-demineralization-2",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "dynamic equilibrium lactic acid "
+},
+{
+  "id": "subsec-fluoride-toothpastes-replace-hydroxyapatite-with-fluorapatite-2",
+  "level": "2",
+  "url": "sec-toothpaste.html#subsec-fluoride-toothpastes-replace-hydroxyapatite-with-fluorapatite-2",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "fluorapatite "
+},
+{
+  "id": "subsec-fluoride-toothpastes-replace-hydroxyapatite-with-fluorapatite-4",
+  "level": "2",
+  "url": "sec-toothpaste.html#subsec-fluoride-toothpastes-replace-hydroxyapatite-with-fluorapatite-4",
+  "type": "Example",
+  "number": "2.5.1",
+  "title": "",
+  "body": "  Soak one plain chicken eggshell in white vinegar. Coat a second eggshell in fluoride toothpaste for 10 minutes, wipe it clean, and submerge it in a separate cup of vinegar. What happens? Why?    The untreated eggshell bubbles violently and softens. On the other hand, the fluoride-treated shell bubbles significantly slower and maintains its structural rigidity stronger.  Vinegar is made of an acid called acetic acid . When eggshell, made primarily of calcium carbonate ( ), is exposed to it, the acid dissolves them in a process similar to demineralization in teeth. acetic acid   When toothpaste is introduced to the shell, the fluoride ions bind into the surface minerals, forming an acid-resistant barrier that slows down the process.   "
+},
+{
+  "id": "subsec-toothpaste-also-contains-abrasives-humectants-and-surfactants-2",
+  "level": "2",
+  "url": "sec-toothpaste.html#subsec-toothpaste-also-contains-abrasives-humectants-and-surfactants-2",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "abrasives "
+},
+{
+  "id": "subsec-toothpaste-also-contains-abrasives-humectants-and-surfactants-5",
+  "level": "2",
+  "url": "sec-toothpaste.html#subsec-toothpaste-also-contains-abrasives-humectants-and-surfactants-5",
+  "type": "Example",
+  "number": "2.5.2",
+  "title": "Orange Juice and Toothpaste.",
+  "body": " Orange Juice and Toothpaste   There is a common phenomenon that occurs as follows: apply toothpaste, and then drink orange juice. The taste is often utterly repulsive why is that?    As we will elaborate on in , the tongue contains taste receptors for different tastes, such as sweet and bitter. When toothpaste is introduced into the mouth, the SLS molecules temporarily numb the sweet receptors, and also break down the phospholipids that normally block the bitter receptors. As a result, the sweetness of orange juice is completely masked, and you only taste the raw bitterness. taste receptor    "
 },
 {
   "id": "sec-ch-02-key-concepts",
   "level": "1",
   "url": "sec-ch-02-key-concepts.html",
   "type": "Section",
-  "number": "2.5",
+  "number": "2.6",
   "title": "Key Concepts",
-  "body": " Key Concepts     Hair is part of the integumentary system, which consists of organs on the outer layer of our body.    A hair shaft is made of an outer cuticle layer, a cortex made of keratin, and a medulla in the center.    Keratin is a protein, a big molecule made of individual residues called amino acids.    In the hair, keratin forms superhelices, which are the source of hair's incredible tensile strength.    Hydrogen bonds in the hair account for its temporary shape. They get broken when hair is wetted.    Disulfide bridges are covalent bonds between cysteine amino acids in adjacent protein chains. They account for hair's permanent shape.    Salt bridges are interactions between charged amino acids in adjacent protein chains. They are sensitive to pH.    Just like soaps, shampoos use anionic surfactants. They typically use sodium lauryl sulfate (SLS) or sodium laureth sulfate (SLES) and clean up residues trapped in the sebum on the skin.    When shampoos remove the sebum off the skin, negative charges on the hair are exposed. The repulsion causes cuticles to spike up, making hair feel frizzy.    Conditioners use cationic surfactants, which are positively-charged surfactants, to neutralize the negative charges. The hydrophobic tails lie flat on the hair shaft, mimicking the behavior of sebum.    Mixing both shampoos and conditioners in one container would cause the surfactants to bind to each other instead of forming micelles or binding to hair.    The outermost layer of the skin, the stratum corneum, consists of dead cells and protective lipids in the extracellular matrix. Regular anionic surfactants in shampoo or soap damages the skin by extracting these lipids.    Body wash use amphoteric surfactants, which are surfactants whose heads have both positive and negative parts. These surfactants reside between anionic surfactant heads, forcing micelles to grow into large structures that cannot penetrate the skin.    Body wash contains acids like citric acid to turn its pH into a skin-neutral pH of 4.5 to 5.5.    While plain water offers momentary relief for dry skin, the water quickly evaporates and takes more water from the skin with it.    Moisturizers contain humectants (like glycerin), which participate in hydrogen bonding to absorb water from deeper in the skin and the environment.    Moisturizers also contain occlusives, long hydrophobic molecules, that trap water on the skin, and emollients that fill the microscopic gaps in the skin.    Emulsions are colloidal dispersions in which microscopic droplets of one liquid are suspended throughout another immiscible liquid.    To mix hydrophilic humectants with hydrophobic occlusives and emollients, emulsifiers are used to maintain an emulsion. They are amphiphilic surfactants that reside on the boundary between the two substances.    Lotions, creams, and ointments are water-heavy, balanced, and lipid-heavy substances respectively.     "
+  "body": " Key Concepts     Hair is part of the integumentary system, which consists of organs on the outer layer of our body.    A hair shaft is made of an outer cuticle layer, a cortex made of keratin, and a medulla in the center.    Keratin is a protein, a big molecule made of individual residues called amino acids.    In the hair, keratin forms superhelices, which are the source of hair's incredible tensile strength.    Hydrogen bonds in the hair account for its temporary shape. They get broken when hair is wetted.    Disulfide bridges are covalent bonds between cysteine amino acids in adjacent protein chains. They account for hair's permanent shape.    Salt bridges are interactions between charged amino acids in adjacent protein chains. They are sensitive to pH.    Just like soaps, shampoos use anionic surfactants. They typically use sodium lauryl sulfate (SLS) or sodium laureth sulfate (SLES) and clean up residues trapped in the sebum on the skin.    When shampoos remove the sebum off the skin, negative charges on the hair are exposed. The repulsion causes cuticles to spike up, making hair feel frizzy.    Conditioners use cationic surfactants, which are positively-charged surfactants, to neutralize the negative charges. The hydrophobic tails lie flat on the hair shaft, mimicking the behavior of sebum.    Mixing both shampoos and conditioners in one container would cause the surfactants to bind to each other instead of forming micelles or binding to hair.    The outermost layer of the skin, the stratum corneum, consists of dead cells and protective lipids in the extracellular matrix. Regular anionic surfactants in shampoo or soap damages the skin by extracting these lipids.    Body wash use amphoteric surfactants, which are surfactants whose heads have both positive and negative parts. These surfactants reside between anionic surfactant heads, forcing micelles to grow into large structures that cannot penetrate the skin.    Body wash contains acids like citric acid to turn its pH into a skin-neutral pH of 4.5 to 5.5.    While plain water offers momentary relief for dry skin, the water quickly evaporates and takes more water from the skin with it.    Moisturizers contain humectants (like glycerin), which participate in hydrogen bonding to absorb water from deeper in the skin and the environment.    Moisturizers also contain occlusives, long hydrophobic molecules, that trap water on the skin, and emollients that fill the microscopic gaps in the skin.    Emulsions are colloidal dispersions in which microscopic droplets of one liquid are suspended throughout another immiscible liquid.    To mix hydrophilic humectants with hydrophobic occlusives and emollients, emulsifiers are used to maintain an emulsion. They are amphiphilic surfactants that reside on the boundary between the two substances.    Lotions, creams, and ointments are water-heavy, balanced, and lipid-heavy substances respectively.    The outer layer of the tooth crown, the enamel, is made of a mineral called hydroxyapatite. It constantly undergoes demineralization and remineralization    The presence of bacteria causes lactic acid to form, accelerating demineralization and creating cavities.    Fluorite toothpastes protect the teeth by replacing hydroxyapatite with the stronger fluorapatite.    Toothpastes often contain abrasives to scour plaque, humectants to prevent drying, and surfactants like SLS.     "
 },
 {
   "id": "sec-ch-02-additional-details",
   "level": "1",
   "url": "sec-ch-02-additional-details.html",
   "type": "Section",
-  "number": "2.6",
+  "number": "2.7",
   "title": "Additional Details",
   "body": " Additional Details  This is currently a stub section!  "
 },
 {
-  "id": "backmatter-2",
+  "id": "sec-heat-and-temperature",
   "level": "1",
-  "url": "backmatter-2.html",
-  "type": "Appendix",
-  "number": "A",
-  "title": "Solutions to the Examples",
-  "body": " Solutions to the Examples  "
+  "url": "sec-heat-and-temperature.html",
+  "type": "Section",
+  "number": "3.1",
+  "title": "Heat and Temperature",
+  "body": " Heat and Temperature   You set a pot of water on the stove and turn the burner to high. Once it begins boiling vigorously, you crank the flame up even higher, expecting it to cook the food faster. But if you drop a thermometer into the water, the temperature sits stubbornly at 100 .  Compare this with steam. Why does holding your hand over a venting pot of steam cause a vicious burn in a split-second, far worse than a momentary splashing of boiling water?  These questions may be answered once we gain a better understanding of what heat and temperature actually are.    Heat and Temperature Both Describe the Random Motion of Particlees  At the microscopic level, atoms and molecules are constantly vibrating, wiggling, and colliding with one another. The motion of these molecules is random or incoherent , meaning there is no net overall motion in a direction. incoherent motion   Moving objects possess a type of energy called kinetic energy . The temperature of a substance measures how much kinetic energy these particles have on average. If you add up the kinetic energies associated with this incoherent motion, you get the thermal energy of the substance. To put it concisely, temperature measures the average kinetic energy, while thermal energy is the total kinetic energy. temperature  thermal energy   The amount of thermal energy transferred between objects is, thus, dependent on both the mass of substance and the temperature difference. A spark from a sparkler burns at over 1000 , yet if it lands on your arm, it only causes a tiny, fleeting sting. Compare this to a warm bathtub at 40 . Although the temperature is much smaller, there are trillions of wiggling water molecules transferring heat to you.    Heat Causes Phase Changes  A likely familiar concept is that matter exists in different states the main ones being solid, liquid, and gas. In chemistry, we call these phases . phases (of matter)   As you introduce heat to a solid like ice, it may melt into a liquid. Likewise, you may freeze the liquid back into a solid. The temperature at which this happens is the melting point of the substance. melting  freezing  melting point   Similarly, as you introduce heat to a liquid, it may boil into a gas. You may also condense the gas back into a liquid. The temperature at which this happens is the boiling point . boiling  condensation  boiling point   The Celsius scale of temperature is based on water water melts and freezes at 0 , and boils and condenses at 100 .   The different phase transitions between solids, liquids, and gases.    Melting, freezing, boiling, and condensation are all examples of phase transitions , or the transition between phases of matter.  When you boil water, what is happening on a molecular level? Recall from that water molecules contain intermolecular hydrogen bonds that hold them together. Once water reaches the boiling point, extra thermal energy from the stove no longer speeds up the molecules. Instead, the energy is channeled entirely into ripping the molecules apart from the hydrogen bonds, launching them into the air as free gas molecules.   As water is boiled, the hydrogen bonds are broken. The red triangle above the arrow indicates that this reaction is a result of applying heat.      Latent Energy is Needed for Phase Changes  As you deliver thermal energy to water, it is used to raise the temperature by speeding up the molecules. At the boiling point, as previously mentioned, the energy is instead used to break the hydrogen bonds. During this process, the energy is not used to speed up the molecules, so the temperature stays constant.  Therefore, if we were to graph out how the temperature of water varies as we introduce heat, you will see a shape like . Initially, the temperature rises as we heat the water, but it flattens into a horizontal plateau at 100 . It then rises again when the water becomes pure steam. heating curve    The heating curve of water, showing a flat portion at the phase transition.    The energy that is needed to rip the hydrogen bonds apart is known as the latent heat of vaporization . latent heat of vaporization   Steam burns are devastating because when steam hits your skin, it undergoes a phase transition back into liquid form. In doing so, it dumps a massive payload of latent heat directly into your tissue.    Thermal Energy is Transferred Through Conduction, Convection, and Radiation  With an understanding of thermal energy, we also need to understand how it is transferred between substances.  The most familiar form of thermal energy transfer is conduction , which is heat transfer through direct physical contact. Hot water feels hot because thermal energy is being transferred from the water to you through conduction. Similarly, a hot skillet contains faster-vibrating atoms, and when it comes into contact with a steak surface, the energy is transferred through conduction.  There are two other ways thermal energy is transferred. Notice that when you boil water, the steam rises into the air. Why does water remain on the ground while steam rises? This is because hot things expand; as steam has a higher volume, it is less dense, and thus floats in the denser surrounding air. This process is called convection .  Lastly, radiation is the transfer of heat through light waves, without needing anything between the objects.   "
+},
+{
+  "id": "subsec-heat-and-temperature-both-describe-the-random-motion-of-particles-2",
+  "level": "2",
+  "url": "sec-heat-and-temperature.html#subsec-heat-and-temperature-both-describe-the-random-motion-of-particles-2",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "incoherent "
+},
+{
+  "id": "subsec-heat-and-temperature-both-describe-the-random-motion-of-particles-3",
+  "level": "2",
+  "url": "sec-heat-and-temperature.html#subsec-heat-and-temperature-both-describe-the-random-motion-of-particles-3",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "kinetic energy temperature thermal energy "
+},
+{
+  "id": "subsec-heat-causes-phase-changes-2",
+  "level": "2",
+  "url": "sec-heat-and-temperature.html#subsec-heat-causes-phase-changes-2",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "phases "
+},
+{
+  "id": "subsec-heat-causes-phase-changes-3",
+  "level": "2",
+  "url": "sec-heat-and-temperature.html#subsec-heat-causes-phase-changes-3",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "melt freeze melting point "
+},
+{
+  "id": "subsec-heat-causes-phase-changes-4",
+  "level": "2",
+  "url": "sec-heat-and-temperature.html#subsec-heat-causes-phase-changes-4",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "boil condense boiling point "
+},
+{
+  "id": "fig-phase-transitions",
+  "level": "2",
+  "url": "sec-heat-and-temperature.html#fig-phase-transitions",
+  "type": "Figure",
+  "number": "3.1.1",
+  "title": "",
+  "body": " The different phase transitions between solids, liquids, and gases.   "
+},
+{
+  "id": "subsec-heat-causes-phase-changes-7",
+  "level": "2",
+  "url": "sec-heat-and-temperature.html#subsec-heat-causes-phase-changes-7",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "phase transitions "
+},
+{
+  "id": "fig-molecular-boiling-water",
+  "level": "2",
+  "url": "sec-heat-and-temperature.html#fig-molecular-boiling-water",
+  "type": "Figure",
+  "number": "3.1.2",
+  "title": "",
+  "body": " As water is boiled, the hydrogen bonds are broken. The red triangle above the arrow indicates that this reaction is a result of applying heat.   "
+},
+{
+  "id": "fig-water-heating-curve",
+  "level": "2",
+  "url": "sec-heat-and-temperature.html#fig-water-heating-curve",
+  "type": "Figure",
+  "number": "3.1.3",
+  "title": "",
+  "body": " The heating curve of water, showing a flat portion at the phase transition.   "
+},
+{
+  "id": "subsec-latent-energy-is-needed-for-phase-changes-5",
+  "level": "2",
+  "url": "sec-heat-and-temperature.html#subsec-latent-energy-is-needed-for-phase-changes-5",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "latent heat of vaporization "
+},
+{
+  "id": "subsec-thermal-energy-is-transferred-through-conduction-convection-and-radiation-3",
+  "level": "2",
+  "url": "sec-heat-and-temperature.html#subsec-thermal-energy-is-transferred-through-conduction-convection-and-radiation-3",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "conduction "
+},
+{
+  "id": "subsec-thermal-energy-is-transferred-through-conduction-convection-and-radiation-4",
+  "level": "2",
+  "url": "sec-heat-and-temperature.html#subsec-thermal-energy-is-transferred-through-conduction-convection-and-radiation-4",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "convection "
+},
+{
+  "id": "subsec-thermal-energy-is-transferred-through-conduction-convection-and-radiation-5",
+  "level": "2",
+  "url": "sec-heat-and-temperature.html#subsec-thermal-energy-is-transferred-through-conduction-convection-and-radiation-5",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "radiation "
 },
 {
   "id": "refs-main",
@@ -991,18 +1198,18 @@ var ptx_lunr_docs = [
   "body": " Jensen, D. A., Macinga, D. R., Shumaker, D. J., Bellino, R., Arbogast, J. W., & Schaffner, D. W. (2017). Quantifying the Effects of Water Temperature, Soap Volume, Lather Time, and Antimicrobial Soap as Variables in the Removal of Escherichia coli ATCC 11229 from Hands. Journal of Food Protection, 80(6), 1022–1031.   "
 },
 {
-  "id": "backmatter-4",
+  "id": "backmatter-3",
   "level": "1",
-  "url": "backmatter-4.html",
+  "url": "backmatter-3.html",
   "type": "Index",
   "number": "",
   "title": "Index",
   "body": " Index   "
 },
 {
-  "id": "backmatter-5",
+  "id": "backmatter-4",
   "level": "1",
-  "url": "backmatter-5.html",
+  "url": "backmatter-4.html",
   "type": "Colophon",
   "number": "",
   "title": "Colophon",
