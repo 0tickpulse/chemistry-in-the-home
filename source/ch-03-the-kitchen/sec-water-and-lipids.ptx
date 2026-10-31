@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<section xml:id="sec-the-major-kitchen-macromolecules" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>The Major Kitchen Macromolecules</title>
+<section xml:id="sec-water-and-lipids" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Water and Lipids</title>
 
   <introduction>
     <p>
       All the food chemistry we will discuss might seem incredibly daunting.
       It is important to understand that it really just boils down to manipulating four different families of molecules.
       Even better, we have already encountered all of them.
-      Here, we reintroduce all four classes of molecules, and discuss how they behave in a hot pan.
+      Here, we reintroduce all four classes of molecules, going deeper into what atoms and bonds exist within them, and discussing how they behave in a hot pan.
     </p>
   </introduction>
 
@@ -49,11 +49,20 @@
 
     <p>
       The most abundant lipid in body fat and vegetable fat is the <term>triglyceride</term>.
-      It is built from glycerol and three fatty acids.
+      It is built from glycerol and three hydrocarbon chains called fatty acids.
       Recall that glycerol is used as a humectant ( <xref ref="subsec-humectants-pull-water-from-deeper-layers-of-the-skin"/> ).
-      Fatty acids, in this context, are the hydrocarbon chains that are connected to the glycerol backbone through a combination of carbon and oxygen atoms.
       <idx><h>triglyceride</h></idx> <idx><h>glycerol</h></idx> <idx><h>fatty acid</h></idx>
     </p>
+
+    <p>
+      Unlike water, fats do not boil away at <quantity><mag>100</mag><unit base="celsius"/></quantity>.
+      They can reach <quantity><mag>180</mag><unit base="celsius"/></quantity> to <quantity><mag>200</mag><unit base="celsius"/></quantity>, making frying and searing possible.
+      This makes oils incredibly important for cooking.
+    </p>
+  </subsection>
+
+  <subsection xml:id="subsec-fatty-acids-differ-on-saturation">
+    <title>Fatty Acids Differ on Saturation</title>
 
     <figure xml:id="fig-saturated-and-unsaturated-fatty-acid">
       <caption>The two major types of fatty acids.</caption>
@@ -90,11 +99,6 @@
       These kinks prevent tight stacking, keeping them liquid oils at room temperature.
       <idx><h>kink</h></idx>
     </p>
-
-    <p>
-      Unlike water, fats do not boil away at <quantity><mag>100</mag><unit base="celsius"/></quantity>.
-      They can reach <quantity><mag>180</mag><unit base="celsius"/></quantity> to <quantity><mag>200</mag><unit base="celsius"/></quantity>, making frying and searing possible.
-      This makes oils incredibly important for cooking.
-    </p>
   </subsection>
+
 </section>
