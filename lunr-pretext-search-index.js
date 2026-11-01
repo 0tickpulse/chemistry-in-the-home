@@ -1189,6 +1189,105 @@ var ptx_lunr_docs = [
   "body": "radiation "
 },
 {
+  "id": "sec-water-and-lipids",
+  "level": "1",
+  "url": "sec-water-and-lipids.html",
+  "type": "Section",
+  "number": "3.2",
+  "title": "Water and Lipids",
+  "body": " Water and Lipids   All the food chemistry we will discuss might seem incredibly daunting. It is important to understand that it really just boils down to manipulating four different families of molecules. Even better, we have already encountered all of them. Here, we reintroduce all four classes of molecules, going deeper into what atoms and bonds exist within them, and discussing how they behave in a hot pan. We will begin with water and lipids.    Water Acts as a Universal Medium  Food is mostly water. Meat is about 75% water, and vegetables about 90% water. We have already discussed the molecular properties of water in . As we know, it is able to attract polar molecules, thus dissolving polar nutrients. Water is also able to move heat through food via conduction and convection.  Recall from that the boiling point of water is 100 . This means that as long as water is present on the surface of food, the food cannot exceed that temperature. We will need to address this problem for reactions like deep crisping and browning.    Lipids Help With High-Heat Cooking  We have previously mentioned lipids before like the discussion of oils in , the protective lipids in the skin in , or the different lipids present in moisturizers in .  Lipids can be surprisingly hard to define, but for our purposes, the word \"lipid\" contains substances like oils, fats, steroids, waxes, and other small hydrophobic or amphiphilic molecules. lipid    The structure of a triglyceride molecule.    The most abundant lipid in body fat and vegetable fat is the triglyceride . It is built from glycerol and three hydrocarbon chains called fatty acids. Recall that glycerol is used as a humectant ( ). triglyceride  glycerol  fatty acid   Unlike water, fats do not boil away at 100 . They can reach 180 to 200 , making frying and searing possible. This makes oils incredibly important for cooking.    Fatty Acids Differ on Saturation   The two major types of fatty acids.    Fatty acids vary in their structure. If the hydrocarbon chain only contains single covalent bonds (i.e., the carbons only share one pair of electrons with each other), then the fatty acid is saturated . Otherwise, it contains double bonds and is unsaturated . Fatty acids with one double bond are monounsaturated , and fatty acids with more than one are polyunsaturated . fatty acid saturated  fatty acid monounsaturated  fatty acid polyunsaturated    Numbering carbons in fatty acids  The carbon atoms are labeled omega or starting from the carbon at the end. Chemists number fatty acids from the very end of the hydrocarbon tail, calling it the omega carbon . Counting inward from this tail end, we label the positions carbon 1, carbon 2, and so on. An omega-3 fatty acid simply has its first double bond located at the third carbon from that tail end. omega-3 fatty acid    As shows, the hydrocarbon chains of saturated fatty acids are straight and linear. These molecules can therefore stack tightly together into dense structures even at room temperature. Butter, lard, and coconut oil are examples of saturated fats. butter  lard  coconut oil   In contrast, the double bonds in unsaturated fats introduce bends called kinks into the chain. These kinks prevent tight stacking, keeping them liquid oils at room temperature. kink    The Room-Temperature Melt Test   Take a tablespoon of olive oil and a tablespoon of butter straight from the refrigerator and leave them on the counter at room temperature ( 21 ) for thirty minutes. What happens to their physical states? Why?    The olive oil remains a clear, flowing liquid, while the butter softens but stays a moldable solid block.  Butter consists primarily of saturated fatty acids whose straight hydrocarbon chains stack neatly and form strong intermolecular attractions, holding them together as a solid matrix at room temperature. Olive oil is rich in monounsaturated oleic acid; the double bond introduces a rigid kink that pushes neighboring molecules apart, preventing them from solidifying until chilled far below room temperature.     "
+},
+{
+  "id": "fig-triglycerides",
+  "level": "2",
+  "url": "sec-water-and-lipids.html#fig-triglycerides",
+  "type": "Figure",
+  "number": "3.2.1",
+  "title": "",
+  "body": " The structure of a triglyceride molecule.   "
+},
+{
+  "id": "subsec-lipids-help-with-high-heat-cooking-5",
+  "level": "2",
+  "url": "sec-water-and-lipids.html#subsec-lipids-help-with-high-heat-cooking-5",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "triglyceride "
+},
+{
+  "id": "fig-saturated-and-unsaturated-fatty-acid",
+  "level": "2",
+  "url": "sec-water-and-lipids.html#fig-saturated-and-unsaturated-fatty-acid",
+  "type": "Figure",
+  "number": "3.2.2",
+  "title": "",
+  "body": " The two major types of fatty acids.   "
+},
+{
+  "id": "subsec-fatty-acids-differ-on-saturation-3",
+  "level": "2",
+  "url": "sec-water-and-lipids.html#subsec-fatty-acids-differ-on-saturation-3",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "saturated unsaturated monounsaturated polyunsaturated "
+},
+{
+  "id": "subsec-fatty-acids-differ-on-saturation-4-2",
+  "level": "2",
+  "url": "sec-water-and-lipids.html#subsec-fatty-acids-differ-on-saturation-4-2",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "omega carbon omega-3 fatty acid "
+},
+{
+  "id": "ex-butter-vs-oil-melting",
+  "level": "2",
+  "url": "sec-water-and-lipids.html#ex-butter-vs-oil-melting",
+  "type": "Example",
+  "number": "3.2.3",
+  "title": "The Room-Temperature Melt Test.",
+  "body": " The Room-Temperature Melt Test   Take a tablespoon of olive oil and a tablespoon of butter straight from the refrigerator and leave them on the counter at room temperature ( 21 ) for thirty minutes. What happens to their physical states? Why?    The olive oil remains a clear, flowing liquid, while the butter softens but stays a moldable solid block.  Butter consists primarily of saturated fatty acids whose straight hydrocarbon chains stack neatly and form strong intermolecular attractions, holding them together as a solid matrix at room temperature. Olive oil is rich in monounsaturated oleic acid; the double bond introduces a rigid kink that pushes neighboring molecules apart, preventing them from solidifying until chilled far below room temperature.   "
+},
+{
+  "id": "sec-proteins-and-carbohydrates",
+  "level": "1",
+  "url": "sec-proteins-and-carbohydrates.html",
+  "type": "Section",
+  "number": "3.3",
+  "title": "Carbohydrates and Proteins",
+  "body": " Carbohydrates and Proteins   In the previous section, we reintroduced water and lipids. Let's close off the major macromolecules by discussing carbohydrates and proteins.    The Proteins in Hair and Food Are Different  In , we briefly introduced proteins as chains of amino acids connected by peptide bonds. Keratin is a protein that exists in the hair, giving it its physical properties. protein  keratin   Recall that keratin forms tight superhelical rope-like structures that make hair incredibly strong. Yet, other proteins exist such as those in eggs and meat why then, do the proteins in meat not behave the same way as those in keratin?  The answer is that due to the specific types of amino acids in the protein, the structures are different. Most food proteins, such as ovalbumin (in eggs) or myoglobin (in meat), form 3D origami bundles instead of rigid superhelices. These proteins are called globular proteins . ovalbumin  myoglobin  protein globular   Just like in hair, the structures are created by the same forces weak hydrogen bonds, ionic salt bridges, and covalent disulfide bridges. These bonds rely on specific atoms in different amino acids (disulfide bridges, for example, form between the atoms between two cysteine residues).    Protein Structure is Hierarchical  As you can see, protein structure is complicated. In an effort to simplify how we analyze the structure of a protein, we describe it in different levels . At the most basic level, we simply have a linear chain of amino acids, connected by covalent peptide bonds. This is known as the primary structure . protein structure primary   As the chain forms, it begins to fold in on itself . The polar regions of each residue specifically the oxygen connected to carbon and the the hydrogen connected to nitrogen pull in on each other. This creates local, repeating spatial patterns like α-helices and β-sheets . α-helix  β-sheet    "
+},
+{
+  "id": "subsec-the-proteins-in-hair-and-food-are-different-4",
+  "level": "2",
+  "url": "sec-proteins-and-carbohydrates.html#subsec-the-proteins-in-hair-and-food-are-different-4",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "ovalbumin myoglobin globular proteins "
+},
+{
+  "id": "sec-proteins-and-carbohydrates-4-2",
+  "level": "2",
+  "url": "sec-proteins-and-carbohydrates.html#sec-proteins-and-carbohydrates-4-2",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "primary structure "
+},
+{
+  "id": "sec-proteins-and-carbohydrates-4-3",
+  "level": "2",
+  "url": "sec-proteins-and-carbohydrates.html#sec-proteins-and-carbohydrates-4-3",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "α-helices β-sheets "
+},
+{
   "id": "refs-main",
   "level": "1",
   "url": "refs-main.html",
