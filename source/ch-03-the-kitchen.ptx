@@ -5,4 +5,6 @@
 
   <!-- include sections -->
   <xi:include href="./ch-03-the-kitchen/sec-heat-and-temperature.ptx"/>
+  <xi:include href="./ch-03-the-kitchen/sec-water-and-lipids.ptx"/>
+  <xi:include href="./ch-03-the-kitchen/sec-proteins-and-carbohydrates.ptx"/>
 </chapter>

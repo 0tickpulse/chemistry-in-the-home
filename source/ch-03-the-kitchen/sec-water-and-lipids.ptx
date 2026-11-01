@@ -9,6 +9,7 @@
       It is important to understand that it really just boils down to manipulating four different families of molecules.
       Even better, we have already encountered all of them.
       Here, we reintroduce all four classes of molecules, going deeper into what atoms and bonds exist within them, and discussing how they behave in a hot pan.
+      We will begin with water and lipids.
     </p>
   </introduction>
 
@@ -38,7 +39,7 @@
     </p>
 
     <p>
-      Lipids can be surprisingly hard to define, but for our purposes, it contains substances like oils, fats, steroids, waxes, and other small hydrophobic or amphiphilic molecules.
+      Lipids can be surprisingly hard to define, but for our purposes, the word "lipid" contains substances like oils, fats, steroids, waxes, and other small hydrophobic or amphiphilic molecules.
       <idx><h>lipid</h></idx>
     </p>
 
@@ -70,8 +71,8 @@
     </figure>
 
     <p>
-      Fatty acids may vary on their structure.
-      If the hydrocarbon chain only contains single covalent bonds (i.e., the carbons only share one electron with each other), then the fatty acid is <term>saturated</term>.
+      Fatty acids vary in their structure.
+      If the hydrocarbon chain only contains single covalent bonds (i.e., the carbons only share one pair of electrons with each other), then the fatty acid is <term>saturated</term>.
       Otherwise, it contains double bonds and is <term>unsaturated</term>.
       Fatty acids with one double bond are <term>monounsaturated</term>, and fatty acids with more than one are <term>polyunsaturated</term>.
       <idx><h>fatty acid</h><h>saturated</h></idx> <idx><h>fatty acid</h><h>monounsaturated</h></idx> <idx><h>fatty acid</h><h>polyunsaturated</h></idx>
@@ -81,8 +82,9 @@
 
       <p>
         The carbon atoms are labeled <q>omega</q> or <m>\omega</m> starting from the carbon at the end.
-        Each subsequent atom adopts an increasing number, so <q>omega-1</q> ( <m>\omega - 1</m> ) and <q>omega-2</q> ( <m>\omega - 2</m> ) and so on.
-        The fatty acid at the bottom of <xref ref="fig-saturated-and-unsaturated-fatty-acid"/> can thus be called an <em>omega-3 fatty acid</em>, since there is a double bond on the omega-3 carbon.
+        Chemists number fatty acids from the very end of the hydrocarbon tail, calling it the <term>omega carbon</term>.
+        Counting inward from this tail end, we label the positions carbon 1, carbon 2, and so on.
+        An <term>omega-3 fatty acid</term> simply has its first double bond located at the third carbon from that tail end.
         <idx><h>omega-3 fatty acid</h></idx>
       </p>
     </aside>
@@ -99,6 +101,28 @@
       These kinks prevent tight stacking, keeping them liquid oils at room temperature.
       <idx><h>kink</h></idx>
     </p>
-  </subsection>
 
+    <example xml:id="ex-butter-vs-oil-melting">
+      <title>The Room-Temperature Melt Test</title>
+
+      <statement>
+        <p>
+          Take a tablespoon of olive oil and a tablespoon of butter straight from the refrigerator and leave them on the counter at room temperature ( <quantity><mag>21</mag><unit base="celsius"/></quantity> ) for thirty minutes.
+          What happens to their physical states?
+          Why?
+        </p>
+      </statement>
+
+      <solution>
+        <p>
+          The olive oil remains a clear, flowing liquid, while the butter softens but stays a moldable solid block.
+        </p>
+
+        <p>
+          Butter consists primarily of saturated fatty acids whose straight hydrocarbon chains stack neatly and form strong intermolecular attractions, holding them together as a solid matrix at room temperature.
+          Olive oil is rich in monounsaturated oleic acid; the double bond introduces a rigid kink that pushes neighboring molecules apart, preventing them from solidifying until chilled far below room temperature.
+        </p>
+      </solution>
+    </example>
+  </subsection>
 </section>

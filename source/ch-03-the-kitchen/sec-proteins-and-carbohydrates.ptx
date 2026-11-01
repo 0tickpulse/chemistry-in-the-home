@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec-proteins-and-carbohydrates" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Carbohydrates and Proteins</title>
+
+  <introduction>
+    <p>
+      In the previous section, we reintroduced water and lipids.
+      Let's close off the major macromolecules by discussing carbohydrates and proteins.
+    </p>
+  </introduction>
+
+  <subsection xml:id="subsec-the-proteins-in-hair-and-food-are-different">
+    <title>The Proteins in Hair and Food Are Different</title>
+
+    <p>
+      In <xref ref="subsec-hair-primarily-consists-of-keratin-fibers"/>, we briefly introduced proteins as chains of amino acids connected by peptide bonds.
+      Keratin is a protein that exists in the hair, giving it its physical properties.
+      <idx><h>protein</h></idx> <idx><h>keratin</h></idx>
+    </p>
+
+    <p>
+      Recall that keratin forms tight superhelical rope-like structures that make hair incredibly strong.
+      Yet, other proteins exist <mdash/> such as those in eggs and meat <mdash/> why then, do the proteins in meat not behave the same way as those in keratin?
+    </p>
+
+    <p>
+      The answer is that due to the specific types of amino acids in the protein, the structures are different.
+      Most food proteins, such as <term>ovalbumin</term> (in eggs) or <term>myoglobin</term> (in meat), form 3D origami bundles instead of rigid superhelices.
+      These proteins are called <term>globular proteins</term>.
+      <idx><h>ovalbumin</h></idx> <idx><h>myoglobin</h></idx> <idx><h>protein</h><h>globular</h></idx>
+    </p>
+
+    <p>
+      Just like in hair, the structures are created by the same forces <mdash/> weak hydrogen bonds, ionic salt bridges, and covalent disulfide bridges.
+      These bonds rely on specific atoms in different amino acids (disulfide bridges, for example, form between the <m>\ce{-SH}</m> atoms between two cysteine residues).
+    </p>
+  </subsection>
+
+  <subsection>
+    <title>Protein Structure is Hierarchical</title>
+
+    <p>
+      As you can see, protein structure is complicated.
+      In an effort to simplify how we analyze the structure of a protein, we describe it in different <q>levels</q>.
+      At the most basic level, we simply have a linear chain of amino acids, connected by covalent peptide bonds.
+      This is known as the <term>primary structure</term>.
+      <idx><h>protein structure</h><h>primary</h></idx>
+    </p>
+
+    <p>
+      As the chain forms, it begins to fold in on itself .
+      The polar regions of each residue <mdash/> specifically the oxygen connected to carbon and the the hydrogen connected to nitrogen <mdash/> pull in on each other.
+      This creates local, repeating spatial patterns like <term>α-helices</term> and <term>β-sheets</term>.
+      <idx><h>α-helix</h></idx> <idx><h>β-sheet</h></idx>
+    </p>
+  </subsection>
+</section>
