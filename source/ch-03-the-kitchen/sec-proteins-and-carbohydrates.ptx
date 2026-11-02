@@ -48,11 +48,14 @@
       <idx><h>protein structure</h><h>primary</h></idx>
     </p>
 
+    <figure xml:id="fig-protein-primary-and-secondary-structure">
+      <caption>The primary and secondary structures of a protein. On the left, individual atoms are shown, and on the right, simplified visual descriptions are drawn.</caption>
+      <image source="images/ch-03-the-kitchen/sec-proteins-and-carbohydrates/protein-primary-and-secondary-structure.png" width="80%"/>
+    </figure>
+
     <p>
-      As the chain forms, it begins to fold in on itself .
-      The polar regions of each residue <mdash/> specifically the oxygen connected to carbon and the the hydrogen connected to nitrogen <mdash/> pull in on each other.
-      This creates local, repeating spatial patterns like <term>α-helices</term> and <term>β-sheets</term>.
-      <idx><h>α-helix</h></idx> <idx><h>β-sheet</h></idx>
+      As the chain forms, it begins to fold in on itself.
+      Each amino acid has a polar <m>\ce{N-H}</m> bond (the hydrogen is slightly positive) and <m>\ce{C=O}</m> bond (the oxygen is slightly negative).
     </p>
   </subsection>
 </section>

@@ -14,6 +14,9 @@ Examples:
 
     # Write to an arbitrary path instead of under assets/images/
     python3 tools/prepare-figure.py in.png -o /tmp/out.png --absolute
+
+    # Replace an existing figure with the adjusted version (no -o given)
+    python3 tools/prepare-figure.py assets/images/ch-03-the-kitchen/sec-water-and-lipids/fig.png
 """
 
 import argparse
@@ -133,12 +136,13 @@ def main() -> None:
     parser.add_argument(
         "-o",
         "--output",
-        required=True,
+        default=None,
         help=(
             "Where to write the processed PNG. By default this is resolved "
             "relative to assets/images/ (e.g. 'ch-01-biomolecules/sec-amino-acids/"
             "fig-foo.png'). Use --absolute (or pass an absolute path) to write "
-            "somewhere else."
+            "somewhere else. Omit to replace the input file in place (a non-PNG "
+            "input is written as a .png next to it instead)."
         ),
     )
     parser.add_argument(
@@ -173,9 +177,17 @@ def main() -> None:
     )
     args = parser.parse_args()
 
-    out_path = resolve_output_path(args.output, args.absolute)
-    if out_path.exists() and not args.force:
-        raise SystemExit(f"{out_path} already exists. Pass --force to overwrite.")
+    if args.output is None:
+        if args.input is None:
+            raise SystemExit("Reading from the clipboard requires -o/--output.")
+        # In-place mode: replacing the input is the point, so no --force needed.
+        out_path = Path(args.input).expanduser().with_suffix(".png")
+        if out_path != Path(args.input).expanduser() and out_path.exists() and not args.force:
+            raise SystemExit(f"{out_path} already exists. Pass --force to overwrite.")
+    else:
+        out_path = resolve_output_path(args.output, args.absolute)
+        if out_path.exists() and not args.force:
+            raise SystemExit(f"{out_path} already exists. Pass --force to overwrite.")
 
     im = load_image(args.input)
     im = flatten_onto_white(im)

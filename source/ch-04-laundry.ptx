@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<chapter xml:id="ch-04-laundry" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Laundry</title>
+
+  <!-- include sections -->
+  <xi:include href="./ch-04-laundry/sec-where-do-colors-come-from.ptx"/>
+</chapter>

@@ -1,0 +1,478 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<glossary xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="glossary">
+  <title>Glossary</title>
+
+  <gi>
+    <title>abrasives</title>
+    <p>Insoluble minerals used to polish and grind hard surfaces. Abrasives are used in toothpaste to clean the tooth enamel.</p>
+  </gi>
+  <gi>
+    <title>acetic acid</title>
+    <p>An acid with the formula <m>\ce{CH3COOH}</m>, found in vinegar.</p>
+  </gi>
+  <gi>
+    <title>acid mantle</title>
+    <p>An acidic surface barrier on the human skin with pH 4.5 to 5.5.</p>
+  </gi>
+  <gi>
+    <title>adsorption</title>
+    <p>A process where molecules adhere themselves onto the exterior surface of solids as thin films.</p>
+  </gi>
+  <gi>
+    <title>alkaline</title>
+    <p>Referring to a solution, having a pH higher than 7.</p>
+  </gi>
+  <gi>
+    <title>α-helices</title>
+    <p>A secondary structure that proteins adopt. Looks like a coiled spring and can stretch and compress under moderate force.</p>
+  </gi>
+  <gi>
+    <title>amino acids</title>
+    <p>The basic building blocks of proteins. Consists of an amino group, a carboxylic acid, and a variable side chain.</p>
+  </gi>
+  <gi>
+    <title>amphiphilic</title>
+    <p>Referring to molecules, having both hydrophilic and hydrophobic regions.</p>
+  </gi>
+  <gi>
+    <title>amphoteric surfactant</title>
+    <p>A surfactant where the head has both positive and negative regions.</p>
+  </gi>
+  <gi>
+    <title>anionic surfactants</title>
+    <p>A negatively charged surfactant.</p>
+  </gi>
+  <gi>
+    <title>bent geometry</title>
+    <p>The molecular geometry that some molecules like water adopt.</p>
+  </gi>
+  <gi>
+    <title>β-sheets</title>
+    <p>A secondary structure that proteins adopt. Looks like highly ordered, flat sheets packed side-by-side. Found in silk and fibrous structures and resistant to stretching.</p>
+  </gi>
+  <gi>
+    <title>boil</title>
+    <p>The process of turning a liquid into a gas through heat transfer.</p>
+  </gi>
+  <gi>
+    <title>boiling point</title>
+    <p>The temperature at which something begins to boil. The boiling point of water is 100 degrees Celsius.</p>
+  </gi>
+  <gi>
+    <title>calcium carboxylate</title>
+    <p>A mineral consisting of a positive calcium ion <m>\ce{Ca^{2+}}</m> and two negatively charged amphiphilic molecules.</p>
+  </gi>
+  <gi>
+    <title>capillary action</title>
+    <p>A process, typically carried out by water, in which a fluid flows by itself in a narrow space without the help of external forces.</p>
+  </gi>
+  <gi>
+    <title>carboxylate</title>
+    <p>A molecule consisting of a hydrocarbon chain connected to a negatively charged <m>\ce{COO^-}</m> group.</p>
+  </gi>
+  <gi>
+    <title>citric acid</title>
+    <p>A weak organic acid found in lemons. Used in body wash to balance the pH to match the skin.</p>
+  </gi>
+  <gi>
+    <title>cocamidopropyl betaine</title>
+    <p>An amphoteric surfactant commonly used in body wash.</p>
+  </gi>
+  <gi>
+    <title>cohesion</title>
+    <p>The attraction between like molecules (as opposed to adhesion).</p>
+  </gi>
+  <gi>
+    <title>condense</title>
+    <p>The process of turning a gas into a liquid through heat transfer.</p>
+  </gi>
+  <gi>
+    <title>conduction</title>
+    <p>The transfer of heat through physical contact.</p>
+  </gi>
+  <gi>
+    <title>convection</title>
+    <p>The transfer of heat through fluid flow.</p>
+  </gi>
+  <gi>
+    <title>core electrons</title>
+    <p>The electrons in non-outermost shells of an atom. These typically do not participate in any chemistry.</p>
+  </gi>
+  <gi>
+    <title>corneocytes</title>
+    <p>Cells in the stratum corneum.</p>
+  </gi>
+  <gi>
+    <title>cortex</title>
+    <p>Referring to hair, the middle and most massive layer. Consists of keratin proteins that give rise to its structural rigidity.</p>
+  </gi>
+  <gi>
+    <title>covalent bonds</title>
+    <p>A chemical bond between atoms where electron pairs are shared between them.</p>
+  </gi>
+  <gi>
+    <title>crown</title>
+    <p>The part of the tooth that is exposed to air.</p>
+  </gi>
+  <gi>
+    <title>cuticle</title>
+    <p>Referring to hair, the outermost layer. Consists of <q>scales</q> that can lie flat or lift.</p>
+  </gi>
+  <gi>
+    <title>cysteine</title>
+    <p>An amino acid whose sidechain consists of a thiol ( <m>\ce{-SH}</m> ) group. Characterized by its ability to form disulfide bridges.</p>
+  </gi>
+  <gi>
+    <title>demineralization</title>
+    <p>The breakdown of hydroxyapatite in the tooth enamel. The reverse of remineralization.</p>
+  </gi>
+  <gi>
+    <title>diffusion</title>
+    <p>The spontaneous spreading of molecules from a concentrated region to a dilute region.</p>
+  </gi>
+  <gi>
+    <title>disulfide bridge</title>
+    <p>A covalent bond that forms between two nearby cysteine molecules. Gives rise to an individual's natural hair structure.</p>
+  </gi>
+  <gi>
+    <title>dynamic equilibrium</title>
+    <p>During, <q>tug-of-war</q> between two reverse processes, a comfortable middle-ground where the two proceed at the same rate.</p>
+  </gi>
+  <gi>
+    <title>electron geometry</title>
+    <p>The geometry of a molecule including its unbonded electron pairs.</p>
+  </gi>
+  <gi>
+    <title>electronegativity</title>
+    <p>A number associated with an atom that describes how much it is attracted to electrons.</p>
+  </gi>
+  <gi>
+    <title>electrons</title>
+    <p>Negatively charged subatomic particles, one of three that make up an atom.</p>
+  </gi>
+  <gi>
+    <title>emollients</title>
+    <p>Molecules that slip into microscopic fissures in the skin, thereby softening and smoothening it.</p>
+  </gi>
+  <gi>
+    <title>emulsifier</title>
+    <p>Amphiphilic molecules that reside between two substances and maintain emulsions.</p>
+  </gi>
+  <gi>
+    <title>emulsion</title>
+    <p>In a solution, when small droplets of one substance is suspended throughout another.</p>
+  </gi>
+  <gi>
+    <title>enamel</title>
+    <p>The outermost layer of the crown of the human tooth.</p>
+  </gi>
+  <gi>
+    <title>fluorapatite</title>
+    <p>A mineral with formula <m>\ce{Ca10(PO4)6F2}</m>. Fluoride toothpaste replaces hydroxyapatite with the stronger fluorapatite.</p>
+  </gi>
+  <gi>
+    <title>freeze</title>
+    <p>The process of turning a liquid into a solid through heat transfer.</p>
+  </gi>
+  <gi>
+    <title>globular proteins</title>
+    <p></p>
+  </gi>
+  <gi>
+    <title>hair shaft</title>
+    <p></p>
+  </gi>
+  <gi>
+    <title>hard water</title>
+    <p></p>
+  </gi>
+  <gi>
+    <title>humectants</title>
+    <p></p>
+  </gi>
+  <gi>
+    <title>hydrocarbon chain</title>
+    <p></p>
+  </gi>
+  <gi>
+    <title>hydrogen bonding</title>
+    <p></p>
+  </gi>
+  <gi>
+    <title>hydrophilic</title>
+    <p></p>
+  </gi>
+  <gi>
+    <title>hydrophobic</title>
+    <p></p>
+  </gi>
+  <gi>
+    <title>hydroxide</title>
+    <p></p>
+  </gi>
+  <gi>
+    <title>hydroxyapatite</title>
+    <p></p>
+  </gi>
+  <gi>
+    <title>hydroxyl</title>
+    <p></p>
+  </gi>
+  <gi>
+    <title>immiscible</title>
+    <p></p>
+  </gi>
+  <gi>
+    <title>incoherent motion</title>
+    <p></p>
+  </gi>
+  <gi>
+    <title>integumentary system</title>
+    <p></p>
+  </gi>
+  <gi>
+    <title>intermolecular forces</title>
+    <p></p>
+  </gi>
+  <gi>
+    <title>ion</title>
+    <p></p>
+  </gi>
+  <gi>
+    <title>ionic bonds</title>
+    <p></p>
+  </gi>
+  <gi>
+    <title>keratin</title>
+    <p></p>
+  </gi>
+  <gi>
+    <title>kinetic energy</title>
+    <p></p>
+  </gi>
+  <gi>
+    <title>lactic acid</title>
+    <p></p>
+  </gi>
+  <gi>
+    <title>latent heat of vaporization</title>
+    <p></p>
+  </gi>
+  <gi>
+    <title>linear geometry</title>
+    <p></p>
+  </gi>
+  <gi>
+    <title>lipid bilayer</title>
+    <p></p>
+  </gi>
+  <gi>
+    <title>lipophilic</title>
+    <p></p>
+  </gi>
+  <gi>
+    <title>logarithm</title>
+    <p></p>
+  </gi>
+  <gi>
+    <title>medulla</title>
+    <p></p>
+  </gi>
+  <gi>
+    <title>melt</title>
+    <p></p>
+  </gi>
+  <gi>
+    <title>melting point</title>
+    <p></p>
+  </gi>
+  <gi>
+    <title>metallic bonding</title>
+    <p></p>
+  </gi>
+  <gi>
+    <title>micelles</title>
+    <p></p>
+  </gi>
+  <gi>
+    <title>microbiome</title>
+    <p></p>
+  </gi>
+  <gi>
+    <title>molecular geometry</title>
+    <p></p>
+  </gi>
+  <gi>
+    <title>monounsaturated</title>
+    <p></p>
+  </gi>
+  <gi>
+    <title>myoglobin</title>
+    <p></p>
+  </gi>
+  <gi>
+    <title>natural moisturizing factors</title>
+    <p></p>
+  </gi>
+  <gi>
+    <title>occlusives</title>
+    <p></p>
+  </gi>
+  <gi>
+    <title>octet rule</title>
+    <p></p>
+  </gi>
+  <gi>
+    <title>oil-in-water</title>
+    <p></p>
+  </gi>
+  <gi>
+    <title>omega carbon</title>
+    <p></p>
+  </gi>
+  <gi>
+    <title>omega-3 fatty acid</title>
+    <p></p>
+  </gi>
+  <gi>
+    <title>ovalbumin</title>
+    <p></p>
+  </gi>
+  <gi>
+    <title>peptide bonds</title>
+    <p></p>
+  </gi>
+  <gi>
+    <title>pH</title>
+    <p></p>
+  </gi>
+  <gi>
+    <title>phase transitions</title>
+    <p></p>
+  </gi>
+  <gi>
+    <title>phases</title>
+    <p></p>
+  </gi>
+  <gi>
+    <title>phosphate</title>
+    <p></p>
+  </gi>
+  <gi>
+    <title>plaque</title>
+    <p></p>
+  </gi>
+  <gi>
+    <title>polarity</title>
+    <p></p>
+  </gi>
+  <gi>
+    <title>polyunsaturated</title>
+    <p></p>
+  </gi>
+  <gi>
+    <title>primary structure</title>
+    <p></p>
+  </gi>
+  <gi>
+    <title>protein</title>
+    <p></p>
+  </gi>
+  <gi>
+    <title>radiation</title>
+    <p></p>
+  </gi>
+  <gi>
+    <title>remineralization</title>
+    <p></p>
+  </gi>
+  <gi>
+    <title>salt bridges</title>
+    <p></p>
+  </gi>
+  <gi>
+    <title>saturated</title>
+    <p></p>
+  </gi>
+  <gi>
+    <title>sebum</title>
+    <p></p>
+  </gi>
+  <gi>
+    <title>soap scum</title>
+    <p></p>
+  </gi>
+  <gi>
+    <title>soaps</title>
+    <p></p>
+  </gi>
+  <gi>
+    <title>sodium laureth sulfate</title>
+    <p></p>
+  </gi>
+  <gi>
+    <title>sodium lauryl sulfate</title>
+    <p></p>
+  </gi>
+  <gi>
+    <title>stratum corneum</title>
+    <p></p>
+  </gi>
+  <gi>
+    <title>sulfate</title>
+    <p></p>
+  </gi>
+  <gi>
+    <title>sulfonate</title>
+    <p></p>
+  </gi>
+  <gi>
+    <title>surface tension</title>
+    <p></p>
+  </gi>
+  <gi>
+    <title>surfactant</title>
+    <p></p>
+  </gi>
+  <gi>
+    <title>syndets</title>
+    <p></p>
+  </gi>
+  <gi>
+    <title>synthetic detergents</title>
+    <p></p>
+  </gi>
+  <gi>
+    <title>temperature</title>
+    <p></p>
+  </gi>
+  <gi>
+    <title>thermal energy</title>
+    <p></p>
+  </gi>
+  <gi>
+    <title>transepidermal water loss</title>
+    <p></p>
+  </gi>
+  <gi>
+    <title>triglyceride</title>
+    <p></p>
+  </gi>
+  <gi>
+    <title>unsaturated</title>
+    <p></p>
+  </gi>
+  <gi>
+    <title>valence electrons</title>
+    <p></p>
+  </gi>
+  <gi>
+    <title>valence shell electron pair repulsion</title>
+    <p></p>
+  </gi>
+  <gi>
+    <title>water-in-oil</title>
+    <p></p>
+  </gi>
+</glossary>

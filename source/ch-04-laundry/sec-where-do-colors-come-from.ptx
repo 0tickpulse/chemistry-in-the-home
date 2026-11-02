@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec-where-do-colors-come-from" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Where do Colors Come From?</title>
+
+  <introduction>
+    <p>
+      Bleaching is a common process that involves the whitening of fabrics and the removal of stains.
+      But to understand the chemistry involved in this mechanism, as well as how dyes work, we need to explore something more fundamental: <idx><h>bleaching</h></idx> <idx><h>dye</h></idx>
+    </p>
+
+    <p>
+      Where do colors actually come from?
+    </p>
+  </introduction>
+
+  <subsection xml:id="subsec-light-is-a-wave">
+    <title>Light is a Wave</title>
+
+    <p>
+      For most of our history, we had no idea what light was.
+      This was quite a troubling mystery <mdash/> we knew nothing about light, yet our eyes used it all the time to examine the world.
+      After centuries of work by physicists, chemists, and biologists, we now know that light is a <term>wave</term> (more specifically a traveling wave), and we have an understanding of how chemicals and our eyes interact with it.
+      Let's unpack what that means.
+      <idx><h>light</h></idx> <idx><h>wave</h></idx>
+    </p>
+
+    <figure xml:id="fig-journey-of-light">
+      <caption>The journey of light, from a light source to your eye.</caption>
+      <image source="images/ch-04-laundry/sec-where-do-colors-come-from/journey-of-light.png" width="50%"/>
+    </figure>
+
+    <p>
+      When we look at a single bit of light (called a <term>photon</term> ), it does three things:
+      <ol>
+        <li>
+          <p>
+            It is emitted by a light source like a light bulb;
+          </p>
+        </li>
+
+        <li>
+          <p>
+            It travels across space; and
+          </p>
+        </li>
+
+        <li>
+          <p>
+            It is absorbed by a light receiver like your eyes.
+          </p>
+        </li>
+      </ol>
+      <idx><h>photon</h></idx>
+    </p>
+
+    <p>
+      The reason we call it a <q>wave</q> is that it has a few properties and phenomena associated with waves.
+      Specifically, it has a <term>wavelength</term>, denoted with the Greek letter <foreign>lambda</foreign> <m>\lambda</m>, which tells us how long the distance between different peaks of the wave is.
+      The wavelength is what determines the color of a photon.
+      <idx><h>wavelength</h></idx> <idx><h>lambda</h><see>wavelength</see></idx> <idx><h>color</h></idx>
+    </p>
+
+    <p>
+      Wavelengths span a spectrum called the <term>electromagnetic spectrum</term>, and our eyes can only perceive a small part of this spectrum.
+      We call this the visible spectrum; see <xref ref="fig-visible-spectrum"/>.
+      <idx><h>electromagnetic spectrum</h></idx> <idx><h>visible spectrum</h></idx>
+    </p>
+
+    <figure xml:id="fig-visible-spectrum">
+      <caption>The visible part of the electromagnetic spectrum.</caption>
+      <image source="images/ch-04-laundry/sec-where-do-colors-come-from/visible-spectrum.png" width="80%"/>
+    </figure>
+  </subsection>
+
+  <subsection xml:id="subsec-the-absorption-of-light-is-related-to-electronic-transitions-between-molecular-orbitals">
+    <title>The Absorption of Light is Related to Electronic Transitions Between Molecular Orbitals</title>
+
+    <p>
+      As mentioned in the previous section, light must be emitted by a source and then absorbed to be observed.
+      How does this actually happen?
+    </p>
+
+    <p>
+      Recall from <xref ref="subsec-thermal-energy-is-transferred-through-conduction-convection-and-radiation"/> that radiation is one way thermal energy can be transferred.
+      This is because photons themselves carry energy that is based on their wavelengths.
+      The shorter the photon's wavelength, the higher their energy is.
+      <idx><h>radiation</h></idx> <idx><h>photon</h><h>energy of</h></idx>
+    </p>
+
+    <p>
+      When electrons orbit an atom, they occupy spaces called <term>atomic orbitals</term>.
+      When atoms combine to form a molecule, however, the atomic orbitals combine to form spaces called <term>molecular orbitals</term>, often abbreviated as MOs.
+      <idx><h>atomic orbital</h></idx> <idx><h>molecular orbital</h></idx> <idx><h>MO</h><see>molecular orbital</see></idx>
+    </p>
+
+    <figure xml:id="fig-mo-diagram-hydrogen">
+      <caption>An example of the formation of molecular orbitals using hydrogen. The two individual atomic orbitals on the two atoms form two molecular orbitals when they bond together.</caption>
+      <image source="images/ch-04-laundry/sec-where-do-colors-come-from/mo-diagram-hydrogen.png" width="60%"/>
+    </figure>
+
+    <p>
+      Each MO has a specific energy level, and electrons occupy them starting with the lowest energy level.
+      They will occupy the MOs until there are no electrons left; the last electron occupies the <term>highest occupied molecular orbital</term> (HOMO).
+      The orbital right above it is, as one would expect, the <term>lowest unoccupied molecular orbital</term> (LUMO).
+      You can see an example of a diagram with the HOMO and LUMO labeled in <xref ref="fig-mo-diagram-oxygen"/>.
+      <idx><h>highest occupied molecular orbital</h></idx> <idx><h>HOMO</h><see>highest occupied molecular orbital</see></idx> <idx><h>lowest unoccupied molecular orbital</h></idx> <idx><h>LUMO</h><see>lowest unoccupied molecular orbital</see></idx> <idx><h>molecular orbital diagram</h></idx>
+    </p>
+
+    <figure xml:id="fig-mo-diagram-oxygen">
+      <caption>An example of a molecular orbital diagram. Each horizontal line represents one molecular orbital, capable of fitting two electrons. A higher placement represents higher energy. Incidentally, this is the MO diagram for oxygen gas, <m>\ce{O2}</m>.</caption>
+      <image source="images/ch-04-laundry/sec-where-do-colors-come-from/mo-diagram-oxygen.png" width="50%"/>
+    </figure>
+
+    <p>
+      Now suppose a photon is traveling towards the molecule.
+      It carries a specific energy <mdash/> let's call it <m>E</m>.
+      The molecule has electrons that occupy the HOMO.
+      If <m>E</m> is <em>exactly</em> enough to boost the electron onto the LUMO, then the electron will absorb the photon.
+      We say that it gets <term>excited</term> by the photon ( <xref ref="fig-excitation-of-electrons"/> ).
+      <idx><h>electron</h><h>excited</h></idx> <idx><h>absorption (of light)</h></idx>
+    </p>
+
+    <figure xml:id="fig-excitation-of-electrons">
+      <caption>When a photon reaches an electron, and its energy matches the HOMO-LUMO energy gap, the electron gets excited and absorbs the photon.</caption>
+      <image source="images/ch-04-laundry/sec-where-do-colors-come-from/excitation-of-electrons.png" width="80%"/>
+    </figure>
+
+    <p>
+      Importantly, the energy of the photon must <em>exactly</em> be the energy of the energy gap between the HOMO and LUMO, no more and no less.
+      If the energy does not match, it simply passes through the molecule or gets reflected.
+      <idx><h>HOMO-LUMO gap</h></idx> <idx><h>reflection (of light)</h></idx>
+    </p>
+  </subsection>
+
+  <subsection xml:id="subsec-when-one-color-is-absorbed-the-complementary-color-is-observed">
+    <title>When One Color is Absorbed, the Complementary Color is Observed</title>
+
+    <p>
+      It may seem confusing why white light is not part of the spectrum in <xref ref="fig-visible-spectrum"/>.
+      The answer is that white light is actually the combination of all wavelengths of visible light.
+      <idx><h>white light</h></idx>
+    </p>
+
+    <p>
+      Now, suppose white light is shined onto a substance, parts of the white light might be absorbed.
+      Let's stipulate, for instance, that the substance absorbs yellow light.
+      The rest gets reflected and observed by your eye.
+    </p>
+
+    <p>
+      Your eye receives a combination of every color <em>other than yellow</em>.
+      This amounts to the color directly opposite to it in a color wheel, which is blue in this case ( see <xref ref="fig-color-wheel-yellow-blue"/> ).
+      This opposite color is called the <term>complementary color</term>.
+      <idx><h>color wheel</h></idx> <idx><h>complementary color</h></idx>
+    </p>
+
+    <figure xml:id="fig-color-wheel-yellow-blue">
+      <caption>Looking at the color wheel, when yellow is absorbed, a blue color is observed by your eye. The color wheel is taken from <c>8-leaf clover</c> on Wikimedia Commons.</caption>
+      <image source="images/ch-04-laundry/sec-where-do-colors-come-from/color-wheel-yellow-blue.png" width="50%"/>
+    </figure>
+
+    <example>
+      <title>Leaves and Chlorophyll</title>
+
+      <statement>
+        <p>
+          Leaves are green because there is a pigment called <term>chlorophyll</term> in it.
+          What is the approximate wavelength that chlorophyll absorbs?
+          Reference <xref ref="fig-visible-spectrum"/> and <xref ref="fig-color-wheel-yellow-blue"/>.
+          <idx><h>chlorophyll</h></idx> <idx><h>pigment</h></idx>
+        </p>
+      </statement>
+
+      <solution>
+        <p>
+          Looking at <xref ref="fig-color-wheel-yellow-blue"/>, chlorophyll absorbs violet light, which has a wavelength of about <quantity><mag>400</mag> <unit prefix="nano" base="meter" /></quantity>.
+          Interestingly, this is not entirely accurate <mdash /> chlorophyll actually absorbs both red and blue light, which mix to violet.
+        </p>
+      </solution>
+    </example>
+  </subsection>
+</section>

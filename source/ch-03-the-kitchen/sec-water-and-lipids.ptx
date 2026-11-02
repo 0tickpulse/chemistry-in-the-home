@@ -9,7 +9,10 @@
       It is important to understand that it really just boils down to manipulating four different families of molecules.
       Even better, we have already encountered all of them.
       Here, we reintroduce all four classes of molecules, going deeper into what atoms and bonds exist within them, and discussing how they behave in a hot pan.
-      We will begin with water and lipids.
+    </p>
+
+    <p>
+      We will now go back where we started <mdash/> water and lipids <mdash/> but now in more detail, particularly exploring their applications in the kitchen.
     </p>
   </introduction>
 
@@ -45,7 +48,7 @@
 
     <figure xml:id="fig-triglycerides">
       <caption>The structure of a triglyceride molecule.</caption>
-      <image source="images/ch-03-the-kitchen/sec-the-major-kitchen-macromolecules/triglycerides.png" width="80%"/>
+      <image source="images/ch-03-the-kitchen/sec-water-and-lipids/triglycerides.png" width="80%"/>
     </figure>
 
     <p>
@@ -67,7 +70,7 @@
 
     <figure xml:id="fig-saturated-and-unsaturated-fatty-acid">
       <caption>The two major types of fatty acids.</caption>
-      <image source="images/ch-03-the-kitchen/sec-the-major-kitchen-macromolecules/saturated-and-unsaturated-fatty-acid.png" width="80%"/>
+      <image source="images/ch-03-the-kitchen/sec-water-and-lipids/saturated-and-unsaturated-fatty-acid.png" width="80%"/>
     </figure>
 
     <p>
@@ -102,6 +105,11 @@
       <idx><h>kink</h></idx>
     </p>
 
+    <figure xml:id="fig-butter-and-olive-oil">
+      <caption>A comparison of what butter and olive oil are made of.</caption>
+      <image source="images/ch-03-the-kitchen/sec-water-and-lipids/butter-and-olive-oil.png" width="80%"/>
+    </figure>
+
     <example xml:id="ex-butter-vs-oil-melting">
       <title>The Room-Temperature Melt Test</title>
 
@@ -121,6 +129,10 @@
         <p>
           Butter consists primarily of saturated fatty acids whose straight hydrocarbon chains stack neatly and form strong intermolecular attractions, holding them together as a solid matrix at room temperature.
           Olive oil is rich in monounsaturated oleic acid; the double bond introduces a rigid kink that pushes neighboring molecules apart, preventing them from solidifying until chilled far below room temperature.
+        </p>
+
+        <p>
+          <xref ref="fig-butter-and-olive-oil"/> compares the structure of the two. 
         </p>
       </solution>
     </example>

@@ -137,6 +137,7 @@
       The most familiar form of thermal energy transfer is <term>conduction</term>, which is heat transfer through direct physical contact.
       Hot water feels hot because thermal energy is being transferred from the water to you through conduction.
       Similarly, a hot skillet contains faster-vibrating atoms, and when it comes into contact with a steak surface, the energy is transferred through conduction.
+      <idx><h>conduction</h></idx>
     </p>
 
     <p>
@@ -144,10 +145,13 @@
       Notice that when you boil water, the steam rises into the air.
       Why does water remain on the ground while steam rises?
       This is because hot things expand; as steam has a higher volume, it is less dense, and thus floats in the denser surrounding air. This process is called <term>convection</term>.
+      <idx><h>convection</h></idx>
     </p>
 
     <p>
       Lastly, <term>radiation</term> is the transfer of heat through light waves, without needing anything between the objects.
+      We will need radiation when we discuss microwaves.
+      <idx><h>radiation</h></idx>
     </p>
   </subsection>
 </section>

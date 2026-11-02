@@ -27,24 +27,8 @@
     <notation-list/>
   </appendix>
   -->
-  <references xml:id="refs-main">
-    <biblio type="raw" xml:id="biblio-jensen-soap-factors">
-      Jensen, D. A., Macinga, D. R., Shumaker, D. J., Bellino, R., Arbogast, J. W., &amp; Schaffner, D. W. (2017).
-      <em>Quantifying the Effects of Water Temperature, Soap Volume, Lather Time, and Antimicrobial Soap as Variables in the Removal of Escherichia coli ATCC 11229 from Hands.</em>
-      Journal of Food Protection, 80(6), 1022–1031.
-      <url href="https://doi.org/10.4315/0362-028X.JFP-16-370" visual="doi.org/10.4315/0362-028X.JFP-16-370" />
-    </biblio>
-  </references>
-
-  <index>
-    <title>Index</title>
-
-    <index-list/>
-  </index>
-
-  <colophon>
-    <p>
-      This book was authored in <pretext/>.
-    </p>
-  </colophon>
+  <xi:include href="./backmatter/glossary.ptx" />
+  <xi:include href="./backmatter/references.ptx" />
+  <xi:include href="./backmatter/index.ptx" />
+  <xi:include href="./backmatter/colophon.ptx" />
 </backmatter>

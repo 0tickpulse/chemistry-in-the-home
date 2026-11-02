@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec-ch-03-key-concepts" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Key Concepts</title>
+
+  <p>
+    <ol>
+      <li>
+        <p>
+          Heat and temperature are a result of particles randomly moving in all directions.
+        </p>
+      </li>
+
+      <li>
+        <p>
+          Temperature is related to the average speed of this movement, whereas thermal energy measures the total energy.
+        </p>
+      </li>
+
+      <li>
+        <p>
+          As heat is transferred into or out of a substance, it may undergo a phase change, such as melting, freezing, boiling, or condensation.
+        </p>
+      </li>
+
+      <li>
+        <p>
+          During processes like melting or boiling (involving an increase in temperature), the phase transition involves energy being used to rip molecules apart, instead of contributing to their movement.
+          This energy is called the latent heat.
+        </p>
+      </li>
+
+      <li>
+        <p>
+          Thermal energy can be conducted (through direct physical contact), convected (through the movement of fluids), and radiation (through light waves).
+        </p>
+      </li>
+    </ol>
+  </p>
+</section>
