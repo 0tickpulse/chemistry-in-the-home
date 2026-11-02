@@ -1069,7 +1069,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "3.1",
   "title": "Heat and Temperature",
-  "body": " Heat and Temperature   You set a pot of water on the stove and turn the burner to high. Once it begins boiling vigorously, you crank the flame up even higher, expecting it to cook the food faster. But if you drop a thermometer into the water, the temperature sits stubbornly at 100 .  Compare this with steam. Why does holding your hand over a venting pot of steam cause a vicious burn in a split-second, far worse than a momentary splashing of boiling water?  These questions may be answered once we gain a better understanding of what heat and temperature actually are.    Heat and Temperature Both Describe the Random Motion of Particlees  At the microscopic level, atoms and molecules are constantly vibrating, wiggling, and colliding with one another. The motion of these molecules is random or incoherent , meaning there is no net overall motion in a direction. incoherent motion   Moving objects possess a type of energy called kinetic energy . The temperature of a substance measures how much kinetic energy these particles have on average. If you add up the kinetic energies associated with this incoherent motion, you get the thermal energy of the substance. To put it concisely, temperature measures the average kinetic energy, while thermal energy is the total kinetic energy. temperature  thermal energy   The amount of thermal energy transferred between objects is, thus, dependent on both the mass of substance and the temperature difference. A spark from a sparkler burns at over 1000 , yet if it lands on your arm, it only causes a tiny, fleeting sting. Compare this to a warm bathtub at 40 . Although the temperature is much smaller, there are trillions of wiggling water molecules transferring heat to you.    Heat Causes Phase Changes  A likely familiar concept is that matter exists in different states the main ones being solid, liquid, and gas. In chemistry, we call these phases . phases (of matter)   As you introduce heat to a solid like ice, it may melt into a liquid. Likewise, you may freeze the liquid back into a solid. The temperature at which this happens is the melting point of the substance. melting  freezing  melting point   Similarly, as you introduce heat to a liquid, it may boil into a gas. You may also condense the gas back into a liquid. The temperature at which this happens is the boiling point . boiling  condensation  boiling point   The Celsius scale of temperature is based on water water melts and freezes at 0 , and boils and condenses at 100 .   The different phase transitions between solids, liquids, and gases.    Melting, freezing, boiling, and condensation are all examples of phase transitions , or the transition between phases of matter.  When you boil water, what is happening on a molecular level? Recall from that water molecules contain intermolecular hydrogen bonds that hold them together. Once water reaches the boiling point, extra thermal energy from the stove no longer speeds up the molecules. Instead, the energy is channeled entirely into ripping the molecules apart from the hydrogen bonds, launching them into the air as free gas molecules.   As water is boiled, the hydrogen bonds are broken. The red triangle above the arrow indicates that this reaction is a result of applying heat.      Latent Energy is Needed for Phase Changes  As you deliver thermal energy to water, it is used to raise the temperature by speeding up the molecules. At the boiling point, as previously mentioned, the energy is instead used to break the hydrogen bonds. During this process, the energy is not used to speed up the molecules, so the temperature stays constant.  Therefore, if we were to graph out how the temperature of water varies as we introduce heat, you will see a shape like . Initially, the temperature rises as we heat the water, but it flattens into a horizontal plateau at 100 . It then rises again when the water becomes pure steam. heating curve    The heating curve of water, showing a flat portion at the phase transition.    The energy that is needed to rip the hydrogen bonds apart is known as the latent heat of vaporization . latent heat of vaporization   Steam burns are devastating because when steam hits your skin, it undergoes a phase transition back into liquid form. In doing so, it dumps a massive payload of latent heat directly into your tissue.    Thermal Energy is Transferred Through Conduction, Convection, and Radiation  With an understanding of thermal energy, we also need to understand how it is transferred between substances.  The most familiar form of thermal energy transfer is conduction , which is heat transfer through direct physical contact. Hot water feels hot because thermal energy is being transferred from the water to you through conduction. Similarly, a hot skillet contains faster-vibrating atoms, and when it comes into contact with a steak surface, the energy is transferred through conduction.  There are two other ways thermal energy is transferred. Notice that when you boil water, the steam rises into the air. Why does water remain on the ground while steam rises? This is because hot things expand; as steam has a higher volume, it is less dense, and thus floats in the denser surrounding air. This process is called convection .  Lastly, radiation is the transfer of heat through light waves, without needing anything between the objects.   "
+  "body": " Heat and Temperature   You set a pot of water on the stove and turn the burner to high. Once it begins boiling vigorously, you crank the flame up even higher, expecting it to cook the food faster. But if you drop a thermometer into the water, the temperature sits stubbornly at 100 .  Compare this with steam. Why does holding your hand over a venting pot of steam cause a vicious burn in a split-second, far worse than a momentary splashing of boiling water?  These questions may be answered once we gain a better understanding of what heat and temperature actually are.    Heat and Temperature Both Describe the Random Motion of Particlees  At the microscopic level, atoms and molecules are constantly vibrating, wiggling, and colliding with one another. The motion of these molecules is random or incoherent , meaning there is no net overall motion in a direction. incoherent motion   Moving objects possess a type of energy called kinetic energy . The temperature of a substance measures how much kinetic energy these particles have on average. If you add up the kinetic energies associated with this incoherent motion, you get the thermal energy of the substance. To put it concisely, temperature measures the average kinetic energy, while thermal energy is the total kinetic energy. temperature  thermal energy   The amount of thermal energy transferred between objects is, thus, dependent on both the mass of substance and the temperature difference. A spark from a sparkler burns at over 1000 , yet if it lands on your arm, it only causes a tiny, fleeting sting. Compare this to a warm bathtub at 40 . Although the temperature is much smaller, there are trillions of wiggling water molecules transferring heat to you.    Heat Causes Phase Changes  A likely familiar concept is that matter exists in different states the main ones being solid, liquid, and gas. In chemistry, we call these phases . phases (of matter)   As you introduce heat to a solid like ice, it may melt into a liquid. Likewise, you may freeze the liquid back into a solid. The temperature at which this happens is the melting point of the substance. melting  freezing  melting point   Similarly, as you introduce heat to a liquid, it may boil into a gas. You may also condense the gas back into a liquid. The temperature at which this happens is the boiling point . boiling  condensation  boiling point   The Celsius scale of temperature is based on water water melts and freezes at 0 , and boils and condenses at 100 .   The different phase transitions between solids, liquids, and gases.    Melting, freezing, boiling, and condensation are all examples of phase transitions , or the transition between phases of matter.  When you boil water, what is happening on a molecular level? Recall from that water molecules contain intermolecular hydrogen bonds that hold them together. Once water reaches the boiling point, extra thermal energy from the stove no longer speeds up the molecules. Instead, the energy is channeled entirely into ripping the molecules apart from the hydrogen bonds, launching them into the air as free gas molecules.   As water is boiled, the hydrogen bonds are broken. The red triangle above the arrow indicates that this reaction is a result of applying heat.      Latent Energy is Needed for Phase Changes  As you deliver thermal energy to water, it is used to raise the temperature by speeding up the molecules. At the boiling point, as previously mentioned, the energy is instead used to break the hydrogen bonds. During this process, the energy is not used to speed up the molecules, so the temperature stays constant.  Therefore, if we were to graph out how the temperature of water varies as we introduce heat, you will see a shape like . Initially, the temperature rises as we heat the water, but it flattens into a horizontal plateau at 100 . It then rises again when the water becomes pure steam. heating curve    The heating curve of water, showing a flat portion at the phase transition.    The energy that is needed to rip the hydrogen bonds apart is known as the latent heat of vaporization . latent heat of vaporization   Steam burns are devastating because when steam hits your skin, it undergoes a phase transition back into liquid form. In doing so, it dumps a massive payload of latent heat directly into your tissue.    Thermal Energy is Transferred Through Conduction, Convection, and Radiation  With an understanding of thermal energy, we also need to understand how it is transferred between substances.  The most familiar form of thermal energy transfer is conduction , which is heat transfer through direct physical contact. Hot water feels hot because thermal energy is being transferred from the water to you through conduction. Similarly, a hot skillet contains faster-vibrating atoms, and when it comes into contact with a steak surface, the energy is transferred through conduction. conduction   There are two other ways thermal energy is transferred. Notice that when you boil water, the steam rises into the air. Why does water remain on the ground while steam rises? This is because hot things expand; as steam has a higher volume, it is less dense, and thus floats in the denser surrounding air. This process is called convection . convection   Lastly, radiation is the transfer of heat through light waves, without needing anything between the objects. We will need radiation when we discuss microwaves. radiation    "
 },
 {
   "id": "subsec-heat-and-temperature-both-describe-the-random-motion-of-particles-2",
@@ -1195,7 +1195,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "3.2",
   "title": "Water and Lipids",
-  "body": " Water and Lipids   All the food chemistry we will discuss might seem incredibly daunting. It is important to understand that it really just boils down to manipulating four different families of molecules. Even better, we have already encountered all of them. Here, we reintroduce all four classes of molecules, going deeper into what atoms and bonds exist within them, and discussing how they behave in a hot pan. We will begin with water and lipids.    Water Acts as a Universal Medium  Food is mostly water. Meat is about 75% water, and vegetables about 90% water. We have already discussed the molecular properties of water in . As we know, it is able to attract polar molecules, thus dissolving polar nutrients. Water is also able to move heat through food via conduction and convection.  Recall from that the boiling point of water is 100 . This means that as long as water is present on the surface of food, the food cannot exceed that temperature. We will need to address this problem for reactions like deep crisping and browning.    Lipids Help With High-Heat Cooking  We have previously mentioned lipids before like the discussion of oils in , the protective lipids in the skin in , or the different lipids present in moisturizers in .  Lipids can be surprisingly hard to define, but for our purposes, the word \"lipid\" contains substances like oils, fats, steroids, waxes, and other small hydrophobic or amphiphilic molecules. lipid    The structure of a triglyceride molecule.    The most abundant lipid in body fat and vegetable fat is the triglyceride . It is built from glycerol and three hydrocarbon chains called fatty acids. Recall that glycerol is used as a humectant ( ). triglyceride  glycerol  fatty acid   Unlike water, fats do not boil away at 100 . They can reach 180 to 200 , making frying and searing possible. This makes oils incredibly important for cooking.    Fatty Acids Differ on Saturation   The two major types of fatty acids.    Fatty acids vary in their structure. If the hydrocarbon chain only contains single covalent bonds (i.e., the carbons only share one pair of electrons with each other), then the fatty acid is saturated . Otherwise, it contains double bonds and is unsaturated . Fatty acids with one double bond are monounsaturated , and fatty acids with more than one are polyunsaturated . fatty acid saturated  fatty acid monounsaturated  fatty acid polyunsaturated    Numbering carbons in fatty acids  The carbon atoms are labeled omega or starting from the carbon at the end. Chemists number fatty acids from the very end of the hydrocarbon tail, calling it the omega carbon . Counting inward from this tail end, we label the positions carbon 1, carbon 2, and so on. An omega-3 fatty acid simply has its first double bond located at the third carbon from that tail end. omega-3 fatty acid    As shows, the hydrocarbon chains of saturated fatty acids are straight and linear. These molecules can therefore stack tightly together into dense structures even at room temperature. Butter, lard, and coconut oil are examples of saturated fats. butter  lard  coconut oil   In contrast, the double bonds in unsaturated fats introduce bends called kinks into the chain. These kinks prevent tight stacking, keeping them liquid oils at room temperature. kink    The Room-Temperature Melt Test   Take a tablespoon of olive oil and a tablespoon of butter straight from the refrigerator and leave them on the counter at room temperature ( 21 ) for thirty minutes. What happens to their physical states? Why?    The olive oil remains a clear, flowing liquid, while the butter softens but stays a moldable solid block.  Butter consists primarily of saturated fatty acids whose straight hydrocarbon chains stack neatly and form strong intermolecular attractions, holding them together as a solid matrix at room temperature. Olive oil is rich in monounsaturated oleic acid; the double bond introduces a rigid kink that pushes neighboring molecules apart, preventing them from solidifying until chilled far below room temperature.     "
+  "body": " Water and Lipids   All the food chemistry we will discuss might seem incredibly daunting. It is important to understand that it really just boils down to manipulating four different families of molecules. Even better, we have already encountered all of them. Here, we reintroduce all four classes of molecules, going deeper into what atoms and bonds exist within them, and discussing how they behave in a hot pan.  We will now go back where we started water and lipids but now in more detail, particularly exploring their applications in the kitchen.    Water Acts as a Universal Medium  Food is mostly water. Meat is about 75% water, and vegetables about 90% water. We have already discussed the molecular properties of water in . As we know, it is able to attract polar molecules, thus dissolving polar nutrients. Water is also able to move heat through food via conduction and convection.  Recall from that the boiling point of water is 100 . This means that as long as water is present on the surface of food, the food cannot exceed that temperature. We will need to address this problem for reactions like deep crisping and browning.    Lipids Help With High-Heat Cooking  We have previously mentioned lipids before like the discussion of oils in , the protective lipids in the skin in , or the different lipids present in moisturizers in .  Lipids can be surprisingly hard to define, but for our purposes, the word \"lipid\" contains substances like oils, fats, steroids, waxes, and other small hydrophobic or amphiphilic molecules. lipid    The structure of a triglyceride molecule.    The most abundant lipid in body fat and vegetable fat is the triglyceride . It is built from glycerol and three hydrocarbon chains called fatty acids. Recall that glycerol is used as a humectant ( ). triglyceride  glycerol  fatty acid   Unlike water, fats do not boil away at 100 . They can reach 180 to 200 , making frying and searing possible. This makes oils incredibly important for cooking.    Fatty Acids Differ on Saturation   The two major types of fatty acids.    Fatty acids vary in their structure. If the hydrocarbon chain only contains single covalent bonds (i.e., the carbons only share one pair of electrons with each other), then the fatty acid is saturated . Otherwise, it contains double bonds and is unsaturated . Fatty acids with one double bond are monounsaturated , and fatty acids with more than one are polyunsaturated . fatty acid saturated  fatty acid monounsaturated  fatty acid polyunsaturated    Numbering carbons in fatty acids  The carbon atoms are labeled omega or starting from the carbon at the end. Chemists number fatty acids from the very end of the hydrocarbon tail, calling it the omega carbon . Counting inward from this tail end, we label the positions carbon 1, carbon 2, and so on. An omega-3 fatty acid simply has its first double bond located at the third carbon from that tail end. omega-3 fatty acid    As shows, the hydrocarbon chains of saturated fatty acids are straight and linear. These molecules can therefore stack tightly together into dense structures even at room temperature. Butter, lard, and coconut oil are examples of saturated fats. butter  lard  coconut oil   In contrast, the double bonds in unsaturated fats introduce bends called kinks into the chain. These kinks prevent tight stacking, keeping them liquid oils at room temperature. kink    A comparison of what butter and olive oil are made of.     The Room-Temperature Melt Test   Take a tablespoon of olive oil and a tablespoon of butter straight from the refrigerator and leave them on the counter at room temperature ( 21 ) for thirty minutes. What happens to their physical states? Why?    The olive oil remains a clear, flowing liquid, while the butter softens but stays a moldable solid block.  Butter consists primarily of saturated fatty acids whose straight hydrocarbon chains stack neatly and form strong intermolecular attractions, holding them together as a solid matrix at room temperature. Olive oil is rich in monounsaturated oleic acid; the double bond introduces a rigid kink that pushes neighboring molecules apart, preventing them from solidifying until chilled far below room temperature.   compares the structure of the two.     "
 },
 {
   "id": "fig-triglycerides",
@@ -1243,13 +1243,22 @@ var ptx_lunr_docs = [
   "body": "omega carbon omega-3 fatty acid "
 },
 {
+  "id": "fig-butter-and-olive-oil",
+  "level": "2",
+  "url": "sec-water-and-lipids.html#fig-butter-and-olive-oil",
+  "type": "Figure",
+  "number": "3.2.3",
+  "title": "",
+  "body": " A comparison of what butter and olive oil are made of.   "
+},
+{
   "id": "ex-butter-vs-oil-melting",
   "level": "2",
   "url": "sec-water-and-lipids.html#ex-butter-vs-oil-melting",
   "type": "Example",
-  "number": "3.2.3",
+  "number": "3.2.4",
   "title": "The Room-Temperature Melt Test.",
-  "body": " The Room-Temperature Melt Test   Take a tablespoon of olive oil and a tablespoon of butter straight from the refrigerator and leave them on the counter at room temperature ( 21 ) for thirty minutes. What happens to their physical states? Why?    The olive oil remains a clear, flowing liquid, while the butter softens but stays a moldable solid block.  Butter consists primarily of saturated fatty acids whose straight hydrocarbon chains stack neatly and form strong intermolecular attractions, holding them together as a solid matrix at room temperature. Olive oil is rich in monounsaturated oleic acid; the double bond introduces a rigid kink that pushes neighboring molecules apart, preventing them from solidifying until chilled far below room temperature.   "
+  "body": " The Room-Temperature Melt Test   Take a tablespoon of olive oil and a tablespoon of butter straight from the refrigerator and leave them on the counter at room temperature ( 21 ) for thirty minutes. What happens to their physical states? Why?    The olive oil remains a clear, flowing liquid, while the butter softens but stays a moldable solid block.  Butter consists primarily of saturated fatty acids whose straight hydrocarbon chains stack neatly and form strong intermolecular attractions, holding them together as a solid matrix at room temperature. Olive oil is rich in monounsaturated oleic acid; the double bond introduces a rigid kink that pushes neighboring molecules apart, preventing them from solidifying until chilled far below room temperature.   compares the structure of the two.   "
 },
 {
   "id": "sec-proteins-and-carbohydrates",
@@ -1258,7 +1267,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "3.3",
   "title": "Carbohydrates and Proteins",
-  "body": " Carbohydrates and Proteins   In the previous section, we reintroduced water and lipids. Let's close off the major macromolecules by discussing carbohydrates and proteins.    The Proteins in Hair and Food Are Different  In , we briefly introduced proteins as chains of amino acids connected by peptide bonds. Keratin is a protein that exists in the hair, giving it its physical properties. protein  keratin   Recall that keratin forms tight superhelical rope-like structures that make hair incredibly strong. Yet, other proteins exist such as those in eggs and meat why then, do the proteins in meat not behave the same way as those in keratin?  The answer is that due to the specific types of amino acids in the protein, the structures are different. Most food proteins, such as ovalbumin (in eggs) or myoglobin (in meat), form 3D origami bundles instead of rigid superhelices. These proteins are called globular proteins . ovalbumin  myoglobin  protein globular   Just like in hair, the structures are created by the same forces weak hydrogen bonds, ionic salt bridges, and covalent disulfide bridges. These bonds rely on specific atoms in different amino acids (disulfide bridges, for example, form between the atoms between two cysteine residues).    Protein Structure is Hierarchical  As you can see, protein structure is complicated. In an effort to simplify how we analyze the structure of a protein, we describe it in different levels . At the most basic level, we simply have a linear chain of amino acids, connected by covalent peptide bonds. This is known as the primary structure . protein structure primary   As the chain forms, it begins to fold in on itself . The polar regions of each residue specifically the oxygen connected to carbon and the the hydrogen connected to nitrogen pull in on each other. This creates local, repeating spatial patterns like α-helices and β-sheets . α-helix  β-sheet    "
+  "body": " Carbohydrates and Proteins   In the previous section, we reintroduced water and lipids. Let's close off the major macromolecules by discussing carbohydrates and proteins.    The Proteins in Hair and Food Are Different  In , we briefly introduced proteins as chains of amino acids connected by peptide bonds. Keratin is a protein that exists in the hair, giving it its physical properties. protein  keratin   Recall that keratin forms tight superhelical rope-like structures that make hair incredibly strong. Yet, other proteins exist such as those in eggs and meat why then, do the proteins in meat not behave the same way as those in keratin?  The answer is that due to the specific types of amino acids in the protein, the structures are different. Most food proteins, such as ovalbumin (in eggs) or myoglobin (in meat), form 3D origami bundles instead of rigid superhelices. These proteins are called globular proteins . ovalbumin  myoglobin  protein globular   Just like in hair, the structures are created by the same forces weak hydrogen bonds, ionic salt bridges, and covalent disulfide bridges. These bonds rely on specific atoms in different amino acids (disulfide bridges, for example, form between the atoms between two cysteine residues).    Protein Structure is Hierarchical  As you can see, protein structure is complicated. In an effort to simplify how we analyze the structure of a protein, we describe it in different levels . At the most basic level, we simply have a linear chain of amino acids, connected by covalent peptide bonds. This is known as the primary structure . protein structure primary    The primary and secondary structures of a protein. On the left, individual atoms are shown, and on the right, simplified visual descriptions are drawn.    As the chain forms, it begins to fold in on itself. Each amino acid has a polar bond (the hydrogen is slightly positive) and bond (the oxygen is slightly negative).   "
 },
 {
   "id": "subsec-the-proteins-in-hair-and-food-are-different-4",
@@ -1279,13 +1288,166 @@ var ptx_lunr_docs = [
   "body": "primary structure "
 },
 {
-  "id": "sec-proteins-and-carbohydrates-4-3",
+  "id": "fig-protein-primary-and-secondary-structure",
   "level": "2",
-  "url": "sec-proteins-and-carbohydrates.html#sec-proteins-and-carbohydrates-4-3",
+  "url": "sec-proteins-and-carbohydrates.html#fig-protein-primary-and-secondary-structure",
+  "type": "Figure",
+  "number": "3.3.1",
+  "title": "",
+  "body": " The primary and secondary structures of a protein. On the left, individual atoms are shown, and on the right, simplified visual descriptions are drawn.   "
+},
+{
+  "id": "sec-where-do-colors-come-from",
+  "level": "1",
+  "url": "sec-where-do-colors-come-from.html",
+  "type": "Section",
+  "number": "4.1",
+  "title": "Where do Colors Come From?",
+  "body": " Where do Colors Come From?   Bleaching is a common process that involves the whitening of fabrics and the removal of stains. But to understand the chemistry involved in this mechanism, as well as how dyes work, we need to explore something more fundamental: bleaching  dye   Where do colors actually come from?    Light is a Wave  For most of our history, we had no idea what light was. This was quite a troubling mystery we knew nothing about light, yet our eyes used it all the time to examine the world. After centuries of work by physicists, chemists, and biologists, we now know that light is a wave (more specifically a traveling wave), and we have an understanding of how chemicals and our eyes interact with it. Let's unpack what that means. light  wave    The journey of light, from a light source to your eye.    When we look at a single bit of light (called a photon ), it does three things:   It is emitted by a light source like a light bulb;    It travels across space; and    It is absorbed by a light receiver like your eyes.    photon   The reason we call it a wave is that it has a few properties and phenomena associated with waves. Specifically, it has a wavelength , denoted with the Greek letter lambda  , which tells us how long the distance between different peaks of the wave is. The wavelength is what determines the color of a photon. wavelength  lambda wavelength  color   Wavelengths span a spectrum called the electromagnetic spectrum , and our eyes can only perceive a small part of this spectrum. We call this the visible spectrum; see . electromagnetic spectrum  visible spectrum    The visible part of the electromagnetic spectrum.      The Absorption of Light is Related to Electronic Transitions Between Molecular Orbitals  As mentioned in the previous section, light must be emitted by a source and then absorbed to be observed. How does this actually happen?  Recall from that radiation is one way thermal energy can be transferred. This is because photons themselves carry energy that is based on their wavelengths. The shorter the photon's wavelength, the higher their energy is. radiation  photon energy of   When electrons orbit an atom, they occupy spaces called atomic orbitals . When atoms combine to form a molecule, however, the atomic orbitals combine to form spaces called molecular orbitals , often abbreviated as MOs. atomic orbital  molecular orbital  MO molecular orbital    An example of the formation of molecular orbitals using hydrogen. The two individual atomic orbitals on the two atoms form two molecular orbitals when they bond together.    Each MO has a specific energy level, and electrons occupy them starting with the lowest energy level. They will occupy the MOs until there are no electrons left; the last electron occupies the highest occupied molecular orbital (HOMO). The orbital right above it is, as one would expect, the lowest unoccupied molecular orbital (LUMO). You can see an example of a diagram with the HOMO and LUMO labeled in . highest occupied molecular orbital  HOMO highest occupied molecular orbital  lowest unoccupied molecular orbital  LUMO lowest unoccupied molecular orbital  molecular orbital diagram    An example of a molecular orbital diagram. Each horizontal line represents one molecular orbital, capable of fitting two electrons. A higher placement represents higher energy. Incidentally, this is the MO diagram for oxygen gas, .    Now suppose a photon is traveling towards the molecule. It carries a specific energy let's call it . The molecule has electrons that occupy the HOMO. If is exactly enough to boost the electron onto the LUMO, then the electron will absorb the photon. We say that it gets excited by the photon ( ). electron excited  absorption (of light)    When a photon reaches an electron, and its energy matches the HOMO-LUMO energy gap, the electron gets excited and absorbs the photon.    Importantly, the energy of the photon must exactly be the energy of the energy gap between the HOMO and LUMO, no more and no less. If the energy does not match, it simply passes through the molecule or gets reflected. HOMO-LUMO gap  reflection (of light)     When One Color is Absorbed, the Complementary Color is Observed  It may seem confusing why white light is not part of the spectrum in . The answer is that white light is actually the combination of all wavelengths of visible light. white light   Now, suppose white light is shined onto a substance, parts of the white light might be absorbed. Let's stipulate, for instance, that the substance absorbs yellow light. The rest gets reflected and observed by your eye.  Your eye receives a combination of every color other than yellow . This amounts to the color directly opposite to it in a color wheel, which is blue in this case ( see ). This opposite color is called the complementary color . color wheel  complementary color    Looking at the color wheel, when yellow is absorbed, a blue color is observed by your eye. The color wheel is taken from 8-leaf clover on Wikimedia Commons.     Leaves and Chlorophyll   Leaves are green because there is a pigment called chlorophyll in it. What is the approximate wavelength that chlorophyll absorbs? Reference and . chlorophyll  pigment     Looking at , chlorophyll absorbs violet light, which has a wavelength of about 400  . Interestingly, this is not entirely accurate chlorophyll actually absorbs both red and blue light, which mix to violet.     "
+},
+{
+  "id": "subsec-light-is-a-wave-2",
+  "level": "2",
+  "url": "sec-where-do-colors-come-from.html#subsec-light-is-a-wave-2",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
-  "body": "α-helices β-sheets "
+  "body": "wave "
+},
+{
+  "id": "fig-journey-of-light",
+  "level": "2",
+  "url": "sec-where-do-colors-come-from.html#fig-journey-of-light",
+  "type": "Figure",
+  "number": "4.1.1",
+  "title": "",
+  "body": " The journey of light, from a light source to your eye.   "
+},
+{
+  "id": "subsec-light-is-a-wave-4",
+  "level": "2",
+  "url": "sec-where-do-colors-come-from.html#subsec-light-is-a-wave-4",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "photon "
+},
+{
+  "id": "subsec-light-is-a-wave-5",
+  "level": "2",
+  "url": "sec-where-do-colors-come-from.html#subsec-light-is-a-wave-5",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "wavelength "
+},
+{
+  "id": "subsec-light-is-a-wave-6",
+  "level": "2",
+  "url": "sec-where-do-colors-come-from.html#subsec-light-is-a-wave-6",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "electromagnetic spectrum "
+},
+{
+  "id": "fig-visible-spectrum",
+  "level": "2",
+  "url": "sec-where-do-colors-come-from.html#fig-visible-spectrum",
+  "type": "Figure",
+  "number": "4.1.2",
+  "title": "",
+  "body": " The visible part of the electromagnetic spectrum.   "
+},
+{
+  "id": "subsec-the-absorption-of-light-is-related-to-electronic-transitions-between-molecular-orbitals-4",
+  "level": "2",
+  "url": "sec-where-do-colors-come-from.html#subsec-the-absorption-of-light-is-related-to-electronic-transitions-between-molecular-orbitals-4",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "atomic orbitals molecular orbitals "
+},
+{
+  "id": "fig-mo-diagram-hydrogen",
+  "level": "2",
+  "url": "sec-where-do-colors-come-from.html#fig-mo-diagram-hydrogen",
+  "type": "Figure",
+  "number": "4.1.3",
+  "title": "",
+  "body": " An example of the formation of molecular orbitals using hydrogen. The two individual atomic orbitals on the two atoms form two molecular orbitals when they bond together.   "
+},
+{
+  "id": "subsec-the-absorption-of-light-is-related-to-electronic-transitions-between-molecular-orbitals-6",
+  "level": "2",
+  "url": "sec-where-do-colors-come-from.html#subsec-the-absorption-of-light-is-related-to-electronic-transitions-between-molecular-orbitals-6",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "highest occupied molecular orbital lowest unoccupied molecular orbital "
+},
+{
+  "id": "fig-mo-diagram-oxygen",
+  "level": "2",
+  "url": "sec-where-do-colors-come-from.html#fig-mo-diagram-oxygen",
+  "type": "Figure",
+  "number": "4.1.4",
+  "title": "",
+  "body": " An example of a molecular orbital diagram. Each horizontal line represents one molecular orbital, capable of fitting two electrons. A higher placement represents higher energy. Incidentally, this is the MO diagram for oxygen gas, .   "
+},
+{
+  "id": "subsec-the-absorption-of-light-is-related-to-electronic-transitions-between-molecular-orbitals-8",
+  "level": "2",
+  "url": "sec-where-do-colors-come-from.html#subsec-the-absorption-of-light-is-related-to-electronic-transitions-between-molecular-orbitals-8",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "excited "
+},
+{
+  "id": "fig-excitation-of-electrons",
+  "level": "2",
+  "url": "sec-where-do-colors-come-from.html#fig-excitation-of-electrons",
+  "type": "Figure",
+  "number": "4.1.5",
+  "title": "",
+  "body": " When a photon reaches an electron, and its energy matches the HOMO-LUMO energy gap, the electron gets excited and absorbs the photon.   "
+},
+{
+  "id": "subsec-when-one-color-is-absorbed-the-complementary-color-is-observed-4",
+  "level": "2",
+  "url": "sec-where-do-colors-come-from.html#subsec-when-one-color-is-absorbed-the-complementary-color-is-observed-4",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "complementary color "
+},
+{
+  "id": "fig-color-wheel-yellow-blue",
+  "level": "2",
+  "url": "sec-where-do-colors-come-from.html#fig-color-wheel-yellow-blue",
+  "type": "Figure",
+  "number": "4.1.6",
+  "title": "",
+  "body": " Looking at the color wheel, when yellow is absorbed, a blue color is observed by your eye. The color wheel is taken from 8-leaf clover on Wikimedia Commons.   "
+},
+{
+  "id": "subsec-when-one-color-is-absorbed-the-complementary-color-is-observed-6",
+  "level": "2",
+  "url": "sec-where-do-colors-come-from.html#subsec-when-one-color-is-absorbed-the-complementary-color-is-observed-6",
+  "type": "Example",
+  "number": "4.1.7",
+  "title": "Leaves and Chlorophyll.",
+  "body": " Leaves and Chlorophyll   Leaves are green because there is a pigment called chlorophyll in it. What is the approximate wavelength that chlorophyll absorbs? Reference and . chlorophyll  pigment     Looking at , chlorophyll absorbs violet light, which has a wavelength of about 400  . Interestingly, this is not entirely accurate chlorophyll actually absorbs both red and blue light, which mix to violet.   "
+},
+{
+  "id": "glossary",
+  "level": "1",
+  "url": "glossary.html",
+  "type": "Glossary",
+  "number": "",
+  "title": "Glossary",
+  "body": " Glossary   abrasives  Insoluble minerals used to polish and grind hard surfaces. Abrasives are used in toothpaste to clean the tooth enamel.    acetic acid  An acid with the formula , found in vinegar.    acid mantle  An acidic surface barrier on the human skin with pH 4.5 to 5.5.    adsorption  A process where molecules adhere themselves onto the exterior surface of solids as thin films.    alkaline  Referring to a solution, having a pH higher than 7.    α-helices  A secondary structure that proteins adopt. Looks like a coiled spring and can stretch and compress under moderate force.    amino acids  The basic building blocks of proteins. Consists of an amino group, a carboxylic acid, and a variable side chain.    amphiphilic  Referring to molecules, having both hydrophilic and hydrophobic regions.    amphoteric surfactant  A surfactant where the head has both positive and negative regions.    anionic surfactants  A negatively charged surfactant.    bent geometry  The molecular geometry that some molecules like water adopt.    β-sheets  A secondary structure that proteins adopt. Looks like highly ordered, flat sheets packed side-by-side. Found in silk and fibrous structures and resistant to stretching.    boil  The process of turning a liquid into a gas through heat transfer.    boiling point  The temperature at which something begins to boil. The boiling point of water is 100 degrees Celsius.    calcium carboxylate  A mineral consisting of a positive calcium ion and two negatively charged amphiphilic molecules.    capillary action  A process, typically carried out by water, in which a fluid flows by itself in a narrow space without the help of external forces.    carboxylate  A molecule consisting of a hydrocarbon chain connected to a negatively charged group.    citric acid  A weak organic acid found in lemons. Used in body wash to balance the pH to match the skin.    cocamidopropyl betaine  An amphoteric surfactant commonly used in body wash.    cohesion  The attraction between like molecules (as opposed to adhesion).    condense  The process of turning a gas into a liquid through heat transfer.    conduction  The transfer of heat through physical contact.    convection  The transfer of heat through fluid flow.    core electrons  The electrons in non-outermost shells of an atom. These typically do not participate in any chemistry.    corneocytes  Cells in the stratum corneum.    cortex  Referring to hair, the middle and most massive layer. Consists of keratin proteins that give rise to its structural rigidity.    covalent bonds  A chemical bond between atoms where electron pairs are shared between them.    crown  The part of the tooth that is exposed to air.    cuticle  Referring to hair, the outermost layer. Consists of scales that can lie flat or lift.    cysteine  An amino acid whose sidechain consists of a thiol ( ) group. Characterized by its ability to form disulfide bridges.    demineralization  The breakdown of hydroxyapatite in the tooth enamel. The reverse of remineralization.    diffusion  The spontaneous spreading of molecules from a concentrated region to a dilute region.    disulfide bridge  A covalent bond that forms between two nearby cysteine molecules. Gives rise to an individual's natural hair structure.    dynamic equilibrium  During, tug-of-war between two reverse processes, a comfortable middle-ground where the two proceed at the same rate.    electron geometry  The geometry of a molecule including its unbonded electron pairs.    electronegativity  A number associated with an atom that describes how much it is attracted to electrons.    electrons  Negatively charged subatomic particles, one of three that make up an atom.    emollients  Molecules that slip into microscopic fissures in the skin, thereby softening and smoothening it.    emulsifier  Amphiphilic molecules that reside between two substances and maintain emulsions.    emulsion  In a solution, when small droplets of one substance is suspended throughout another.    enamel  The outermost layer of the crown of the human tooth.    fluorapatite  A mineral with formula . Fluoride toothpaste replaces hydroxyapatite with the stronger fluorapatite.    freeze  The process of turning a liquid into a solid through heat transfer.    globular proteins     hair shaft     hard water     humectants     hydrocarbon chain     hydrogen bonding     hydrophilic     hydrophobic     hydroxide     hydroxyapatite     hydroxyl     immiscible     incoherent motion     integumentary system     intermolecular forces     ion     ionic bonds     keratin     kinetic energy     lactic acid     latent heat of vaporization     linear geometry     lipid bilayer     lipophilic     logarithm     medulla     melt     melting point     metallic bonding     micelles     microbiome     molecular geometry     monounsaturated     myoglobin     natural moisturizing factors     occlusives     octet rule     oil-in-water     omega carbon     omega-3 fatty acid     ovalbumin     peptide bonds     pH     phase transitions     phases     phosphate     plaque     polarity     polyunsaturated     primary structure     protein     radiation     remineralization     salt bridges     saturated     sebum     soap scum     soaps     sodium laureth sulfate     sodium lauryl sulfate     stratum corneum     sulfate     sulfonate     surface tension     surfactant     syndets     synthetic detergents     temperature     thermal energy     transepidermal water loss     triglyceride     unsaturated     valence electrons     valence shell electron pair repulsion     water-in-oil    "
 },
 {
   "id": "refs-main",
@@ -1297,18 +1459,18 @@ var ptx_lunr_docs = [
   "body": " Jensen, D. A., Macinga, D. R., Shumaker, D. J., Bellino, R., Arbogast, J. W., & Schaffner, D. W. (2017). Quantifying the Effects of Water Temperature, Soap Volume, Lather Time, and Antimicrobial Soap as Variables in the Removal of Escherichia coli ATCC 11229 from Hands. Journal of Food Protection, 80(6), 1022–1031.   "
 },
 {
-  "id": "backmatter-3",
+  "id": "backmatter-4",
   "level": "1",
-  "url": "backmatter-3.html",
+  "url": "backmatter-4.html",
   "type": "Index",
   "number": "",
   "title": "Index",
   "body": " Index   "
 },
 {
-  "id": "backmatter-4",
+  "id": "backmatter-5",
   "level": "1",
-  "url": "backmatter-4.html",
+  "url": "backmatter-5.html",
   "type": "Colophon",
   "number": "",
   "title": "Colophon",
