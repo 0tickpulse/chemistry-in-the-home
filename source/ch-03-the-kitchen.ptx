@@ -3,8 +3,19 @@
 <chapter xml:id="ch-03-the-kitchen" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>The Kitchen</title>
 
+  <introduction>
+    <p>
+      In the first two chapters, we have been focusing on the basic chemical structures of household products.
+      Now we move to the kitchen, where exciting chemistry happens with the same structures.
+      Indeed, a major theme in this chapter is that molecules change their structure under certain conditions.
+      These changes are called chemical reactions, and they drive everything in the kitchen.
+    </p>
+  </introduction>
+
   <!-- include sections -->
   <xi:include href="./ch-03-the-kitchen/sec-heat-and-temperature.ptx"/>
   <xi:include href="./ch-03-the-kitchen/sec-water-and-lipids.ptx"/>
   <xi:include href="./ch-03-the-kitchen/sec-proteins-and-carbohydrates.ptx"/>
+  <xi:include href="./ch-03-the-kitchen/sec-ch-03-key-concepts.ptx"/>
+  <xi:include href="./ch-03-the-kitchen/sec-ch-03-additional-details.ptx"/>
 </chapter>

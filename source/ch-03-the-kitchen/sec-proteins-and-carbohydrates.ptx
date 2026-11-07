@@ -33,29 +33,13 @@
 
     <p>
       Just like in hair, the structures are created by the same forces <mdash/> weak hydrogen bonds, ionic salt bridges, and covalent disulfide bridges.
-      These bonds rely on specific atoms in different amino acids (disulfide bridges, for example, form between the <m>\ce{-SH}</m> atoms between two cysteine residues).
-    </p>
-  </subsection>
-
-  <subsection>
-    <title>Protein Structure is Hierarchical</title>
-
-    <p>
-      As you can see, protein structure is complicated.
-      In an effort to simplify how we analyze the structure of a protein, we describe it in different <q>levels</q>.
-      At the most basic level, we simply have a linear chain of amino acids, connected by covalent peptide bonds.
-      This is known as the <term>primary structure</term>.
-      <idx><h>protein structure</h><h>primary</h></idx>
+      These interactions may rely on specific atoms in different amino acids (disulfide bridges, for example, form between the <m>\ce{-SH}</m> atoms between two cysteine residues, as we discussed in <xref ref="subsec-disulfide-bridges-account-for-permanent-hair-curl"/>).
+      As different amino acids have slightly different atomic configurations, their interactions change in a way to modify how the protein is structured as a whole.
     </p>
 
-    <figure xml:id="fig-protein-primary-and-secondary-structure">
-      <caption>The primary and secondary structures of a protein. On the left, individual atoms are shown, and on the right, simplified visual descriptions are drawn.</caption>
-      <image source="images/ch-03-the-kitchen/sec-proteins-and-carbohydrates/protein-primary-and-secondary-structure.png" width="80%"/>
-    </figure>
-
     <p>
-      As the chain forms, it begins to fold in on itself.
-      Each amino acid has a polar <m>\ce{N-H}</m> bond (the hydrogen is slightly positive) and <m>\ce{C=O}</m> bond (the oxygen is slightly negative).
+      The details of protein structure are a bit complicated, but you can read more about it in <xref ref="subsec-protein-structure-is-hierarchical"/>.
+      As a result of these forces, proteins are some of the most structurally and functionally diverse molecules in biology.
     </p>
   </subsection>
 </section>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec-ch-03-additional-details" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Additional Details</title>
+
+  <subsection xml:id="subsec-protein-structure-is-hierarchical">
+    <title>Protein Structure is Hierarchical</title>
+
+    <p>
+      As you might see from the discussion in <xref ref="sec-proteins-and-carbohydrates"/>, protein structure is complicated.
+      There are an incredible amount of forces at play (try to recall all of them).
+      In an effort to simplify how we analyze the structure of a protein, we describe it in different <q>levels</q>.
+      At the most basic level, we simply have a linear chain of amino acids, connected by covalent peptide bonds.
+      This is known as the <term>primary structure</term>.
+      <idx><h>protein structure</h><h>primary</h></idx>
+    </p>
+
+    <p>
+      As the chain forms, it begins to fold in on itself.
+      Each amino acid has a polar <m>\ce{N-H}</m> bond (the hydrogen is slightly positive) and <m>\ce{C=O}</m> bond (the oxygen is slightly negative).
+    </p>
+
+    <figure xml:id="fig-protein-primary-and-secondary-structure">
+      <caption>The primary and secondary structures of a protein. On the left, individual atoms are shown, and on the right, simplified visual descriptions are drawn.</caption>
+      <image source="images/ch-03-the-kitchen/sec-proteins-and-carbohydrates/protein-primary-and-secondary-structure.png" width="80%"/>
+    </figure>
+  </subsection>
+</section>

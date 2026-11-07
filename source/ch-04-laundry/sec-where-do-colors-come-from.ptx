@@ -12,6 +12,10 @@
     <p>
       Where do colors actually come from?
     </p>
+
+    <p>
+      Our exploration of colors will naturally lead to a theory of how light works, as well as a description of chemical bonds called molecular orbital theory.
+    </p>
   </introduction>
 
   <subsection xml:id="subsec-light-is-a-wave">
@@ -174,8 +178,8 @@
 
       <solution>
         <p>
-          Looking at <xref ref="fig-color-wheel-yellow-blue"/>, chlorophyll absorbs violet light, which has a wavelength of about <quantity><mag>400</mag> <unit prefix="nano" base="meter" /></quantity>.
-          Interestingly, this is not entirely accurate <mdash /> chlorophyll actually absorbs both red and blue light, which mix to violet.
+          Looking at <xref ref="fig-color-wheel-yellow-blue"/>, chlorophyll absorbs the complementary color to green <mdash/> violet light, which has a wavelength of about <quantity><mag>400</mag> <unit prefix="nano" base="meter"/></quantity>.
+          Interestingly, this is not entirely accurate; chlorophyll actually absorbs both red and blue light, which mix to violet.
         </p>
       </solution>
     </example>
