@@ -21,7 +21,7 @@
 
     <p>
       Recall that keratin forms tight superhelical rope-like structures that make hair incredibly strong.
-      Yet, other proteins exist <mdash/> such as those in eggs and meat <mdash/> why then, do the proteins in meat not behave the same way as those in keratin?
+      Yet, other proteins exist <mdash/> such as those in eggs and meat <mdash/> why then, do eggs not behave in any way like hair?
     </p>
 
     <p>
@@ -41,5 +41,10 @@
       The details of protein structure are a bit complicated, but you can read more about it in <xref ref="subsec-protein-structure-is-hierarchical"/>.
       As a result of these forces, proteins are some of the most structurally and functionally diverse molecules in biology.
     </p>
+  </subsection>
+
+  <subsection xml:id="subsec-we-need-essential-amino-acids-from-our-diet">
+    <title>We Need Essential Amino Acids From Our Diet</title>
+
   </subsection>
 </section>
